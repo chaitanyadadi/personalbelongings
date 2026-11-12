@@ -1,0 +1,287 @@
+{
+ "updated": "2026-11-12T18:02:03+00:00",
+ "item_count": 143,
+ "stocks": [],
+ "editions": [
+  {
+   "at": "2026-11-12T18:02:03+00:00",
+   "new_count": 143,
+   "by_category": {
+    "official": 98,
+    "news": 0,
+    "buzz": 0,
+    "research": 13,
+    "tools": 32,
+    "market": 0
+   },
+   "brief": null
+  }
+ ],
+ "health": [
+  {
+   "name": "Anthropic news",
+   "category": "official",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "name": "Claude blog",
+   "category": "official",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "name": "Anthropic research",
+   "category": "research",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "name": "OpenAI",
+   "category": "official",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "name": "OpenAI developers",
+   "category": "official",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "name": "Google AI",
+   "category": "official",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "name": "Google DeepMind",
+   "category": "official",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='deepmind.google', port=443): Max retries exceeded with url: /blog/rss.xml (Caused by ProxyError('Unable to connect to proxy', OSError("
+  },
+  {
+   "name": "Google Keyword – AI",
+   "category": "official",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='blog.google', port=443): Max retries exceeded with url: /technology/ai/rss/ (Caused by ProxyError('Unable to connect to proxy', OSErro"
+  },
+  {
+   "name": "Meta AI",
+   "category": "official",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "name": "Mistral AI",
+   "category": "official",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "name": "xAI",
+   "category": "official",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "name": "Cohere",
+   "category": "official",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "name": "Perplexity",
+   "category": "official",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "name": "Hugging Face blog",
+   "category": "official",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /blog/feed.xml (Caused by ProxyError('Unable to connect to proxy', OSError("
+  },
+  {
+   "name": "NVIDIA blog",
+   "category": "official",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='blogs.nvidia.com', port=443): Max retries exceeded with url: /feed/ (Caused by ProxyError('Unable to connect to proxy', OSError('Tunne"
+  },
+  {
+   "name": "Microsoft AI blog",
+   "category": "official",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='blogs.microsoft.com', port=443): Max retries exceeded with url: /ai/feed/ (Caused by ProxyError('Unable to connect to proxy', OSError("
+  },
+  {
+   "name": "TechCrunch AI",
+   "category": "news",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='techcrunch.com', port=443): Max retries exceeded with url: /category/artificial-intelligence/feed/ (Caused by ProxyError('Unable to co"
+  },
+  {
+   "name": "The Verge AI",
+   "category": "news",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='www.theverge.com', port=443): Max retries exceeded with url: /rss/ai-artificial-intelligence/index.xml (Caused by ProxyError('Unable t"
+  },
+  {
+   "name": "VentureBeat AI",
+   "category": "news",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='venturebeat.com', port=443): Max retries exceeded with url: /category/ai/feed/ (Caused by ProxyError('Unable to connect to proxy', OSE"
+  },
+  {
+   "name": "MIT Technology Review",
+   "category": "news",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='www.technologyreview.com', port=443): Max retries exceeded with url: /topic/artificial-intelligence/feed (Caused by ProxyError('Unable"
+  },
+  {
+   "name": "Ars Technica AI",
+   "category": "news",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='arstechnica.com', port=443): Max retries exceeded with url: /ai/feed/ (Caused by ProxyError('Unable to connect to proxy', OSError('Tun"
+  },
+  {
+   "name": "The Batch (DeepLearning.AI)",
+   "category": "news",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "name": "Google News – Claude",
+   "category": "news",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=Anthropic+Claude+when%3A2d&hl=en-IN&gl=IN&ceid=IN:en (Caused"
+  },
+  {
+   "name": "Google News – Gemini",
+   "category": "news",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=Google+Gemini+AI+when%3A2d&hl=en-IN&gl=IN&ceid=IN:en (Caused"
+  },
+  {
+   "name": "Google News – OpenAI",
+   "category": "news",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=OpenAI+ChatGPT+when%3A2d&hl=en-IN&gl=IN&ceid=IN:en (Caused b"
+  },
+  {
+   "name": "Google News – India AI",
+   "category": "news",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=artificial+intelligence+India+when%3A2d&hl=en-IN&gl=IN&ceid="
+  },
+  {
+   "name": "Hacker News",
+   "category": "buzz",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='hn.algolia.com', port=443): Max retries exceeded with url: /api/v1/search_by_date?query=AI&tags=story&numericFilters=points%3E50%2Ccre"
+  },
+  {
+   "name": "r/LocalLLaMA",
+   "category": "buzz",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/LocalLLaMA/top/.rss?t=day (Caused by ProxyError('Unable to connect to pr"
+  },
+  {
+   "name": "r/singularity",
+   "category": "buzz",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/singularity/top/.rss?t=day (Caused by ProxyError('Unable to connect to p"
+  },
+  {
+   "name": "r/ClaudeAI",
+   "category": "buzz",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/ClaudeAI/top/.rss?t=day (Caused by ProxyError('Unable to connect to prox"
+  },
+  {
+   "name": "Google News – AI rumours",
+   "category": "buzz",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=AI+model+leak+OR+rumor+OR+reportedly+when%3A2d&hl=en-IN&gl=I"
+  },
+  {
+   "name": "Hugging Face daily papers",
+   "category": "research",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /api/daily_papers?limit=40 (Caused by ProxyError('Unable to connect to prox"
+  },
+  {
+   "name": "arXiv cs.AI / cs.CL / cs.LG",
+   "category": "research",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Max retries exceeded with url: /api/query?search_query=cat%3Acs.AI+OR+cat%3Acs.CL+OR+cat%3Acs.LG&sortBy="
+  },
+  {
+   "name": "Hugging Face trending models",
+   "category": "tools",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /api/models?sort=trendingScore&limit=30 (Caused by ProxyError('Unable to co"
+  },
+  {
+   "name": "GitHub – new AI repos",
+   "category": "tools",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "name": "Cursor blog",
+   "category": "tools",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "name": "Ollama blog",
+   "category": "tools",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "name": "Google News – AI funding",
+   "category": "market",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=AI+startup+raises+funding+valuation+when%3A2d&hl=en-IN&gl=IN"
+  },
+  {
+   "name": "Google News – AI IPO",
+   "category": "market",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=AI+IPO+OR+acquisition+OR+valuation+billion+when%3A2d&hl=en-I"
+  },
+  {
+   "name": "Crunchbase News AI",
+   "category": "market",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='news.crunchbase.com', port=443): Max retries exceeded with url: /sections/ai/feed/ (Caused by ProxyError('Unable to connect to proxy',"
+  }
+ ]
+}

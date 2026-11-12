@@ -1,0 +1,104 @@
+# ─────────────────────────────────────────────────────────────
+# AI Hub sources. Edit this file to add or remove sources.
+#
+# category must be one of:
+#   official  – official model / product updates from AI companies
+#   news      – headlines and articles from tech media
+#   buzz      – gossip, rumours, community chatter (shown as "unverified")
+#   research  – papers
+#   tools     – new models, repos and tools
+#   market    – funding, valuations, deals, IPOs
+#
+# type: rss | google_news | hn | hf_models | hf_papers | github | arxiv
+# A source that fails is skipped and shown as failed on the
+# "Source health" panel of the AI Hub page — nothing else breaks.
+# ─────────────────────────────────────────────────────────────
+
+keep_days: 30          # how many days of history to keep
+max_items_per_source: 25
+
+sources:
+  # ── Official updates (company blogs) ───────────────────────
+  # Many AI labs have no RSS feed of their own; the community project
+  # github.com/Olshansk/rss-feeds builds feeds for them every few hours.
+  - { name: Anthropic news,        type: rss, category: official, url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml" }
+  - { name: Claude blog,           type: rss, category: official, url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml" }
+  - { name: Anthropic research,    type: rss, category: research, url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml" }
+  - { name: OpenAI,                type: rss, category: official, url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_openai_main.xml" }
+  - { name: OpenAI developers,     type: rss, category: official, url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_openai_developer.xml" }
+  - { name: Google AI,             type: rss, category: official, url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_google_ai.xml" }
+  - { name: Google DeepMind,       type: rss, category: official, url: "https://deepmind.google/blog/rss.xml" }
+  - { name: Google Keyword – AI,   type: rss, category: official, url: "https://blog.google/technology/ai/rss/" }
+  - { name: Meta AI,               type: rss, category: official, url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml" }
+  - { name: Mistral AI,            type: rss, category: official, url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml" }
+  - { name: xAI,                   type: rss, category: official, url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_xainews.xml" }
+  - { name: Cohere,                type: rss, category: official, url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml" }
+  - { name: Perplexity,            type: rss, category: official, url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_perplexity_hub.xml" }
+  - { name: Hugging Face blog,     type: rss, category: official, url: "https://huggingface.co/blog/feed.xml" }
+  - { name: NVIDIA blog,           type: rss, category: official, url: "https://blogs.nvidia.com/feed/" }
+  - { name: Microsoft AI blog,     type: rss, category: official, url: "https://blogs.microsoft.com/ai/feed/" }
+
+  # ── Headlines and articles ─────────────────────────────────
+  - { name: TechCrunch AI,         type: rss, category: news, url: "https://techcrunch.com/category/artificial-intelligence/feed/" }
+  - { name: The Verge AI,          type: rss, category: news, url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" }
+  - { name: VentureBeat AI,        type: rss, category: news, url: "https://venturebeat.com/category/ai/feed/" }
+  - { name: MIT Technology Review, type: rss, category: news, url: "https://www.technologyreview.com/topic/artificial-intelligence/feed" }
+  - { name: Ars Technica AI,       type: rss, category: news, url: "https://arstechnica.com/ai/feed/" }
+  - { name: The Batch (DeepLearning.AI), type: rss, category: news, url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_the_batch.xml" }
+  - { name: Google News – Claude,  type: google_news, category: news, query: "Anthropic Claude" }
+  - { name: Google News – Gemini,  type: google_news, category: news, query: "Google Gemini AI" }
+  - { name: Google News – OpenAI,  type: google_news, category: news, query: "OpenAI ChatGPT" }
+  - { name: Google News – India AI, type: google_news, category: news, query: "artificial intelligence India" }
+
+  # ── Gossip, rumours and community buzz ─────────────────────
+  - { name: Hacker News,           type: hn, category: buzz, query: "AI OR LLM OR GPT OR Claude OR Gemini", min_points: 50 }
+  - { name: r/LocalLLaMA,          type: rss, category: buzz, url: "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day" }
+  - { name: r/singularity,         type: rss, category: buzz, url: "https://www.reddit.com/r/singularity/top/.rss?t=day" }
+  - { name: r/ClaudeAI,            type: rss, category: buzz, url: "https://www.reddit.com/r/ClaudeAI/top/.rss?t=day" }
+  - { name: Google News – AI rumours, type: google_news, category: buzz, query: "AI model leak OR rumor OR reportedly" }
+
+  # ── Research ───────────────────────────────────────────────
+  - { name: Hugging Face daily papers, type: hf_papers, category: research }
+  - { name: arXiv cs.AI / cs.CL / cs.LG, type: arxiv, category: research, query: "cat:cs.AI OR cat:cs.CL OR cat:cs.LG" }
+
+  # ── New models and tools ───────────────────────────────────
+  - { name: Hugging Face trending models, type: hf_models, category: tools }
+  - { name: GitHub – new AI repos, type: github, category: tools, query: "topic:llm OR topic:ai-agents OR topic:generative-ai" }
+  - { name: Cursor blog,           type: rss, category: tools, url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cursor.xml" }
+  - { name: Ollama blog,           type: rss, category: tools, url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_ollama.xml" }
+
+  # ── Market: funding, valuations, deals ─────────────────────
+  - { name: Google News – AI funding, type: google_news, category: market, query: "AI startup raises funding valuation" }
+  - { name: Google News – AI IPO,  type: google_news, category: market, query: "AI IPO OR acquisition OR valuation billion" }
+  - { name: Crunchbase News AI,    type: rss, category: market, url: "https://news.crunchbase.com/sections/ai/feed/" }
+
+# Stock prices shown on the Market strip (Yahoo Finance tickers).
+# Add Indian stocks with the .NS suffix, e.g. "TCS.NS", "INFY.NS".
+stocks:
+  - { ticker: NVDA,  name: NVIDIA }
+  - { ticker: MSFT,  name: Microsoft }
+  - { ticker: GOOGL, name: Alphabet }
+  - { ticker: AMZN,  name: Amazon }
+  - { ticker: META,  name: Meta }
+  - { ticker: AAPL,  name: Apple }
+  - { ticker: AMD,   name: AMD }
+  - { ticker: TSM,   name: TSMC }
+  - { ticker: AVGO,  name: Broadcom }
+  - { ticker: ORCL,  name: Oracle }
+  - { ticker: PLTR,  name: Palantir }
+
+# Company tags: an item gets a tag when its title/summary matches.
+# The AI Hub lets you filter by these (e.g. show only Claude news).
+companies:
+  Anthropic: ["anthropic", "claude"]
+  OpenAI:    ["openai", "chatgpt", "gpt-", "sora", "codex"]
+  Google:    ["gemini", "deepmind", "google ai", "gemma", "bard"]
+  Meta:      ["meta ai", "llama"]
+  xAI:       ["xai", "grok"]
+  Microsoft: ["microsoft", "copilot", "azure ai"]
+  NVIDIA:    ["nvidia"]
+  Mistral:   ["mistral"]
+  DeepSeek:  ["deepseek"]
+  Alibaba:   ["qwen", "alibaba"]
+  Apple:     ["apple intelligence", "apple ai"]
+  Amazon:    ["amazon", "aws", "nova"]

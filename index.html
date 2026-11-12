@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chaitanya</title>
+  <meta name="description" content="Chaitanya, Power BI developer. Skills, interests, favourites, wishlist and a twice-daily AI Hub.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&display=swap" rel="stylesheet">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="index.html"><i aria-hidden="true"></i><span data-field="name">Chaitanya</span></a>
+      <nav class="site-nav" aria-label="Main">
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#interests">Interests</a>
+        <a href="#favorites">Favourites</a>
+        <a href="#wishlist">Wishlist</a>
+        <a href="ai.html">AI Hub</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="wrap">
+        <div>
+          <h1 data-field="name">Chaitanya</h1>
+          <p class="role"><mark data-field="role">Power BI developer</mark></p>
+          <p class="tagline" data-field="tagline"></p>
+          <div class="links" id="links"></div>
+        </div>
+
+        <aside class="pulse" aria-labelledby="pulse-title">
+          <h2 id="pulse-title">Latest in AI</h2>
+          <p class="meta" id="pulse-updated">Loading the AI Hub…</p>
+          <ol id="pulse-list"></ol>
+          <a class="button" href="ai.html">Open the AI Hub</a>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section" id="about">
+      <div class="wrap section-head">
+        <h2>About</h2>
+        <div class="about" id="about-body"></div>
+      </div>
+    </section>
+
+    <section class="section" id="skills">
+      <div class="wrap section-head">
+        <h2>Skills</h2>
+        <div class="skills" id="skills-body"></div>
+      </div>
+    </section>
+
+    <section class="section" id="interests">
+      <div class="wrap section-head">
+        <h2>Interests</h2>
+        <div class="grid-cards" id="interests-body"></div>
+      </div>
+    </section>
+
+    <section class="section" id="favorites">
+      <div class="wrap section-head">
+        <h2>Favourites</h2>
+        <div class="favorites" id="favorites-body"></div>
+      </div>
+    </section>
+
+    <section class="section" id="wishlist">
+      <div class="wrap section-head">
+        <h2>Wishlist</h2>
+        <ul class="wishlist" id="wishlist-body"></ul>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">Built with Claude. The AI Hub refreshes itself at 7 AM and 7 PM IST.</div>
+  </footer>
+
+  <script src="assets/common.js"></script>
+  <script src="assets/home.js"></script>
+</body>
+</html>

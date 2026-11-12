@@ -1,0 +1,1930 @@
+[
+{
+"id": "0990939c7d6e",
+"title": "Holiday Extras is rethinking what it can build with Codex",
+"url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-12T09:30:00+00:00",
+"summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "5b59c75a11e5",
+"title": "Operate Claude Managed Agents inside your security perimeter",
+"url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-11-12T00:00:00+00:00",
+"summary": "Introducing self-hosted Claude Managed Agents. Now you can run agents in your own environment, whether that’s in your own cloud or on-premise. You host the agents, credentials, and session history, and choose where requests to Claude are sent.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "103f6398ed67",
+"title": "J. Crew brings its signature approach to styling to life with Claude",
+"url": "https://claude.com/resources/articles/j-crew-style-advisor-with-claude",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-11-12T00:00:00+00:00",
+"summary": "J.Crew's new Style Advisor uses Claude to offer a more personalized way to shop online, with complete looks instead of individual products.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "e89c62d75061",
+"title": "The Claude Tag guide for startups",
+"url": "https://claude.com/resources/articles/claude-tag-guide-for-startups",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-11-12T00:00:00+00:00",
+"summary": "How leading startups use Claude Tag to ship faster and scale operations",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "6b5db77df3bf",
+"title": "Introducing Claude for Manufacturing",
+"url": "https://claude.com/resources/articles/claude-for-manufacturing",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-11-12T00:00:00+00:00",
+"summary": "A new plugin with 17 skills and four connectors helps manufacturers draft quotes, quality reports, and supplier requests from the systems they already run.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "f28f90d2895a",
+"title": "Gilbert + Tobin rethinks the business of law with AI",
+"url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-12T00:00:00+00:00",
+"summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "b06379671ede",
+"title": "Supporting research on AI and children’s safety",
+"url": "https://openai.com/index/children-first-declaration",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-12T00:00:00+00:00",
+"summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "6578ed46a2a1",
+"title": "Welcoming Jaya Baloo as Cohere's First CISO",
+"url": "https://cohere.com/blog/cohere-welcomes-jaya-baloo-as-first-ciso",
+"source": "Cohere",
+"category": "official",
+"published": "2026-11-12T00:00:00+00:00",
+"summary": "The cybersecurity leader and AISLE co-founder joins Cohere to help build the world's most trusted platform for sovereign AI",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "80b38ea7da37",
+"title": "ChatGPT Plus for veterans and servicemembers",
+"url": "https://openai.com/index/chatgpt-plus-for-veterans",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-11T08:00:00+00:00",
+"summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "8c999d6885d2",
+"title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+"url": "https://openai.com/index/jiostar-vijay-seshadri",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-11T00:00:00+00:00",
+"summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "35b7c55903fb",
+"title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
+"url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+"source": "Google AI",
+"category": "official",
+"published": "2026-11-11T00:00:00+00:00",
+"summary": "A2UI 1.0 is an open protocol for generative UI that enables AI agents to render interactive, native screens across web, mobile, and desktop applications. Developers can leverage open-source renderer SDKs—including React, Angular, Lit, Flutter, SwiftUI, and Jetpack…",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "46ecb159c153",
+"title": "Helping caregivers use AI in everyday life",
+"url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-10T12:00:00+00:00",
+"summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "2cb4f31b0883",
+"title": "Cursor Projects is now multiplayer",
+"url": "https://cursor.com/blog/projects-multiplayer",
+"source": "Cursor blog",
+"category": "tools",
+"published": "2026-11-10T12:00:00+00:00",
+"summary": "",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "5ca4dc7b6d88",
+"title": "Introducing Businesses in ChatGPT",
+"url": "https://openai.com/index/introducing-businesses-chatgpt",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-10T10:00:00+00:00",
+"summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "01a8528fa117",
+"title": "Closing the AI guidance gap in education",
+"url": "https://openai.com/index/closing-ai-guidance-gap-education",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-10T09:00:00+00:00",
+"summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "4e3e5904c85a",
+"title": "Singapore Airlines elevates travel & work with OpenAI technology",
+"url": "https://openai.com/index/singapore-airlines-travel-work",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-10T08:00:00+00:00",
+"summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "3588ceed4155",
+"title": "Work at the Frontier: AI’s effect on freelance work",
+"url": "https://openai.com/index/ai-effect-on-freelance-work",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-10T07:00:00+00:00",
+"summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "85a32fe1244f",
+"title": "Anthropic launches roadshow for proposed initial public offering",
+"url": "https://www.anthropic.com/news/roadshow-launch",
+"source": "Anthropic news",
+"category": "official",
+"published": "2026-11-10T00:00:00+00:00",
+"summary": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "7737e173e31a",
+"title": "Introducing Claude Whiteboards, Claude Sheets, and Claude Data",
+"url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-11-10T00:00:00+00:00",
+"summary": "Now you can brainstorm on whiteboards, build sheets, and share data directly in Claude.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "45561964eabb",
+"title": "More ways to work with Claude: Sheets, Whiteboards, and Interactive Connectors",
+"url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-11-10T00:00:00+00:00",
+"summary": "Work at the speed of thought",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "eb06b7a71ce1",
+"title": "Your apps can now open in Claude, and Claude can work in them",
+"url": "https://claude.com/resources/articles/interactive-connectors-full-tool",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-11-10T00:00:00+00:00",
+"summary": "Our partners can now embed their apps directly in Claude, so you and Claude can work in the same tool, on the same screen, without switching tabs.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "3180dbea1b88",
+"title": "How Curative is building a national provider network with agents on Claude",
+"url": "https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-11-10T00:00:00+00:00",
+"summary": "Curative’s deal-making agent negotiates 2,000+ provider contracts a week.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "1ff74ee2cb10",
+"title": "Cogent and OpenAI build cyber defense factories for enterprises",
+"url": "https://openai.com/index/cogent-security",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-10T00:00:00+00:00",
+"summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "1419860e9cea",
+"title": "Pushing voice agents further: inside four GPT-Live builds",
+"url": "https://developers.openai.com/blog/pushing-voice-agents-further",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-10T00:00:00+00:00",
+"summary": "A startup showcase on how teams delegate work, prompt for voice, and evaluate what happens in real conversations.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "9bfd9c1f738f",
+"title": "On-Device Speech Recognition and Text-to-Speech in Google AI Edge Gallery",
+"url": "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
+"source": "Google AI",
+"category": "official",
+"published": "2026-11-10T00:00:00+00:00",
+"summary": "Google AI Edge Gallery now supports on-device, offline Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) capabilities for building developer-friendly voice applications. Developers can leverage ML Kit for optimized Android performance, or use MediaPipe Tasks and LiteRT…",
+"companies": [
+"Google"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "9d8099e6e6ef",
+"title": "alexeyw/lot-map",
+"url": "https://github.com/alexeyw/lot-map",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-11-09T19:13:52+00:00",
+"summary": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages. (554 stars)",
+"score": 554,
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "9c331579e229",
+"title": "ChatGPT Enterprise now available in AWS Marketplace",
+"url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-09T19:00:00+00:00",
+"summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+"companies": [
+"OpenAI",
+"Amazon"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "586d37dc5945",
+"title": "Dodaios/ste80-humanizer",
+"url": "https://github.com/Dodaios/ste80-humanizer",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-11-09T17:18:59+00:00",
+"summary": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared. (447 stars)",
+"score": 447,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "5d57e1aa0817",
+"title": "Introducing Control Room: Human control over AI workloads",
+"url": "https://openai.com/index/introducing-control-room",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-09T13:00:00+00:00",
+"summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "f37b680abcf7",
+"title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+"url": "https://openai.com/index/control-room",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-09T13:00:00+00:00",
+"summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "932fe34bad72",
+"title": "Kuken Industries searches 70 years of drawings in minutes",
+"url": "https://openai.com/index/kuken",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-09T08:00:00+00:00",
+"summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "23b94c697622",
+"title": "CodeRabbit scales agentic software development and ships 20x more",
+"url": "https://openai.com/index/coderabbit-codex-daybreak",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-09T08:00:00+00:00",
+"summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "4d58a71c284d",
+"title": "agentes-chat/agentes-chat",
+"url": "https://github.com/agentes-chat/agentes-chat",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-11-09T00:50:28+00:00",
+"summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker…",
+"score": 1024,
+"companies": [
+"Anthropic",
+"OpenAI",
+"Google",
+"xAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "796a7f7ee338",
+"title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+"url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+"source": "Anthropic news",
+"category": "official",
+"published": "2026-11-09T00:00:00+00:00",
+"summary": "Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "ce5ea4c26464",
+"title": "Claude can design electronic prototypes from start to finish",
+"url": "https://www.anthropic.com/research/claude-electronics-design",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-11-09T00:00:00+00:00",
+"summary": "We asked Claude to design three electronic devices: a speakerphone, a voice-assistant hub, and a handheld virtual pet. The prototypes worked without any fixes to their circuitry.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "d5f14a6242b0",
+"title": "Which Claude model should you build with?",
+"url": "https://claude.dev/blog/which-claude-model-should-you-build-with/",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-11-09T00:00:00+00:00",
+"summary": "How to choose between Claude Fable 5.2, Opus 5.5, Sonnet 5.5, and Haiku 5.5 by task, cost, and effort level.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "62afb1e0ab94",
+"title": "Safely scaling multi-agent teams with Claude Fable 5.2",
+"url": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-11-09T00:00:00+00:00",
+"summary": "How a team of 1,000 agents running an early version of Claude Fable 5.2 reproduced a formal proof of Fermat's Last Theorem with general tools, a shared database, and layered safety controls.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "418fd0c9fee6",
+"title": "JPMorganChase expands Claude Code to more employees across the firm",
+"url": "https://claude.com/resources/articles/jpmorganchase-expands-claude-code",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-11-09T00:00:00+00:00",
+"summary": "JPMorganChase expands Claude Code to more employees across the firm",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "af23efeb5248",
+"title": "Building a retro handheld game with Codex and ModRetro Chromatic",
+"url": "https://developers.openai.com/blog/build-a-game-with-modretro-chromatic",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-09T00:00:00+00:00",
+"summary": "Using the ModRetro Chromatic plugin for Codex, you can build any game you can imagine and play it on a ModRetro Chromatic.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "c0cefde0d0d2",
+"title": "What is Pathways? Single-controller training for large models",
+"url": "https://developers.googleblog.com/what-is-pathways-single-controller-training-for-large-models/",
+"source": "Google AI",
+"category": "official",
+"published": "2026-11-09T00:00:00+00:00",
+"summary": "Pathways is a single-controller distributed training system designed to coordinate large-scale model training across multiple accelerator groups by representing computations as a global dataflow graph. Unlike traditional SPMD models like DDP and FSDP that rely on synchronous…",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "284865feac70",
+"title": "From prompt to app: Build with Google Maps in AI Studio",
+"url": "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
+"source": "Google AI",
+"category": "official",
+"published": "2026-11-09T00:00:00+00:00",
+"summary": "Developers can now build applications powered by Google Maps Platform directly within Google AI Studio by prompting Gemini with real-world geospatial concepts. The integration eliminates traditional configuration hurdles by providing one-click demo keys that generate instantly…",
+"companies": [
+"Google"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "d2b711c4c75d",
+"title": "Announcing Long-Context Training on TPUs with MaxText Context Parallelism",
+"url": "https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
+"source": "Google AI",
+"category": "official",
+"published": "2026-11-09T00:00:00+00:00",
+"summary": "Google Cloud's MaxText framework now supports long-context training up to 14 million tokens on Cloud TPUs by implementing four context-parallel strategies: All-gather, A2A, P2P, and USP. Powered by the Tokamax Splash Attention kernel, these strategies effectively manage…",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "daeceecf7744",
+"title": "dabingfy-dot/solo-to-team-skills",
+"url": "https://github.com/dabingfy-dot/solo-to-team-skills",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-11-07T01:36:28+00:00",
+"summary": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。 (769 stars)",
+"score": 769,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "cf85162be8fb",
+"title": "dhruvthakur11/youtube-ai-video-editing-system",
+"url": "https://github.com/dhruvthakur11/youtube-ai-video-editing-system",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-11-06T21:33:17+00:00",
+"summary": "Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow (386 stars)",
+"score": 386,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "d6d8d45964ad",
+"title": "shanselman/sandbox-mcp",
+"url": "https://github.com/shanselman/sandbox-mcp",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-11-06T19:02:14+00:00",
+"summary": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox (419 stars)",
+"score": 419,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "bc8f9eac1966",
+"title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+"url": "https://openai.com/index/partnering-with-hacktron",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-06T08:00:00+00:00",
+"summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "594105e3c519",
+"title": "The components of agent memory",
+"url": "https://www.anthropic.com/research/components-of-agent-memory",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-11-06T00:00:00+00:00",
+"summary": "For Claude to learn from experience, it has to decide what's worth remembering before it knows what's next. Here's how \"dreaming\" helps it organize memory and correct mistakes.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "e214d358f05d",
+"title": "Teaching AI to build scientific models",
+"url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+"source": "Anthropic research",
+"category": "research",
+"published": "2026-11-06T00:00:00+00:00",
+"summary": "In this guest post, Jakob Macke, Daniel Gedon, and Stefan Wahl discuss how AI is starting to change the scientific modeling process, from construction to interpretation.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "cfd4354afa14",
+"title": "Measuring how AI agents handle everyday wet-lab science",
+"url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-06T00:00:00+00:00",
+"summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "ca044c8f8cfa",
+"title": "Agent Distraction",
+"url": "https://developers.googleblog.com/agent-distraction/",
+"source": "Google AI",
+"category": "official",
+"published": "2026-11-06T00:00:00+00:00",
+"summary": "Analysis of over 913,000 coding agent sessions reveals that 13% expose agents to inline TODO(b/...) comments. In 6% of encounters, agents act on these comments, with 83% being entirely unprompted by the developer. These detours result in significant overhead—adding 70% more…",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "94e71a77453c",
+"title": "voyager-so/vork",
+"url": "https://github.com/voyager-so/vork",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-11-05T22:37:07+00:00",
+"summary": "Headless 3D and VFX engine for agents. Research preview. (1,492 stars)",
+"score": 1492,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "c7c3ff9c5f9f",
+"title": "yucezerey/turkish-anti-ai-skill",
+"url": "https://github.com/yucezerey/turkish-anti-ai-skill",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-11-05T20:08:28+00:00",
+"summary": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi. (307 stars)",
+"score": 307,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "c88b52d0b210",
+"title": "Cult.fit builds operational muscle with Codex",
+"url": "https://openai.com/index/cultfit-builds-with-codex",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-05T20:00:00+00:00",
+"summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "b58fee4edbbb",
+"title": "Australian universities are creating AI-native graduates",
+"url": "https://openai.com/index/australian-universities-ai-native-graduates",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-05T17:00:00+00:00",
+"summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "353d1cbf5681",
+"title": "JosssphZhou/poki",
+"url": "https://github.com/JosssphZhou/poki",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-11-05T15:04:31+00:00",
+"summary": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware. (1,022 stars)",
+"score": 1022,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "1184d3a025fd",
+"title": "Le Chonk brings the brains. Studio puts it to work.",
+"url": "https://mistral.ai/news/build-with-studio",
+"source": "Mistral AI",
+"category": "official",
+"published": "2026-11-05T12:00:14+00:00",
+"summary": "Build and deploy enterprise agents, workflows and apps faster with Mistral Studio and Le Chonk full control over your models, data and infrastructure.",
+"companies": [
+"Mistral"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "53c56afbaf05",
+"title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+"url": "https://openai.com/index/introducing-gpt-6-cyber",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-05T09:00:00+00:00",
+"summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "300d91101f21",
+"title": "Merge builds product and business tools with OpenAI technology",
+"url": "https://openai.com/index/merge-builds-with-openai",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-05T08:00:00+00:00",
+"summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "f93567576105",
+"title": "Setting a new standard for responsible AI infrastructure",
+"url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+"source": "OpenAI",
+"category": "official",
+"published": "2026-11-05T02:00:00+00:00",
+"summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "00183b004892",
+"title": "Introducing Personal Finance in Claude",
+"url": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-11-05T00:00:00+00:00",
+"summary": "Ask Claude about your money and get straight answers from the accounts you connect.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "94b7888e188f",
+"title": "More visibility and control over Claude Enterprise for security teams",
+"url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-11-05T00:00:00+00:00",
+"summary": "More visibility and control over Claude Enterprise for security teams",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "3b78672d47e1",
+"title": "AI for scientific discovery: How researchers use Claude",
+"url": "https://www.anthropic.com/research/how-researchers-use-claude",
+"source": "Anthropic research",
+"category": "research",
+"published": "2026-11-05T00:00:00+00:00",
+"summary": "We analyzed 207,000 research sessions to learn how Claude is used in science, why some tasks get more use than others, and how AI could speed up discovery.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "2b1eea4885c0",
+"title": "TIGER-AI-Lab/WebsiteBench",
+"url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-11-04T12:58:50+00:00",
+"summary": "Can AI agents rebuild websites through browser exploration? (273 stars)",
+"score": 273,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "58a090b4c911",
+"title": "New agents and products for security, productivity, and creative work on Claude Marketplace",
+"url": "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-11-04T00:00:00+00:00",
+"summary": "New agents and products for security, productivity, and creative work on Claude Marketplace",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "14329e9984c2",
+"title": "Investigating vault particles with Claude",
+"url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+"source": "Anthropic research",
+"category": "research",
+"published": "2026-11-04T00:00:00+00:00",
+"summary": "We’re sharing another finding from Anthropic’s biology research lab: the first 3D structure of a vault particle found in prokaryotic cells. Here, we describe how Claude helped at each step of this research.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "a655af3d86e9",
+"title": "Embed 5 and Rerank 5 now on OpenRouter",
+"url": "https://cohere.com/blog/embed-rerank-5-openrouter",
+"source": "Cohere",
+"category": "official",
+"published": "2026-11-04T00:00:00+00:00",
+"summary": "Access Cohere’s state-of-the-art retrieval models through a single API, with unified billing and no additional SDKs.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "78e219711e82",
+"title": "kubai087/kubai-icons",
+"url": "https://github.com/kubai087/kubai-icons",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-11-03T09:52:39+00:00",
+"summary": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse them. (781 stars)",
+"score": 781,
+"companies": [
+"Anthropic",
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "836c722655cf",
+"title": "Sandflow-ai/sand3d",
+"url": "https://github.com/Sandflow-ai/sand3d",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-11-03T08:23:03+00:00",
+"summary": "3D modeling in Python, built for LLMs. (1,912 stars)",
+"score": 1912,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "969dd462482a",
+"title": "KKKKhazix/agent-autoloop",
+"url": "https://github.com/KKKKhazix/agent-autoloop",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-11-03T08:02:11+00:00",
+"summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 (4,738 stars)",
+"score": 4738,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "de5d8c3372c2",
+"title": "Cost per task: Using cheap classifiers to route across Gemini models and thinking levels",
+"url": "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
+"source": "Google AI",
+"category": "official",
+"published": "2026-11-03T00:00:00+00:00",
+"summary": "Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing....",
+"companies": [
+"Google"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "31c683b8a61d",
+"title": "The world's leading open models, fully under your control",
+"url": "https://cohere.com/blog/open-source-model-vault",
+"source": "Cohere",
+"category": "official",
+"published": "2026-11-03T00:00:00+00:00",
+"summary": "The right model for the right job, all under your jurisdiction.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "3c40bebd5240",
+"title": "expo/exact",
+"url": "https://github.com/expo/exact",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-11-02T01:29:01+00:00",
+"summary": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them. (3,275 stars)",
+"score": 3275,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "62ae9381c5a0",
+"title": "Make long-running agents faster with message threads",
+"url": "https://claude.com/resources/articles/message-threads",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-11-02T00:00:00+00:00",
+"summary": "New in the Messages API, send your conversation once, and the API receives only what’s new with every turn.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "d94c9f77ddaf",
+"title": "Progress on provable inference for large language models",
+"url": "https://www.anthropic.com/research/provable-inference",
+"source": "Anthropic research",
+"category": "research",
+"published": "2026-11-02T00:00:00+00:00",
+"summary": "We have made progress on a type of cryptographic proof known as a “zkSNARK.” In this post, we share some of that progress, primarily through a system we call FlashProve.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "2591bdc40799",
+"title": "Balanov/uncut",
+"url": "https://github.com/Balanov/uncut",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-11-01T17:19:30+00:00",
+"summary": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts. (266 stars)",
+"score": 266,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "9dafa2ce1b9a",
+"title": "duyunzhoudyz/dyz-med-paper-skills",
+"url": "https://github.com/duyunzhoudyz/dyz-med-paper-skills",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-11-01T14:57:55+00:00",
+"summary": "医学论文写作与科研助手：面向中国医生和医学研究生的 32 个 Agent Skills，适用于 Claude Code、Codex，覆盖选题、PubMed 文献检索、中英写作、选刊投稿与审稿修回。Medical writing & research skills. (369 stars)",
+"score": 369,
+"companies": [
+"Anthropic",
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "6733458f905e",
+"title": "SAOS-3624/dsh-see-now",
+"url": "https://github.com/SAOS-3624/dsh-see-now",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-11-01T13:32:34+00:00",
+"summary": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token (608 stars)",
+"score": 608,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "a4047e79a1d6",
+"title": "zaxiu88888/issue-rag",
+"url": "https://github.com/zaxiu88888/issue-rag",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-11-01T11:32:25+00:00",
+"summary": "RAG over GitHub issues, with a hand-reviewed eval set and an audit of the judge itself. Reports the interval, not just the best number. (322 stars)",
+"score": 322,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "a63e1f4b6ebf",
+"title": "Interactive-Active-AI/NextTransformer",
+"url": "https://github.com/Interactive-Active-AI/NextTransformer",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-10-31T07:46:13+00:00",
+"summary": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers/LLM, with compute-matched benchmarking and a platform for autonomous architecture research. (407 stars)",
+"score": 407,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "39e994344746",
+"title": "RunanywhereAI/trnrt",
+"url": "https://github.com/RunanywhereAI/trnrt",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-10-30T18:30:04+00:00",
+"summary": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere. (1,556 stars)",
+"score": 1556,
+"companies": [
+"OpenAI",
+"Amazon"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "5a1c4665dfba",
+"title": "Juneo-Lab/decision-forge",
+"url": "https://github.com/Juneo-Lab/decision-forge",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-10-30T17:35:48+00:00",
+"summary": "Compile organizational policy into verifiable decision training data. (322 stars)",
+"score": 322,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "244d2e2d102a",
+"title": "Pluviobyte/saas-growth-agents",
+"url": "https://github.com/Pluviobyte/saas-growth-agents",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-10-30T15:47:16+00:00",
+"summary": "Hand your SaaS growth chores to an agent: new-term radar, keyword-to-site discovery, competitor backlinks, directory submissions, plus a social analysis pack with a Douyin comments skill. Works with Grok Bot, Muse, Dot, Hermes, OpenClaw, Claude Code and Codex. (531 stars)",
+"score": 531,
+"companies": [
+"Anthropic",
+"OpenAI",
+"xAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "a5af043ff573",
+"title": "N1nEmAn/sapper-v2",
+"url": "https://github.com/N1nEmAn/sapper-v2",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-10-30T15:12:35+00:00",
+"summary": "The first fruit of the Nüwa tree — an autonomous AI pentest legion (634-team champion, 8h unattended, 1B tokens beat 4.5B). Not just a tool: evolvable by design. Grow your own fruit on the Nüwa Foundation (Create/Language/History). (2,018 stars)",
+"score": 2018,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "d6c4008e66c9",
+"title": "aa1143/NamiAgent",
+"url": "https://github.com/aa1143/NamiAgent",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-10-30T11:03:30+00:00",
+"summary": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent (510 stars)",
+"score": 510,
+"companies": [
+"Anthropic",
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "08579bcdcf2a",
+"title": "poco-ai/agentero-dsh-plugin",
+"url": "https://github.com/poco-ai/agentero-dsh-plugin",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-10-30T05:09:52+00:00",
+"summary": "给 DeepSeek Harness 用的科研文献库插件：搜论文、带出处、审批入库、把笔记线索交给同会话其他插件。Academic research library for DSH — search, cite, approve imports, hand off notes. (209 stars)",
+"score": 209,
+"companies": [
+"DeepSeek"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "f9f11eb14dc0",
+"title": "Cohere advances C$4 billion commitment to strengthen Canada’s AI leadership and significantly expand its national workforce",
+"url": "https://cohere.com/blog/cohere-canada-commitment",
+"source": "Cohere",
+"category": "official",
+"published": "2026-10-30T00:00:00+00:00",
+"summary": "Cohere advances C$4 billion commitment to strengthen Canada’s AI leadership and significantly expand its national workforce",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "8ccea7e89b70",
+"title": "Le Chonk: Built for Coders, Trusted by Defenders.",
+"url": "https://mistral.ai/news/mistral-large-4-oss",
+"source": "Mistral AI",
+"category": "official",
+"published": "2026-10-29T12:00:07+00:00",
+"summary": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
+"companies": [
+"Mistral"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "f5c413d73956",
+"title": "Security notice — malicious version of Anthropic.claude-code (2.1.312 and 2.1.313) identified in the Cursor VS Code Extension Marketplace",
+"url": "https://cursor.com/blog/claude-code-extension-security-notice",
+"source": "Cursor blog",
+"category": "tools",
+"published": "2026-10-29T12:00:00+00:00",
+"summary": "",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "b0d16b78d77a",
+"title": "Build Generative UI Apps with A2UI & CopilotKit Agents",
+"url": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
+"source": "Google AI",
+"category": "official",
+"published": "2026-10-29T00:00:00+00:00",
+"summary": "See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI.",
+"companies": [
+"Microsoft",
+"Amazon"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "e827d3360a1e",
+"title": "Who Gets to Build the Frontier for AI",
+"url": "https://cohere.com/blog/who-gets-to-build-the-frontier-for-ai",
+"source": "Cohere",
+"category": "official",
+"published": "2026-10-29T00:00:00+00:00",
+"summary": "Who Gets to Build the Frontier for AI",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "cc85fff07433",
+"title": "Build a financial research assistant with Cohere on AWS",
+"url": "https://cohere.com/blog/financial-research-assistant-cohere-aws",
+"source": "Cohere",
+"category": "official",
+"published": "2026-10-29T00:00:00+00:00",
+"summary": "Build a financial research assistant with Cohere on AWS",
+"companies": [
+"Amazon"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "ad10900db6cd",
+"title": "AI for Science expands to foundations and research institutions",
+"url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+"source": "Anthropic news",
+"category": "official",
+"published": "2026-10-28T00:00:00+00:00",
+"summary": "We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "cba4e4e6bf9f",
+"title": "Smart reports, surveys, and pooled group budgets for Claude Enterprise",
+"url": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-10-28T00:00:00+00:00",
+"summary": "In many organizations, members have identified the unique work that Claude can unlock. The next step is expanding that work to every team.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "3cfd7e486253",
+"title": "Introducing artifacts for legal work",
+"url": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-10-28T00:00:00+00:00",
+"summary": "Claude for Legal now includes ready-to-use artifacts for legal work that teams can adapt with their own data and connectors, and share across the business.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "064f3e7c0304",
+"title": "IDC brings Quanta into Claude and adopts Claude across the company",
+"url": "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-10-28T00:00:00+00:00",
+"summary": "IDC integrated Claude as part of its Quanta platform, and it has rolled Claude out across its own business",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "0e6a065233b2",
+"title": "Smaller apps and faster GPU inference with LiteRT in Google Play services",
+"url": "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/",
+"source": "Google AI",
+"category": "official",
+"published": "2026-10-28T00:00:00+00:00",
+"summary": "LiteRT in Google Play services now offers GPU inference powered by ML Drift, delivering about 1.4x faster performance alongside the new CompiledModel API. Switching from bundled binaries reduces app size by approximately 8 MB while enabling seamless, automatic runtime updates…",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "65a08b362ab4",
+"title": "Hill-Climbing Agent Quality with Agents CLI Evaluation",
+"url": "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
+"source": "Google AI",
+"category": "official",
+"published": "2026-10-28T00:00:00+00:00",
+"summary": "This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps using side-by-side trace comparisons, and automate…",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "fdf27bf9960b",
+"title": "Early progress on accelerating drug development with Claude",
+"url": "https://www.anthropic.com/research/early-progress-drug-development",
+"source": "Anthropic news",
+"category": "official",
+"published": "2026-10-27T00:00:00+00:00",
+"summary": "We're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "16faca12f964",
+"title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+"url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+"source": "Anthropic news",
+"category": "official",
+"published": "2026-10-27T00:00:00+00:00",
+"summary": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "728afeb9147d",
+"title": "Manage costs and demonstrate ROI for Claude Code on Google Cloud",
+"url": "https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-10-27T00:00:00+00:00",
+"summary": "Best practices for managing costs and measuring return on investment for Claude Code on Google Cloud.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "7e8eb7c474c4",
+"title": "Claude for Financial Advisors",
+"url": "https://claude.com/resources/articles/claude-for-financial-advisors",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-10-27T00:00:00+00:00",
+"summary": "Financial advisors can now connect Claude to the custodians, portfolio platforms, CRMs, and planning tools they depend on, along with new skills tailored to the daily work of a financial advisor.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "543233bf7b25",
+"title": "How AI agents shape experts’ judgment calls",
+"url": "https://www.anthropic.com/research/agents-judgment-calls",
+"source": "Anthropic research",
+"category": "research",
+"published": "2026-10-27T00:00:00+00:00",
+"summary": "As AI does more of the hands-on work, the hope is that experts still make the judgment calls, meaning the decisions with more than one defensible answer. We tested this with 50 professional analysts who did a statistical analysis with Claude Code. On each key decision, we…",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "938e2958153c",
+"title": "Using Codex for education at Dagster Labs",
+"url": "https://developers.openai.com/blog/codex-for-documentation-dagster",
+"source": "OpenAI developers",
+"category": "official",
+"published": "2026-10-27T00:00:00+00:00",
+"summary": "Learn how Dagster uses Codex in their open-source projects to accelerate documentation, translate content across mediums, and even measure how complete their docs are.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "edf59637f599",
+"title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+"url": "https://www.anthropic.com/news/s1-sec",
+"source": "Anthropic news",
+"category": "official",
+"published": "2026-10-26T00:00:00+00:00",
+"summary": "Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "24f8c924a60c",
+"title": "Expanding Claude for Nonprofits",
+"url": "https://claude.com/resources/articles/expanding-claude-for-nonprofits",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-10-26T00:00:00+00:00",
+"summary": "Our new Claude for Nonprofits plugin brings new skills to every verified nonprofit organization, taking on the operational work that stretches small teams across fundraising, marketing, and hiring.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "1facaf81d008",
+"title": "PitchBook in North: Private market intelligence for enterprise teams",
+"url": "https://cohere.com/blog/pitchbook-integration",
+"source": "Cohere",
+"category": "official",
+"published": "2026-10-26T00:00:00+00:00",
+"summary": "PitchBook in North: Private market intelligence for enterprise teams",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "ce5ce5fc43fb",
+"title": "Concerning behavior from a popular open-weight AI model",
+"url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+"source": "Cohere",
+"category": "official",
+"published": "2026-10-26T00:00:00+00:00",
+"summary": "Concerning behavior from a popular open-weight AI model",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "799f4cfbcecf",
+"title": "Speech models in Ollama",
+"url": "https://ollama.com/blog/speech-models",
+"source": "Ollama blog",
+"category": "tools",
+"published": "2026-10-24T00:00:00+00:00",
+"summary": "Ollama now supports speech models, starting with Phonon from Gradium. Read text aloud in five languages and dozens of voices, streamed as it is generated, over 100 times faster than real time on Apple Silicon.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "faf6b20eb041",
+"title": "Claude Cowork and chat come together for Enterprise",
+"url": "https://claude.com/resources/articles/unified-claude-enterprise",
+"source": "Claude blog",
+"category": "official",
+"published": "2026-10-23T00:00:00+00:00",
+"summary": "Claude Cowork and chat come together for Enterprise",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "bf6986b39fbc",
+"title": "An alignment assessment of the UK AISI cybertesting incident",
+"url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+"source": "Anthropic research",
+"category": "research",
+"published": "2026-10-23T00:00:00+00:00",
+"summary": "In a UK AISI evaluation, Mythos 5 took unsanctioned actions that impacted real people and organizations. In this post, we investigate these behaviors from Claude Mythos 5 further, to understand what they reveal about the model’s alignment.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "98d45c75b11c",
+"title": "Open call for guest investigators in the life sciences",
+"url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+"source": "Anthropic news",
+"category": "official",
+"published": "2026-10-22T00:00:00+00:00",
+"summary": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "86405d6d1e9f",
+"title": "Donating Agent Skills to the Agentic AI Foundation",
+"url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+"source": "Anthropic news",
+"category": "official",
+"published": "2026-10-22T00:00:00+00:00",
+"summary": "We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the…",
+"companies": [
+"OpenAI",
+"Microsoft"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "1360bd8eb5a8",
+"title": "LLMs are making formal software verification feasible at a much larger scale",
+"url": "https://www.anthropic.com/research/formal-verification",
+"source": "Anthropic research",
+"category": "research",
+"published": "2026-10-22T00:00:00+00:00",
+"summary": "Formal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases. With AI models, however, this is beginning to change. Here, we used Claude to prove security properties in over one hundred real-world open-source…",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "ff1cfc81dcac",
+"title": "Introducing Confidential Computing on Cohere Model Vault",
+"url": "https://cohere.com/blog/introducing-confidential-computing-on-cohere-model-vault",
+"source": "Cohere",
+"category": "official",
+"published": "2026-10-22T00:00:00+00:00",
+"summary": "Introducing Confidential Computing on Cohere Model Vault",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "b3ec856821a0",
+"title": "Inside Cohere Model Vault: Building a verifiable confidential AI inference",
+"url": "https://cohere.com/blog/inside-cohere-model-vault-building-verifiable-confidential-ai-inference",
+"source": "Cohere",
+"category": "official",
+"published": "2026-10-22T00:00:00+00:00",
+"summary": "Inside Cohere Model Vault: Building a verifiable confidential AI inference",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "7207c59bed78",
+"title": "Can AI understand culture?",
+"url": "https://cohere.com/blog/can-ai-understand-culture",
+"source": "Cohere",
+"category": "official",
+"published": "2026-10-22T00:00:00+00:00",
+"summary": "Can AI understand culture?",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "82899c945579",
+"title": "Mistral Advances AI for Engineering with NVIDIA",
+"url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering",
+"source": "Mistral AI",
+"category": "official",
+"published": "2026-10-21T12:00:20+00:00",
+"summary": "Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing.",
+"companies": [
+"NVIDIA",
+"Mistral"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "b12d9d8f2012",
+"title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+"url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+"source": "Anthropic news",
+"category": "official",
+"published": "2026-10-21T00:00:00+00:00",
+"summary": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "477f0efd611b",
+"title": "Introducing Rerank 5: precise, efficient enterprise document retrieval",
+"url": "https://cohere.com/blog/rerank-5",
+"source": "Cohere",
+"category": "official",
+"published": "2026-10-21T00:00:00+00:00",
+"summary": "Introducing Rerank 5: precise, efficient enterprise document retrieval",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "afe5d96a9d46",
+"title": "Voxtral 3",
+"url": "https://mistral.ai/news/voxtral-3",
+"source": "Mistral AI",
+"category": "official",
+"published": "2026-10-20T12:00:22+00:00",
+"summary": "Voxtral 3: Mistral's voice agent SDK for real-time speech in 50+ languages, accurate transcription, emotional TTS, deep tool use.",
+"companies": [
+"Mistral"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "f40066880a48",
+"title": "Introducing the Agent SDK",
+"url": "https://cursor.com/blog/agent-sdk",
+"source": "Cursor blog",
+"category": "tools",
+"published": "2026-10-20T12:00:00+00:00",
+"summary": "",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "c021c28354e5",
+"title": "How Claude designed protein binders against scorpion neurotoxins",
+"url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+"source": "Anthropic research",
+"category": "research",
+"published": "2026-10-20T00:00:00+00:00",
+"summary": "We asked an internal research Claude model to design minibinders (small proteins that attach tightly to a target) against scorpion neurotoxins.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "4b3ccd0a9d65",
+"title": "Rethinking confidence in reasoning models",
+"url": "https://cohere.com/blog/rethinking-confidence-in-reasoning-models",
+"source": "Cohere",
+"category": "official",
+"published": "2026-10-20T00:00:00+00:00",
+"summary": "Rethinking confidence in reasoning models",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "76b99fafc49f",
+"title": "Clef is available on Ollama's cloud",
+"url": "https://ollama.com/blog/clef",
+"source": "Ollama blog",
+"category": "tools",
+"published": "2026-10-19T00:00:00+00:00",
+"summary": "Clef, a 27B multimodal decision model from Cloudflare, is now available on Ollama. Run it locally or on Ollama's cloud.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "4c6c987b6534",
+"title": "Investing in the public benefit",
+"url": "https://www.anthropic.com/news/public-benefit-fund",
+"source": "Anthropic news",
+"category": "official",
+"published": "2026-10-18T00:00:00+00:00",
+"summary": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "3d9cd855f89b",
+"title": "Navan cuts a month-long migration down to a week, without freezing the codebase",
+"url": "https://cursor.com/blog/navan",
+"source": "Cursor blog",
+"category": "tools",
+"published": "2026-10-16T12:00:00+00:00",
+"summary": "",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "ab1e0ebf1e34",
+"title": "Working at the frontier shapes expectations for the future",
+"url": "https://www.anthropic.com/research/expectations-for-the-future",
+"source": "Anthropic research",
+"category": "research",
+"published": "2026-10-16T00:00:00+00:00",
+"summary": "We’re sharing two reports: the first covers how AI is changing employment inside Anthropic, and the second looks at the gap between how the public and Anthropic employees expect AI to affect work and the economy.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "f1073754b8e0",
+"title": "How employment is changing at Anthropic",
+"url": "https://www.anthropic.com/research/employment-at-anthropic",
+"source": "Anthropic research",
+"category": "research",
+"published": "2026-10-16T00:00:00+00:00",
+"summary": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "7a6a342eb958",
+"title": "Claude reveals ECDSA curve origins",
+"url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+"source": "Anthropic research",
+"category": "research",
+"published": "2026-10-16T00:00:00+00:00",
+"summary": "The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "04b7640931c7",
+"title": "Designing more efficient quantum circuits with Claude",
+"url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+"source": "Anthropic research",
+"category": "research",
+"published": "2026-10-16T00:00:00+00:00",
+"summary": "We gave Claude plain-language specifications for eight quantum circuits, along with an automated evaluator to check and score its designs. Working largely on its own, Claude improved on the best published circuits, in some cases by an order of magnitude or more, which could…",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "ce6de6f9e4f4",
+"title": "The AI expectations gap",
+"url": "https://www.anthropic.com/research/ai-expectations-gap",
+"source": "Anthropic research",
+"category": "research",
+"published": "2026-10-16T00:00:00+00:00",
+"summary": "How will AI reshape the economy in the years ahead? What is the core source of disagreement about AI's future impact on the economy? This note presents new survey evidence on these questions.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "8d90e8324fc8",
+"title": "Reflection's Beam is freely available on Ollama for a limited time",
+"url": "https://ollama.com/blog/reflection-beam",
+"source": "Ollama blog",
+"category": "tools",
+"published": "2026-10-16T00:00:00+00:00",
+"summary": "Reflection's first open-weight model is now available on Ollama, and free for a limited time only. Beam is designed for software engineering, reasoning, and long-running agentic tasks. Access Beam through Ollama's cloud.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "3a11e60ee8cf",
+"title": "Introducing Timestral",
+"url": "https://mistral.ai/news/timestral",
+"source": "Mistral AI",
+"category": "official",
+"published": "2026-10-15T12:00:00+00:00",
+"summary": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "dc9ed14da7f5",
+"title": "An update on independent evaluators",
+"url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+"source": "Anthropic news",
+"category": "official",
+"published": "2026-10-15T00:00:00+00:00",
+"summary": "To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "7d369f9d483c",
+"title": "Cohere to acquire AISLE to advance cyber-resilient sovereign AI",
+"url": "https://cohere.com/blog/cohere-and-aisle-sign-letter-of-intent-to-advance-cyber-resilient-sovereign-ai",
+"source": "Cohere",
+"category": "official",
+"published": "2026-10-15T00:00:00+00:00",
+"summary": "Cohere to acquire AISLE to advance cyber-resilient sovereign AI",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "c434b4915ef9",
+"title": "AI ROI: How enterprises can measure the return on AI investments",
+"url": "https://cohere.com/blog/ai-roi",
+"source": "Cohere",
+"category": "official",
+"published": "2026-10-15T00:00:00+00:00",
+"summary": "AI ROI: How enterprises can measure the return on AI investments",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "d8edd4bb7076",
+"title": "AI for utilities requires capability and control",
+"url": "https://cohere.com/blog/ai-for-utilities-requires-capability-and-control",
+"source": "Cohere",
+"category": "official",
+"published": "2026-10-15T00:00:00+00:00",
+"summary": "AI for utilities requires capability and control",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "dfc34f77da0f",
+"title": "Agent sprawl: How to manage agent proliferation in the enterprise",
+"url": "https://cohere.com/blog/agent-sprawl",
+"source": "Cohere",
+"category": "official",
+"published": "2026-10-15T00:00:00+00:00",
+"summary": "Agent sprawl: How to manage agent proliferation in the enterprise",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "87253efedaff",
+"title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+"url": "https://www.anthropic.com/news/singapore-office-opening",
+"source": "Anthropic news",
+"category": "official",
+"published": "2026-10-14T00:00:00+00:00",
+"summary": "Anthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "c9ddbc2bb893",
+"title": "Preparing for the 2026 US midterms",
+"url": "https://www.anthropic.com/news/2026-us-midterms",
+"source": "Anthropic news",
+"category": "official",
+"published": "2026-10-14T00:00:00+00:00",
+"summary": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "e0c0a0e80002",
+"title": "Maintaining software with the GPT-6 family",
+"url": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family",
+"source": "OpenAI developers",
+"category": "official",
+"published": "2026-10-14T00:00:00+00:00",
+"summary": "How OpenAI’s Core Experimentation team uses Codex to remove unused code, clean up stale experiments, and improve CI.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "286e638fb750",
+"title": "Designing failover across OpenAI model providers",
+"url": "https://developers.openai.com/blog/designing-failover-across-openai-model-providers",
+"source": "OpenAI developers",
+"category": "official",
+"published": "2026-10-14T00:00:00+00:00",
+"summary": "Why direct OpenAI access matters for previews and critical workloads.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+},
+{
+"id": "68fa5d474465",
+"title": "Lessons from scaling teams of coding agents: reach the frontier at 30% of the cost",
+"url": "https://cohere.com/blog/lessons-from-scaling-teams-of-frontier-coding-agents",
+"source": "Cohere",
+"category": "official",
+"published": "2026-10-14T00:00:00+00:00",
+"summary": "Lessons from scaling teams of coding agents: reach the frontier at 30% of the cost",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-12T18:02:03+00:00"
+}
+]

@@ -1,0 +1,41 @@
+{
+  "name": "Chaitanya",
+  "role": "Power BI developer",
+  "tagline": "Eight years of turning messy data into reports people actually use. Now following everything that happens in AI, twice a day.",
+  "location": "India",
+  "links": [
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/" },
+    { "label": "GitHub", "url": "https://github.com/" }
+  ],
+
+  "about": [
+    "I build reports, dashboards and data models in Power BI, and have spent more than eight years in the IT industry doing it.",
+    "This site is my corner of the internet: what I work with, what I like, what I want next, and an AI Hub that keeps me up to date with the AI world every morning and evening."
+  ],
+
+  "skills": [
+    { "group": "Power BI", "items": ["Report and dashboard design", "DAX", "Power Query (M)", "Data modeling (star schema)", "Row-level security", "Power BI Service and gateways"] },
+    { "group": "Data", "items": ["SQL", "Data warehousing", "ETL", "Excel"] },
+    { "group": "Learning now", "items": ["AI and large language models", "Python", "Building websites with Claude"] }
+  ],
+
+  "interests": [
+    { "title": "AI and what comes next", "text": "Following new models, tools and companies every day on the AI Hub." },
+    { "title": "Add an interest", "text": "Edit content/profile.json to replace this with something you love doing." },
+    { "title": "Add another", "text": "Each interest has a title and one or two lines of text." }
+  ],
+
+  "favorites": [
+    { "kind": "Book", "title": "Add a favourite book", "note": "Why you like it, in one line." },
+    { "kind": "Film", "title": "Add a favourite film", "note": "" },
+    { "kind": "Place", "title": "Add a favourite place", "note": "" },
+    { "kind": "Food", "title": "Add a favourite dish", "note": "" },
+    { "kind": "Tool", "title": "Power BI", "note": "Obviously." }
+  ],
+
+  "wishlist": [
+    { "title": "Get this website live", "done": false, "note": "GitHub Pages, updated twice a day." },
+    { "title": "Add something you want to buy, learn or do", "done": false, "note": "" },
+    { "title": "Mark items done by setting \"done\": true", "done": true, "note": "Done items get crossed out." }
+  ]
+}

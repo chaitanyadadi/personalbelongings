@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Hub, updated twice a day</title>
+  <meta name="description" content="Official AI model updates, headlines, gossip, research, new tools and the AI market, refreshed at 7 AM and 7 PM IST.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&display=swap" rel="stylesheet">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="index.html"><i aria-hidden="true"></i>Chaitanya</a>
+      <nav class="site-nav" aria-label="Main">
+        <a href="index.html#about">About</a>
+        <a href="index.html#skills">Skills</a>
+        <a href="index.html#interests">Interests</a>
+        <a href="index.html#favorites">Favourites</a>
+        <a href="index.html#wishlist">Wishlist</a>
+        <a href="ai.html" aria-current="page">AI Hub</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="hub-head">
+      <div class="wrap">
+        <h1>AI Hub</h1>
+        <p class="edition" id="edition">Loading…</p>
+      </div>
+    </div>
+
+    <section class="market" aria-label="AI stocks">
+      <ul id="market"></ul>
+    </section>
+
+    <div class="wrap">
+      <section class="brief" id="brief" aria-labelledby="brief-title" hidden></section>
+    </div>
+
+    <div class="tabs-bar">
+      <div class="wrap">
+        <div class="tabs" role="tablist" id="tabs" aria-label="Categories"></div>
+      </div>
+    </div>
+
+    <div class="wrap">
+      <div class="slicers" role="group" aria-label="Filters">
+        <div class="slicer">
+          <span class="lbl" id="range-lbl">Show</span>
+          <div class="seg" id="range" role="group" aria-labelledby="range-lbl">
+            <button type="button" data-days="1">Today</button>
+            <button type="button" data-days="3">3 days</button>
+            <button type="button" data-days="7" aria-pressed="true">7 days</button>
+            <button type="button" data-days="30">30 days</button>
+          </div>
+        </div>
+        <div class="slicer">
+          <label for="company">Company</label>
+          <select id="company"><option value="">All companies</option></select>
+        </div>
+        <div class="slicer">
+          <label><input type="checkbox" id="hide-unv"> Hide unverified</label>
+        </div>
+        <div class="slicer search">
+          <label for="q" class="visually-hidden">Search</label>
+          <input type="search" id="q" placeholder="Search titles, e.g. Opus, Gemini, funding">
+        </div>
+        <span class="result" id="result" aria-live="polite"></span>
+      </div>
+
+      <div class="feed" id="feed" role="tabpanel"></div>
+
+      <details class="health" id="health">
+        <summary>Source health</summary>
+        <div id="health-body"></div>
+      </details>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">Headlines and short summaries link to the original publishers. Items marked unverified are rumours or community posts.</div>
+  </footer>
+
+  <script src="assets/common.js"></script>
+  <script src="assets/ai.js"></script>
+</body>
+</html>

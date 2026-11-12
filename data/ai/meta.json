@@ -1,8 +1,396 @@
 {
- "updated": "2026-11-12T18:02:03+00:00",
- "item_count": 143,
- "stocks": [],
+ "updated": "2026-11-12T18:27:54+00:00",
+ "item_count": 557,
+ "stocks": [
+  {
+   "ticker": "NVDA",
+   "name": "NVIDIA",
+   "price": 165.82,
+   "change_pct": -4.55,
+   "month_pct": -26.73,
+   "spark": [
+    226.32,
+    228.52,
+    221.3,
+    217.23,
+    214.13,
+    217.09,
+    216.47,
+    221.97,
+    212.21,
+    210.96,
+    216.0,
+    217.94,
+    215.38,
+    213.66,
+    204.64,
+    202.06,
+    206.69,
+    200.13,
+    181.6,
+    186.64,
+    178.67,
+    168.89,
+    173.73,
+    165.82
+   ],
+   "as_of": "2026-11-12"
+  },
+  {
+   "ticker": "MSFT",
+   "name": "Microsoft",
+   "price": 526.28,
+   "change_pct": 0.99,
+   "month_pct": -2.75,
+   "spark": [
+    541.15,
+    543.45,
+    533.69,
+    539.44,
+    529.05,
+    533.52,
+    531.87,
+    532.95,
+    521.08,
+    524.51,
+    532.6,
+    531.33,
+    531.01,
+    530.14,
+    521.91,
+    507.12,
+    520.99,
+    555.8,
+    535.93,
+    530.61,
+    545.18,
+    533.16,
+    521.13,
+    526.28
+   ],
+   "as_of": "2026-11-12"
+  },
+  {
+   "ticker": "GOOGL",
+   "name": "Alphabet",
+   "price": 301.33,
+   "change_pct": 2.68,
+   "month_pct": -14.57,
+   "spark": [
+    352.72,
+    353.78,
+    347.64,
+    349.22,
+    340.59,
+    344.18,
+    340.28,
+    334.76,
+    324.22,
+    320.21,
+    316.8,
+    320.58,
+    324.89,
+    283.82,
+    279.84,
+    278.99,
+    280.03,
+    288.93,
+    282.57,
+    284.78,
+    288.15,
+    287.38,
+    293.45,
+    301.33
+   ],
+   "as_of": "2026-11-12"
+  },
+  {
+   "ticker": "AMZN",
+   "name": "Amazon",
+   "price": 269.17,
+   "change_pct": 1.13,
+   "month_pct": 3.72,
+   "spark": [
+    259.53,
+    258.58,
+    254.08,
+    254.76,
+    250.0,
+    262.45,
+    262.63,
+    262.37,
+    250.38,
+    248.0,
+    249.09,
+    253.1,
+    254.6,
+    243.79,
+    240.35,
+    245.63,
+    250.69,
+    266.03,
+    260.21,
+    259.3,
+    266.93,
+    270.87,
+    266.17,
+    269.17
+   ],
+   "as_of": "2026-11-12"
+  },
+  {
+   "ticker": "META",
+   "name": "Meta",
+   "price": 624.33,
+   "change_pct": -0.71,
+   "month_pct": -15.97,
+   "spark": [
+    742.96,
+    762.5,
+    737.54,
+    736.72,
+    709.33,
+    705.44,
+    694.25,
+    697.52,
+    648.85,
+    642.62,
+    630.56,
+    620.19,
+    612.49,
+    624.52,
+    614.99,
+    606.73,
+    621.03,
+    630.0,
+    605.08,
+    610.15,
+    641.37,
+    641.39,
+    628.77,
+    624.33
+   ],
+   "as_of": "2026-11-12"
+  },
+  {
+   "ticker": "AAPL",
+   "name": "Apple",
+   "price": 355.76,
+   "change_pct": 0.04,
+   "month_pct": 4.34,
+   "spark": [
+    340.97,
+    341.27,
+    342.96,
+    342.0,
+    343.46,
+    342.94,
+    339.5,
+    343.99,
+    348.22,
+    347.73,
+    343.91,
+    347.1,
+    343.83,
+    348.91,
+    344.63,
+    338.32,
+    331.9,
+    349.51,
+    344.17,
+    342.37,
+    350.69,
+    348.51,
+    355.63,
+    355.76
+   ],
+   "as_of": "2026-11-12"
+  },
+  {
+   "ticker": "AMD",
+   "name": "AMD",
+   "price": 581.22,
+   "change_pct": 5.12,
+   "month_pct": -2.19,
+   "spark": [
+    594.24,
+    605.53,
+    570.82,
+    562.23,
+    528.75,
+    538.05,
+    534.74,
+    552.72,
+    507.93,
+    516.79,
+    531.28,
+    560.26,
+    578.44,
+    566.42,
+    504.8,
+    466.84,
+    483.9,
+    488.78,
+    404.4,
+    449.04,
+    508.58,
+    515.21,
+    552.9,
+    581.22
+   ],
+   "as_of": "2026-11-12"
+  },
+  {
+   "ticker": "TSM",
+   "name": "TSMC",
+   "price": 407.91,
+   "change_pct": -1.32,
+   "month_pct": -8.2,
+   "spark": [
+    444.35,
+    445.12,
+    430.0,
+    422.25,
+    412.61,
+    420.22,
+    425.08,
+    431.89,
+    412.35,
+    418.51,
+    424.37,
+    436.87,
+    439.51,
+    431.81,
+    406.13,
+    398.63,
+    404.8,
+    395.75,
+    353.1,
+    375.44,
+    388.62,
+    396.48,
+    413.35,
+    407.91
+   ],
+   "as_of": "2026-11-12"
+  },
+  {
+   "ticker": "AVGO",
+   "name": "Broadcom",
+   "price": 364.65,
+   "change_pct": 5.63,
+   "month_pct": 2.8,
+   "spark": [
+    354.73,
+    357.31,
+    346.25,
+    344.33,
+    328.75,
+    334.59,
+    334.37,
+    337.8,
+    323.24,
+    321.68,
+    329.17,
+    342.33,
+    351.81,
+    345.0,
+    326.08,
+    322.23,
+    332.13,
+    325.48,
+    291.53,
+    293.69,
+    319.48,
+    331.98,
+    345.22,
+    364.65
+   ],
+   "as_of": "2026-11-12"
+  },
+  {
+   "ticker": "ORCL",
+   "name": "Oracle",
+   "price": 127.38,
+   "change_pct": -0.78,
+   "month_pct": -7.29,
+   "spark": [
+    137.39,
+    143.2,
+    130.55,
+    134.47,
+    128.23,
+    129.59,
+    131.14,
+    129.13,
+    125.54,
+    126.16,
+    126.06,
+    130.53,
+    144.54,
+    139.56,
+    130.67,
+    119.22,
+    126.19,
+    123.73,
+    115.16,
+    116.1,
+    119.79,
+    117.98,
+    128.38,
+    127.38
+   ],
+   "as_of": "2026-11-12"
+  },
+  {
+   "ticker": "PLTR",
+   "name": "Palantir",
+   "price": 171.87,
+   "change_pct": -0.31,
+   "month_pct": -17.77,
+   "spark": [
+    209.0,
+    208.67,
+    200.97,
+    200.5,
+    186.03,
+    194.15,
+    192.6,
+    201.72,
+    196.19,
+    196.75,
+    198.84,
+    198.73,
+    196.81,
+    196.42,
+    184.11,
+    178.34,
+    175.4,
+    171.7,
+    154.99,
+    160.38,
+    169.2,
+    168.82,
+    172.4,
+    171.87
+   ],
+   "as_of": "2026-11-12"
+  }
+ ],
  "editions": [
+  {
+   "at": "2026-11-12T18:27:54+00:00",
+   "new_count": 414,
+   "by_category": {
+    "official": 68,
+    "news": 152,
+    "buzz": 73,
+    "research": 50,
+    "tools": 19,
+    "market": 52
+   },
+   "brief": null
+  },
   {
    "at": "2026-11-12T18:02:03+00:00",
    "new_count": 143,
@@ -57,16 +445,14 @@
   {
    "name": "Google DeepMind",
    "category": "official",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='deepmind.google', port=443): Max retries exceeded with url: /blog/rss.xml (Caused by ProxyError('Unable to connect to proxy', OSError("
+   "ok": true,
+   "count": 25
   },
   {
    "name": "Google Keyword – AI",
    "category": "official",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='blog.google', port=443): Max retries exceeded with url: /technology/ai/rss/ (Caused by ProxyError('Unable to connect to proxy', OSErro"
+   "ok": true,
+   "count": 20
   },
   {
    "name": "Meta AI",
@@ -101,58 +487,52 @@
   {
    "name": "Hugging Face blog",
    "category": "official",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /blog/feed.xml (Caused by ProxyError('Unable to connect to proxy', OSError("
+   "ok": true,
+   "count": 25
   },
   {
    "name": "NVIDIA blog",
    "category": "official",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='blogs.nvidia.com', port=443): Max retries exceeded with url: /feed/ (Caused by ProxyError('Unable to connect to proxy', OSError('Tunne"
+   "ok": true,
+   "count": 18
   },
   {
    "name": "Microsoft AI blog",
    "category": "official",
    "ok": false,
    "count": 0,
-   "error": "HTTPSConnectionPool(host='blogs.microsoft.com', port=443): Max retries exceeded with url: /ai/feed/ (Caused by ProxyError('Unable to connect to proxy', OSError("
+   "error": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/"
   },
   {
    "name": "TechCrunch AI",
    "category": "news",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='techcrunch.com', port=443): Max retries exceeded with url: /category/artificial-intelligence/feed/ (Caused by ProxyError('Unable to co"
+   "ok": true,
+   "count": 20
   },
   {
    "name": "The Verge AI",
    "category": "news",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='www.theverge.com', port=443): Max retries exceeded with url: /rss/ai-artificial-intelligence/index.xml (Caused by ProxyError('Unable t"
+   "ok": true,
+   "count": 10
   },
   {
    "name": "VentureBeat AI",
    "category": "news",
    "ok": false,
    "count": 0,
-   "error": "HTTPSConnectionPool(host='venturebeat.com', port=443): Max retries exceeded with url: /category/ai/feed/ (Caused by ProxyError('Unable to connect to proxy', OSE"
+   "error": "429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
   },
   {
    "name": "MIT Technology Review",
    "category": "news",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='www.technologyreview.com', port=443): Max retries exceeded with url: /topic/artificial-intelligence/feed (Caused by ProxyError('Unable"
+   "ok": true,
+   "count": 10
   },
   {
    "name": "Ars Technica AI",
    "category": "news",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='arstechnica.com', port=443): Max retries exceeded with url: /ai/feed/ (Caused by ProxyError('Unable to connect to proxy', OSError('Tun"
+   "ok": true,
+   "count": 20
   },
   {
    "name": "The Batch (DeepLearning.AI)",
@@ -163,86 +543,76 @@
   {
    "name": "Google News – Claude",
    "category": "news",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=Anthropic+Claude+when%3A2d&hl=en-IN&gl=IN&ceid=IN:en (Caused"
+   "ok": true,
+   "count": 25
   },
   {
    "name": "Google News – Gemini",
    "category": "news",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=Google+Gemini+AI+when%3A2d&hl=en-IN&gl=IN&ceid=IN:en (Caused"
+   "ok": true,
+   "count": 25
   },
   {
    "name": "Google News – OpenAI",
    "category": "news",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=OpenAI+ChatGPT+when%3A2d&hl=en-IN&gl=IN&ceid=IN:en (Caused b"
+   "ok": true,
+   "count": 25
   },
   {
    "name": "Google News – India AI",
    "category": "news",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=artificial+intelligence+India+when%3A2d&hl=en-IN&gl=IN&ceid="
+   "ok": true,
+   "count": 25
   },
   {
    "name": "Hacker News",
    "category": "buzz",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='hn.algolia.com', port=443): Max retries exceeded with url: /api/v1/search_by_date?query=AI&tags=story&numericFilters=points%3E50%2Ccre"
+   "ok": true,
+   "count": 25
   },
   {
    "name": "r/LocalLLaMA",
    "category": "buzz",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/LocalLLaMA/top/.rss?t=day (Caused by ProxyError('Unable to connect to pr"
+   "ok": true,
+   "count": 25
   },
   {
    "name": "r/singularity",
    "category": "buzz",
    "ok": false,
    "count": 0,
-   "error": "HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/singularity/top/.rss?t=day (Caused by ProxyError('Unable to connect to p"
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/singularity/top/.rss?t=day"
   },
   {
    "name": "r/ClaudeAI",
    "category": "buzz",
    "ok": false,
    "count": 0,
-   "error": "HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/ClaudeAI/top/.rss?t=day (Caused by ProxyError('Unable to connect to prox"
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/ClaudeAI/top/.rss?t=day"
   },
   {
    "name": "Google News – AI rumours",
    "category": "buzz",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=AI+model+leak+OR+rumor+OR+reportedly+when%3A2d&hl=en-IN&gl=I"
+   "ok": true,
+   "count": 25
   },
   {
    "name": "Hugging Face daily papers",
    "category": "research",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /api/daily_papers?limit=40 (Caused by ProxyError('Unable to connect to prox"
+   "ok": true,
+   "count": 25
   },
   {
    "name": "arXiv cs.AI / cs.CL / cs.LG",
    "category": "research",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Max retries exceeded with url: /api/query?search_query=cat%3Acs.AI+OR+cat%3Acs.CL+OR+cat%3Acs.LG&sortBy="
+   "ok": true,
+   "count": 25
   },
   {
    "name": "Hugging Face trending models",
    "category": "tools",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /api/models?sort=trendingScore&limit=30 (Caused by ProxyError('Unable to co"
+   "ok": true,
+   "count": 25
   },
   {
    "name": "GitHub – new AI repos",
@@ -265,23 +635,20 @@
   {
    "name": "Google News – AI funding",
    "category": "market",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=AI+startup+raises+funding+valuation+when%3A2d&hl=en-IN&gl=IN"
+   "ok": true,
+   "count": 25
   },
   {
    "name": "Google News – AI IPO",
    "category": "market",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=AI+IPO+OR+acquisition+OR+valuation+billion+when%3A2d&hl=en-I"
+   "ok": true,
+   "count": 25
   },
   {
    "name": "Crunchbase News AI",
    "category": "market",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='news.crunchbase.com', port=443): Max retries exceeded with url: /sections/ai/feed/ (Caused by ProxyError('Unable to connect to proxy',"
+   "ok": true,
+   "count": 10
   }
  ]
 }

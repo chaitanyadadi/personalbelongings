@@ -1,41 +1,41 @@
 {
-  "name": "Chaitanya",
+  "name": "Chaitanya Dadi",
   "role": "Power BI developer",
   "tagline": "Eight years of turning messy data into reports people actually use. Now following everything that happens in AI, twice a day.",
   "location": "India",
   "links": [
-    { "label": "LinkedIn", "url": "https://www.linkedin.com/" },
-    { "label": "GitHub", "url": "https://github.com/" }
+    { "label": "GitHub", "url": "https://github.com/chaitanyadadi" }
   ],
 
   "about": [
-    "I build reports, dashboards and data models in Power BI, and have spent more than eight years in the IT industry doing it.",
-    "This site is my corner of the internet: what I work with, what I like, what I want next, and an AI Hub that keeps me up to date with the AI world every morning and evening."
+    "I'm a Power BI and data developer with more than eight years in the IT industry. I design data models, write DAX, build data pipelines and turn business questions into reports and dashboards that teams use every day.",
+    "This site is my corner of the internet: what I work with, what I'm learning, what I like, and an AI Hub that I built to keep up with the AI world. A Python script on GitHub Actions collects AI news, research and new tools every morning and evening and publishes them here."
   ],
 
   "skills": [
     { "group": "Power BI", "items": ["Report and dashboard design", "DAX", "Power Query (M)", "Data modeling (star schema)", "Row-level security", "Power BI Service and gateways"] },
-    { "group": "Data", "items": ["SQL", "Data warehousing", "ETL", "Excel"] },
-    { "group": "Learning now", "items": ["AI and large language models", "Python", "Building websites with Claude"] }
+    { "group": "Data engineering", "items": ["SQL", "Microsoft Fabric", "Azure Data Factory", "Data warehousing", "ETL pipelines", "Excel"] },
+    { "group": "Learning now", "items": ["Python", "GitHub Actions", "HTML, CSS and JavaScript", "Large language models and AI tools"] }
   ],
 
   "interests": [
-    { "title": "AI and what comes next", "text": "Following new models, tools and companies every day on the AI Hub." },
-    { "title": "Add an interest", "text": "Edit content/profile.json to replace this with something you love doing." },
-    { "title": "Add another", "text": "Each interest has a title and one or two lines of text." }
+    { "title": "AI and what comes next", "text": "New models, tools and companies. I built the AI Hub on this site so I can follow them every day." },
+    { "title": "Running", "text": "Getting the miles in and tracking progress, the same way I like tracking data at work." },
+    { "title": "Educational game design", "text": "Ideas for games that teach something while staying fun to play." },
+    { "title": "Telugu", "text": "దేశ భాషలందు తెలుగు లెస్స: my language and the one I'm proudest of." }
   ],
 
   "favorites": [
-    { "kind": "Book", "title": "Add a favourite book", "note": "Why you like it, in one line." },
-    { "kind": "Film", "title": "Add a favourite film", "note": "" },
-    { "kind": "Place", "title": "Add a favourite place", "note": "" },
-    { "kind": "Food", "title": "Add a favourite dish", "note": "" },
-    { "kind": "Tool", "title": "Power BI", "note": "Obviously." }
+    { "kind": "Tool", "title": "Power BI", "note": "Eight years in, still my favourite way to explain data." },
+    { "kind": "Language", "title": "DAX", "note": "Hard to learn, impossible to stop using." },
+    { "kind": "Platform", "title": "Microsoft Fabric", "note": "Everything from pipeline to report in one place." },
+    { "kind": "Editor", "title": "VS Code", "note": "Where this website was built." }
   ],
 
   "wishlist": [
-    { "title": "Get this website live", "done": false, "note": "GitHub Pages, updated twice a day." },
-    { "title": "Add something you want to buy, learn or do", "done": false, "note": "" },
-    { "title": "Mark items done by setting \"done\": true", "done": true, "note": "Done items get crossed out." }
+    { "title": "Get this website live", "done": true, "note": "Hosted on GitHub Pages, updated twice a day by GitHub Actions." },
+    { "title": "Get chaitanyadadi.is-a.dev approved", "done": false, "note": "A proper web address for this site." },
+    { "title": "Build a Power BI report on the AI Hub data", "done": false, "note": "Which companies ship the most, and how fast." },
+    { "title": "Get comfortable writing Python", "done": false, "note": "Starting with the script that runs the AI Hub." }
   ]
 }

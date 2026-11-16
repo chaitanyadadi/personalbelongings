@@ -1,17 +1,14 @@
 {
- "updated": "2026-11-16T08:14:27+00:00",
- "item_count": 1430,
+ "updated": "2026-11-16T22:58:23+00:00",
+ "item_count": 1609,
  "stocks": [
   {
    "ticker": "NVDA",
    "name": "NVIDIA",
-   "price": 162.85,
-   "change_pct": -2.01,
-   "month_pct": -26.41,
+   "price": 156.14,
+   "change_pct": -4.12,
+   "month_pct": -28.08,
    "spark": [
-    221.3,
-    217.23,
-    214.13,
     217.09,
     216.47,
     221.97,
@@ -31,20 +28,18 @@
     168.89,
     173.73,
     166.19,
-    162.85
+    162.85,
+    156.14
    ],
-   "as_of": "2026-11-13"
+   "as_of": "2026-11-16"
   },
   {
    "ticker": "MSFT",
    "name": "Microsoft",
-   "price": 523.88,
-   "change_pct": 0.17,
-   "month_pct": -1.84,
+   "price": 517.99,
+   "change_pct": -1.12,
+   "month_pct": -2.91,
    "spark": [
-    533.69,
-    539.44,
-    529.05,
     533.52,
     531.87,
     532.95,
@@ -64,20 +59,18 @@
     533.16,
     521.13,
     523.0,
-    523.88
+    523.88,
+    517.99
    ],
-   "as_of": "2026-11-13"
+   "as_of": "2026-11-16"
   },
   {
    "ticker": "GOOGL",
    "name": "Alphabet",
-   "price": 295.77,
-   "change_pct": -0.98,
-   "month_pct": -14.92,
+   "price": 283.72,
+   "change_pct": -4.07,
+   "month_pct": -17.57,
    "spark": [
-    347.64,
-    349.22,
-    340.59,
     344.18,
     340.28,
     334.76,
@@ -97,20 +90,18 @@
     287.38,
     293.45,
     298.7,
-    295.77
+    295.77,
+    283.72
    ],
-   "as_of": "2026-11-13"
+   "as_of": "2026-11-16"
   },
   {
    "ticker": "AMZN",
    "name": "Amazon",
-   "price": 266.66,
-   "change_pct": -0.29,
-   "month_pct": 4.95,
+   "price": 257.75,
+   "change_pct": -3.34,
+   "month_pct": -1.79,
    "spark": [
-    254.08,
-    254.76,
-    250.0,
     262.45,
     262.63,
     262.37,
@@ -130,20 +121,18 @@
     270.87,
     266.17,
     267.44,
-    266.66
+    266.66,
+    257.75
    ],
-   "as_of": "2026-11-13"
+   "as_of": "2026-11-16"
   },
   {
    "ticker": "META",
    "name": "Meta",
-   "price": 641.69,
-   "change_pct": 2.9,
-   "month_pct": -13.0,
+   "price": 626.41,
+   "change_pct": -2.38,
+   "month_pct": -11.2,
    "spark": [
-    737.54,
-    736.72,
-    709.33,
     705.44,
     694.25,
     697.52,
@@ -163,20 +152,18 @@
     641.39,
     628.77,
     623.61,
-    641.69
+    641.69,
+    626.41
    ],
-   "as_of": "2026-11-13"
+   "as_of": "2026-11-16"
   },
   {
    "ticker": "AAPL",
    "name": "Apple",
-   "price": 356.27,
-   "change_pct": 0.39,
-   "month_pct": 3.96,
+   "price": 352.78,
+   "change_pct": -0.98,
+   "month_pct": 2.95,
    "spark": [
-    342.7,
-    341.74,
-    343.2,
     342.68,
     339.24,
     343.73,
@@ -196,20 +183,18 @@
     348.25,
     355.36,
     354.88,
-    356.27
+    356.27,
+    352.78
    ],
-   "as_of": "2026-11-13"
+   "as_of": "2026-11-16"
   },
   {
    "ticker": "AMD",
    "name": "AMD",
-   "price": 534.06,
-   "change_pct": -8.75,
-   "month_pct": -6.44,
+   "price": 504.28,
+   "change_pct": -5.58,
+   "month_pct": -6.28,
    "spark": [
-    570.82,
-    562.23,
-    528.75,
     538.05,
     534.74,
     552.72,
@@ -229,20 +214,18 @@
     515.21,
     552.9,
     585.3,
-    534.06
+    534.06,
+    504.28
    ],
-   "as_of": "2026-11-13"
+   "as_of": "2026-11-16"
   },
   {
    "ticker": "TSM",
    "name": "TSMC",
-   "price": 398.73,
-   "change_pct": -1.67,
-   "month_pct": -7.27,
+   "price": 373.45,
+   "change_pct": -6.34,
+   "month_pct": -11.13,
    "spark": [
-    430.0,
-    422.25,
-    412.61,
     420.22,
     425.08,
     431.89,
@@ -262,20 +245,18 @@
     396.48,
     413.35,
     405.49,
-    398.73
+    398.73,
+    373.45
    ],
-   "as_of": "2026-11-13"
+   "as_of": "2026-11-16"
   },
   {
    "ticker": "AVGO",
    "name": "Broadcom",
-   "price": 347.01,
-   "change_pct": -4.76,
-   "month_pct": 0.22,
+   "price": 333.4,
+   "change_pct": -3.92,
+   "month_pct": -0.36,
    "spark": [
-    346.25,
-    344.33,
-    328.75,
     334.59,
     334.37,
     337.8,
@@ -295,20 +276,18 @@
     331.98,
     345.22,
     364.36,
-    347.01
+    347.01,
+    333.4
    ],
-   "as_of": "2026-11-13"
+   "as_of": "2026-11-16"
   },
   {
    "ticker": "ORCL",
    "name": "Oracle",
-   "price": 125.35,
-   "change_pct": -1.38,
-   "month_pct": -3.98,
+   "price": 119.09,
+   "change_pct": -4.99,
+   "month_pct": -8.1,
    "spark": [
-    130.55,
-    134.47,
-    128.23,
     129.59,
     131.14,
     129.13,
@@ -328,20 +307,18 @@
     117.98,
     128.38,
     127.11,
-    125.35
+    125.35,
+    119.09
    ],
-   "as_of": "2026-11-13"
+   "as_of": "2026-11-16"
   },
   {
    "ticker": "PLTR",
    "name": "Palantir",
-   "price": 167.99,
-   "change_pct": -2.09,
-   "month_pct": -16.41,
+   "price": 160.39,
+   "change_pct": -4.52,
+   "month_pct": -17.39,
    "spark": [
-    200.97,
-    200.5,
-    186.03,
     194.15,
     192.6,
     201.72,
@@ -361,12 +338,26 @@
     168.82,
     172.4,
     171.58,
-    167.99
+    167.99,
+    160.39
    ],
-   "as_of": "2026-11-13"
+   "as_of": "2026-11-16"
   }
  ],
  "editions": [
+  {
+   "at": "2026-11-16T22:58:23+00:00",
+   "new_count": 179,
+   "by_category": {
+    "official": 23,
+    "news": 83,
+    "buzz": 40,
+    "research": 13,
+    "tools": 2,
+    "market": 18
+   },
+   "brief": null
+  },
   {
    "at": "2026-11-16T08:14:27+00:00",
    "new_count": 158,
@@ -629,8 +620,9 @@
   {
    "name": "Google News – Gemini",
    "category": "news",
-   "ok": true,
-   "count": 25
+   "ok": false,
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Google+Gemini+AI+when%3A2d&hl=en-IN&gl=IN&ceid=IN:en"
   },
   {
    "name": "Google News – OpenAI",
@@ -648,7 +640,7 @@
    "name": "Hacker News",
    "category": "buzz",
    "ok": true,
-   "count": 25
+   "count": 21
   },
   {
    "name": "r/LocalLLaMA",
@@ -721,8 +713,9 @@
   {
    "name": "Google News – AI IPO",
    "category": "market",
-   "ok": true,
-   "count": 25
+   "ok": false,
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=AI+IPO+OR+acquisition+OR+valuation+billion+when%3A2d&hl=en-IN&gl=IN&ceid=IN:en"
   },
   {
    "name": "Crunchbase News AI",

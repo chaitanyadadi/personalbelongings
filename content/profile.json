@@ -1,25 +1,48 @@
 {
   "name": "Chaitanya Dadi",
   "role": "Power BI developer",
-  "tagline": "Eight years of turning messy data into reports people actually use. Now following everything that happens in AI, twice a day.",
-  "location": "India",
+  "lead": "I'm Chaitanya, a Power BI developer with eight years of turning messy data into reports people actually open. Lift the lid below and build your own view of what I do.",
   "links": [
-    { "label": "GitHub", "url": "https://github.com/chaitanyadadi" }
+    { "label": "github.com/chaitanyadadi", "url": "https://github.com/chaitanyadadi" }
   ],
 
   "about": [
-    "I'm a Power BI and data developer with more than eight years in the IT industry. I design data models, write DAX, build data pipelines and turn business questions into reports and dashboards that teams use every day.",
-    "This site is my corner of the internet: what I work with, what I'm learning, what I like, and an AI Hub that I built to keep up with the AI world. A Python script on GitHub Actions collects AI news, research and new tools every morning and evening and publishes them here."
+    "I'm a Power BI and data developer with more than eight years in the IT industry. I design data models, write DAX, build data pipelines and turn business questions into reports and dashboards that teams use every day."
+  ],
+
+  "strengths": [
+    { "title": "Models first", "text": "A clean star schema makes every report after it faster to build and easier to trust." },
+    { "title": "DAX that performs", "text": "Measures that are readable, tested and quick, even on big models." },
+    { "title": "Reports people open", "text": "One question per page, the answer at the top, detail one click away." },
+    { "title": "Pipelines that run themselves", "text": "Azure Data Factory and Microsoft Fabric keep the data fresh without anyone pressing refresh." },
+    { "title": "Always learning", "text": "Python, GitHub Actions and AI tools, starting with the script that runs this site's AI Hub." }
   ],
 
   "skills": [
-    { "group": "Power BI", "items": ["Report and dashboard design", "DAX", "Power Query (M)", "Data modeling (star schema)", "Row-level security", "Power BI Service and gateways"] },
-    { "group": "Data engineering", "items": ["SQL", "Microsoft Fabric", "Azure Data Factory", "Data warehousing", "ETL pipelines", "Excel"] },
-    { "group": "Learning now", "items": ["Python", "GitHub Actions", "HTML, CSS and JavaScript", "Large language models and AI tools"] }
+    { "area": "Power BI", "items": "Report and dashboard design, DAX, Power Query (M), data modeling, row-level security, Power BI Service and gateways", "level": "Expert" },
+    { "area": "Data engineering", "items": "SQL, Microsoft Fabric, Azure Data Factory, data warehousing, ETL pipelines", "level": "Strong" },
+    { "area": "Everyday tools", "items": "Excel, Git and GitHub", "level": "Strong" },
+    { "area": "Learning now", "items": "Python, GitHub Actions, HTML, CSS and JavaScript, large language models", "level": "Learning" }
+  ],
+
+  "projects": [
+    { "title": "This website", "text": "A portfolio with an interactive builder, hosted free on GitHub Pages.", "art": "site" },
+    { "title": "AI Hub", "text": "Python on GitHub Actions collects AI news from 40 sources at 7 AM and 7 PM.", "art": "hub", "link": "ai.html" },
+    { "title": "[YOUR POWER BI PROJECT]", "text": "[One or two lines on the problem and what the report changed.]", "art": "report" }
+  ],
+
+  "picks": [
+    { "id": "dax",      "name": "DAX",          "value": "8 yrs",     "color": "#f08a66", "shape": "cube" },
+    { "id": "pq",       "name": "Power Query",  "value": "8 yrs",     "color": "#c9294f", "shape": "cube" },
+    { "id": "sql",      "name": "SQL",          "value": "daily",     "color": "#f2d89a", "shape": "cube" },
+    { "id": "fabric",   "name": "Fabric",       "value": "current",   "color": "#a9c766", "shape": "leaf" },
+    { "id": "adf",      "name": "Data Factory", "value": "ETL", "color": "#67ad4b", "shape": "round" },
+    { "id": "python",   "name": "Python",       "value": "new",  "color": "#f6b23a", "shape": "cube" },
+    { "id": "aihub",    "name": "AI Hub",       "value": "2x/day",  "color": "#8d4f9e", "shape": "strip" }
   ],
 
   "interests": [
-    { "title": "AI and what comes next", "text": "New models, tools and companies. I built the AI Hub on this site so I can follow them every day." },
+    { "title": "AI and what comes next", "text": "New models, tools and companies. I built the AI Hub so I can follow them every day." },
     { "title": "Running", "text": "Getting the miles in and tracking progress, the same way I like tracking data at work." },
     { "title": "Educational game design", "text": "Ideas for games that teach something while staying fun to play." },
     { "title": "Telugu", "text": "దేశ భాషలందు తెలుగు లెస్స: my language and the one I'm proudest of." }
@@ -28,7 +51,7 @@
   "favorites": [
     { "kind": "Tool", "title": "Power BI", "note": "Eight years in, still my favourite way to explain data." },
     { "kind": "Language", "title": "DAX", "note": "Hard to learn, impossible to stop using." },
-    { "kind": "Platform", "title": "Microsoft Fabric", "note": "Everything from pipeline to report in one place." },
+    { "kind": "Platform", "title": "Microsoft Fabric", "note": "Pipeline to report in one place." },
     { "kind": "Editor", "title": "VS Code", "note": "Where this website was built." }
   ],
 

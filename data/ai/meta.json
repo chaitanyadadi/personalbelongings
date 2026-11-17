@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:58:23+00:00",
- "item_count": 1609,
+ "updated": "2026-11-17T09:30:28+00:00",
+ "item_count": 1781,
  "stocks": [
   {
    "ticker": "NVDA",
@@ -92,37 +92,6 @@
     298.7,
     295.77,
     283.72
-   ],
-   "as_of": "2026-11-16"
-  },
-  {
-   "ticker": "AMZN",
-   "name": "Amazon",
-   "price": 257.75,
-   "change_pct": -3.34,
-   "month_pct": -1.79,
-   "spark": [
-    262.45,
-    262.63,
-    262.37,
-    250.38,
-    248.0,
-    249.09,
-    253.1,
-    254.6,
-    243.79,
-    240.35,
-    245.63,
-    250.69,
-    266.03,
-    260.21,
-    259.3,
-    266.93,
-    270.87,
-    266.17,
-    267.44,
-    266.66,
-    257.75
    ],
    "as_of": "2026-11-16"
   },
@@ -345,6 +314,19 @@
   }
  ],
  "editions": [
+  {
+   "at": "2026-11-17T09:30:28+00:00",
+   "new_count": 173,
+   "by_category": {
+    "official": 3,
+    "news": 80,
+    "buzz": 22,
+    "research": 44,
+    "tools": 1,
+    "market": 23
+   },
+   "brief": null
+  },
   {
    "at": "2026-11-16T22:58:23+00:00",
    "new_count": 179,
@@ -620,9 +602,8 @@
   {
    "name": "Google News – Gemini",
    "category": "news",
-   "ok": false,
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Google+Gemini+AI+when%3A2d&hl=en-IN&gl=IN&ceid=IN:en"
+   "ok": true,
+   "count": 25
   },
   {
    "name": "Google News – OpenAI",
@@ -640,7 +621,7 @@
    "name": "Hacker News",
    "category": "buzz",
    "ok": true,
-   "count": 21
+   "count": 23
   },
   {
    "name": "r/LocalLLaMA",
@@ -713,9 +694,8 @@
   {
    "name": "Google News – AI IPO",
    "category": "market",
-   "ok": false,
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=AI+IPO+OR+acquisition+OR+valuation+billion+when%3A2d&hl=en-IN&gl=IN&ceid=IN:en"
+   "ok": true,
+   "count": 25
   },
   {
    "name": "Crunchbase News AI",

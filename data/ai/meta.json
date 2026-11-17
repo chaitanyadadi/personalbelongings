@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-17T09:30:28+00:00",
- "item_count": 1781,
+ "updated": "2026-11-17T21:51:11+00:00",
+ "item_count": 1934,
  "stocks": [
   {
    "ticker": "NVDA",
    "name": "NVIDIA",
-   "price": 156.14,
-   "change_pct": -4.12,
-   "month_pct": -28.08,
+   "price": 155.46,
+   "change_pct": -0.44,
+   "month_pct": -28.39,
    "spark": [
     217.09,
     216.47,
@@ -29,16 +29,17 @@
     173.73,
     166.19,
     162.85,
-    156.14
+    156.14,
+    155.46
    ],
-   "as_of": "2026-11-16"
+   "as_of": "2026-11-17"
   },
   {
    "ticker": "MSFT",
    "name": "Microsoft",
-   "price": 517.99,
-   "change_pct": -1.12,
-   "month_pct": -2.91,
+   "price": 506.24,
+   "change_pct": -2.27,
+   "month_pct": -5.11,
    "spark": [
     533.52,
     531.87,
@@ -60,16 +61,17 @@
     521.13,
     523.0,
     523.88,
-    517.99
+    517.99,
+    506.24
    ],
-   "as_of": "2026-11-16"
+   "as_of": "2026-11-17"
   },
   {
    "ticker": "GOOGL",
    "name": "Alphabet",
-   "price": 283.72,
-   "change_pct": -4.07,
-   "month_pct": -17.57,
+   "price": 280.2,
+   "change_pct": -1.24,
+   "month_pct": -18.59,
    "spark": [
     344.18,
     340.28,
@@ -91,16 +93,49 @@
     293.45,
     298.7,
     295.77,
-    283.72
+    283.72,
+    280.2
    ],
-   "as_of": "2026-11-16"
+   "as_of": "2026-11-17"
+  },
+  {
+   "ticker": "AMZN",
+   "name": "Amazon",
+   "price": 257.89,
+   "change_pct": 0.05,
+   "month_pct": -1.74,
+   "spark": [
+    262.45,
+    262.63,
+    262.37,
+    250.38,
+    248.0,
+    249.09,
+    253.1,
+    254.6,
+    243.79,
+    240.35,
+    245.63,
+    250.69,
+    266.03,
+    260.21,
+    259.3,
+    266.93,
+    270.87,
+    266.17,
+    267.44,
+    266.66,
+    257.75,
+    257.89
+   ],
+   "as_of": "2026-11-17"
   },
   {
    "ticker": "META",
    "name": "Meta",
-   "price": 626.41,
-   "change_pct": -2.38,
-   "month_pct": -11.2,
+   "price": 618.87,
+   "change_pct": -1.2,
+   "month_pct": -12.27,
    "spark": [
     705.44,
     694.25,
@@ -122,16 +157,17 @@
     628.77,
     623.61,
     641.69,
-    626.41
+    626.41,
+    618.87
    ],
-   "as_of": "2026-11-16"
+   "as_of": "2026-11-17"
   },
   {
    "ticker": "AAPL",
    "name": "Apple",
-   "price": 352.78,
-   "change_pct": -0.98,
-   "month_pct": 2.95,
+   "price": 351.91,
+   "change_pct": -0.25,
+   "month_pct": 2.69,
    "spark": [
     342.68,
     339.24,
@@ -153,16 +189,17 @@
     355.36,
     354.88,
     356.27,
-    352.78
+    352.78,
+    351.91
    ],
-   "as_of": "2026-11-16"
+   "as_of": "2026-11-17"
   },
   {
    "ticker": "AMD",
    "name": "AMD",
-   "price": 504.28,
-   "change_pct": -5.58,
-   "month_pct": -6.28,
+   "price": 503.41,
+   "change_pct": -0.17,
+   "month_pct": -6.44,
    "spark": [
     538.05,
     534.74,
@@ -184,16 +221,17 @@
     552.9,
     585.3,
     534.06,
-    504.28
+    504.28,
+    503.41
    ],
-   "as_of": "2026-11-16"
+   "as_of": "2026-11-17"
   },
   {
    "ticker": "TSM",
    "name": "TSMC",
-   "price": 373.45,
-   "change_pct": -6.34,
-   "month_pct": -11.13,
+   "price": 359.69,
+   "change_pct": -3.68,
+   "month_pct": -14.4,
    "spark": [
     420.22,
     425.08,
@@ -215,47 +253,17 @@
     413.35,
     405.49,
     398.73,
-    373.45
+    373.45,
+    359.69
    ],
-   "as_of": "2026-11-16"
-  },
-  {
-   "ticker": "AVGO",
-   "name": "Broadcom",
-   "price": 333.4,
-   "change_pct": -3.92,
-   "month_pct": -0.36,
-   "spark": [
-    334.59,
-    334.37,
-    337.8,
-    323.24,
-    321.68,
-    329.17,
-    342.33,
-    351.81,
-    345.0,
-    326.08,
-    322.23,
-    332.13,
-    325.48,
-    291.53,
-    293.69,
-    319.48,
-    331.98,
-    345.22,
-    364.36,
-    347.01,
-    333.4
-   ],
-   "as_of": "2026-11-16"
+   "as_of": "2026-11-17"
   },
   {
    "ticker": "ORCL",
    "name": "Oracle",
-   "price": 119.09,
-   "change_pct": -4.99,
-   "month_pct": -8.1,
+   "price": 115.0,
+   "change_pct": -3.43,
+   "month_pct": -11.26,
    "spark": [
     129.59,
     131.14,
@@ -277,16 +285,17 @@
     128.38,
     127.11,
     125.35,
-    119.09
+    119.09,
+    115.0
    ],
-   "as_of": "2026-11-16"
+   "as_of": "2026-11-17"
   },
   {
    "ticker": "PLTR",
    "name": "Palantir",
-   "price": 160.39,
-   "change_pct": -4.52,
-   "month_pct": -17.39,
+   "price": 156.56,
+   "change_pct": -2.39,
+   "month_pct": -19.36,
    "spark": [
     194.15,
     192.6,
@@ -308,12 +317,26 @@
     172.4,
     171.58,
     167.99,
-    160.39
+    160.39,
+    156.56
    ],
-   "as_of": "2026-11-16"
+   "as_of": "2026-11-17"
   }
  ],
  "editions": [
+  {
+   "at": "2026-11-17T21:51:11+00:00",
+   "new_count": 153,
+   "by_category": {
+    "official": 11,
+    "news": 90,
+    "buzz": 15,
+    "research": 11,
+    "tools": 5,
+    "market": 21
+   },
+   "brief": null
+  },
   {
    "at": "2026-11-17T09:30:28+00:00",
    "new_count": 173,
@@ -584,8 +607,9 @@
   {
    "name": "Ars Technica AI",
    "category": "news",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='arstechnica.com', port=443): Read timed out. (read timeout=20)"
   },
   {
    "name": "The Batch (DeepLearning.AI)",
@@ -621,13 +645,14 @@
    "name": "Hacker News",
    "category": "buzz",
    "ok": true,
-   "count": 23
+   "count": 25
   },
   {
    "name": "r/LocalLLaMA",
    "category": "buzz",
-   "ok": true,
-   "count": 25
+   "ok": false,
+   "count": 0,
+   "error": "404 Client Error: Not Found for url: https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
   },
   {
    "name": "r/singularity",
@@ -689,7 +714,7 @@
    "name": "Google News – AI funding",
    "category": "market",
    "ok": true,
-   "count": 25
+   "count": 23
   },
   {
    "name": "Google News – AI IPO",

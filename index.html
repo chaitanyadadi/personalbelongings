@@ -3,89 +3,222 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Chaitanya</title>
-  <meta name="description" content="Chaitanya, Power BI developer. Skills, interests, favourites, wishlist and a twice-daily AI Hub.">
+  <title>Chaitanya Dadi, Power BI developer</title>
+  <meta name="description" content="Chaitanya Dadi, Power BI and data developer. Build your own view of my work, and read the AI Hub, updated twice a day.">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&display=swap" rel="stylesheet">
-  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,500;12..96,700;12..96,800&family=DM+Mono:wght@400;500&family=Instrument+Serif:ital@1&family=Lilita+One&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
   <header class="site-header">
     <div class="wrap">
-      <a class="brand" href="index.html"><i aria-hidden="true"></i><span data-field="name">Chaitanya</span></a>
+      <a class="logo" href="index.html">chaitanya <em>dadi</em></a>
+      <span class="meta">Portfolio ~ 2026</span>
       <nav class="site-nav" aria-label="Main">
         <a href="#about">About</a>
         <a href="#skills">Skills</a>
-        <a href="#interests">Interests</a>
-        <a href="#favorites">Favourites</a>
+        <a href="#projects">Projects</a>
+        <a href="#off-the-clock">Off the clock</a>
         <a href="#wishlist">Wishlist</a>
-        <a href="ai.html">AI Hub</a>
+        <a class="cta" href="ai.html">AI Hub</a>
       </nav>
     </div>
   </header>
 
   <main>
-    <section class="hero">
+    <!-- ───────── Cover ───────── -->
+    <section class="cover">
       <div class="wrap">
-        <div>
-          <h1 data-field="name">Chaitanya</h1>
-          <p class="role"><mark data-field="role">Power BI developer</mark></p>
-          <p class="tagline" data-field="tagline"></p>
-          <div class="links" id="links"></div>
+        <h1>Meet me<span class="serif">your way.</span></h1>
+        <p class="lead" id="lead">I'm Chaitanya, a Power BI developer with eight years of turning messy data into reports people actually open. Lift the lid below and build your own view of what I do.</p>
+
+        <div class="proto-wrap" id="proto-wrap">
+          <div class="proto" id="proto" data-state="closed" aria-label="Interactive portfolio builder">
+            <div class="brand"><span class="logo">chaitanya</span><small>Data, made<br>by you.</small></div>
+            <div class="status">Made to order · ready in 8 years</div>
+
+            <div class="hero-copy">
+              <div class="t">Your view,<br>your <span class="serif">rules.</span></div>
+              <p>Pick what you want to know. Every pick lands in the bowl and on the receipt.</p>
+              <button class="btn btn-teal" type="button" data-open>Lift the lid ↗</button>
+            </div>
+
+            <div class="how" aria-hidden="true">
+              <div class="mono" style="font-size:11px;letter-spacing:.14em;color:var(--coral);text-transform:uppercase">How it works</div>
+              <ol>
+                <li><span>1</span><span>Lift the lid.</span></li>
+                <li><span>2</span><span>Tap or drag what you want to see.</span></li>
+                <li><span>3</span><span>Seal it, and say hello.</span></li>
+              </ol>
+            </div>
+
+            <div class="tray-label">Pile it on.</div>
+            <div class="tray" id="tray"></div>
+
+            <div class="vessel" id="vessel"><div class="rim"></div><div class="base"></div><div class="pieces" id="pieces"></div></div>
+            <button class="lid" id="lid" type="button" data-open aria-label="Lift the lid to start">
+              <span class="sticker"><span><span class="logo">chaitanya</span><small>open me</small></span></span>
+            </button>
+            <div class="sticks" aria-hidden="true"></div>
+
+            <aside class="receipt" aria-live="polite">
+              <div class="head"><span class="logo">chaitanya</span><small>Portfolio · made your way</small></div>
+              <div class="bill">
+                <div class="sub">Your view</div>
+                <ul id="lines"></ul>
+                <div class="total"><span>TOTAL</span><b id="total">0 of 7</b></div>
+                <button class="btn btn-coral" type="button" id="seal">Seal it ↗</button>
+                <div class="barcode" aria-hidden="true"></div>
+              </div>
+              <div class="thanks">
+                <div class="mono" style="font-size:10px;letter-spacing:.16em;color:var(--coral);text-transform:uppercase">Order sealed</div>
+                <div class="big">Nice picks, <span class="serif">friend.</span></div>
+                <p>Thanks for building your view. Want the real thing? Say hello.</p>
+                <div id="contact-links"></div>
+                <button class="btn btn-ghost" type="button" id="again" style="margin-top:14px;width:100%;justify-content:center;font-size:14px">Build another</button>
+              </div>
+            </aside>
+
+            <div class="stamp" aria-hidden="true">Sealed fresh<small>Thanks for visiting</small></div>
+            <div class="cloth" aria-hidden="true"></div>
+
+            <div class="coach"><span class="say" id="say" role="status">Lift the lid to start.</span><button class="undo" id="undo" type="button" disabled>↶ Undo</button></div>
+            <div class="proto-note">Prototype · every piece is drawn in code.</div>
+          </div>
         </div>
 
-        <aside class="pulse" aria-labelledby="pulse-title">
-          <h2 id="pulse-title">Latest in AI</h2>
-          <p class="meta" id="pulse-updated">Loading the AI Hub…</p>
-          <ol id="pulse-list"></ol>
-          <a class="button" href="ai.html">Open the AI Hub</a>
-        </aside>
+        <div class="pills">
+          <span class="pill">8+ years</span>
+          <span class="pill">Power BI · DAX · Fabric</span>
+          <span class="pill">AI Hub, updated twice a day</span>
+        </div>
+        <p class="case">Now building: <b>this site</b>, a portfolio with its own AI news hub, made with GitHub Pages and Python.</p>
       </div>
     </section>
 
-    <section class="section" id="about">
-      <div class="wrap section-head">
-        <h2>About</h2>
-        <div class="about" id="about-body"></div>
+    <!-- ───────── About ───────── -->
+    <section class="page" id="about">
+      <div class="wrap">
+        <p class="eyebrow">Who I am</p>
+        <h2>Eight years, <span class="serif">one craft.</span></h2>
+        <div class="lead" id="about-lead"></div>
+        <div class="two-col">
+          <ol class="numbered" id="strengths"></ol>
+          <div style="display:flex;flex-direction:column;gap:20px">
+            <div class="callout"><b>How I work.</b><span id="how-i-work">Start from the question, model the data properly, then design the page. A report is finished when people use it without asking me how.</span></div>
+            <div class="panel-teal">
+              <h3>One model, many reports</h3>
+              <p><b>Clean data</b> in. <b>Clear visuals</b> out. <b>Decisions</b> made faster. The model stays put while the pages around it change.</p>
+            </div>
+          </div>
+        </div>
+        <div class="page-foot"><span>chaitanya · portfolio</span><span>02</span></div>
       </div>
     </section>
 
-    <section class="section" id="skills">
-      <div class="wrap section-head">
-        <h2>Skills</h2>
-        <div class="skills" id="skills-body"></div>
+    <!-- ───────── Skills ───────── -->
+    <section class="page" id="skills">
+      <div class="wrap">
+        <p class="eyebrow"><span class="step-pill">Step 1</span>Skills</p>
+        <h2>The toolkit <span class="serif">behind the pixels.</span></h2>
+        <p class="lead">Every report starts long before the first visual: in the model, the queries and the pipelines that feed them.</p>
+        <div style="margin-top:36px;overflow-x:auto">
+          <table class="table" id="skills-table">
+            <thead><tr><th style="width:22%">Area</th><th>Tools</th><th style="width:18%">Level</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <div class="page-foot"><span>chaitanya · portfolio</span><span>03</span></div>
       </div>
     </section>
 
-    <section class="section" id="interests">
-      <div class="wrap section-head">
-        <h2>Interests</h2>
-        <div class="grid-cards" id="interests-body"></div>
+    <!-- ───────── Projects ───────── -->
+    <section class="page" id="projects">
+      <div class="wrap">
+        <p class="eyebrow"><span class="step-pill">Step 2</span>Projects</p>
+        <h2>Things I've <span class="serif">built.</span></h2>
+        <p class="lead">Reports, pipelines and this website. Each one started with a question somebody needed answered.</p>
+        <div class="beats" id="projects-grid"></div>
+        <div class="page-foot"><span>chaitanya · portfolio</span><span>04</span></div>
       </div>
     </section>
 
-    <section class="section" id="favorites">
-      <div class="wrap section-head">
-        <h2>Favourites</h2>
-        <div class="favorites" id="favorites-body"></div>
+    <!-- ───────── AI Hub ───────── -->
+    <section class="page" id="ai-hub">
+      <div class="wrap">
+        <p class="eyebrow"><span class="step-pill">Step 3</span>AI Hub</p>
+        <h2>The AI news, <span class="serif">twice a day.</span></h2>
+        <p class="lead">A Python script on GitHub Actions reads about 40 sources at 7 AM and 7 PM IST, removes duplicates, tags each story by company and publishes it here.</p>
+<pre class="code"><span class="c"># scripts/sources.yaml</span>
+<span class="k">sources:</span>
+  - { name: <span class="s">"Anthropic news"</span>,  type: rss,         category: official }
+  - { name: <span class="s">"Hacker News"</span>,     type: hn,          category: buzz, min_points: 50 }
+  - { name: <span class="s">"arXiv cs.AI"</span>,     type: arxiv,       category: research }
+  - { name: <span class="s">"AI funding"</span>,      type: google_news, category: market }
+<span class="c">  # 40 sources, six sections, refreshed at 7 AM and 7 PM IST</span></pre>
+        <div class="two-col">
+          <div>
+            <h3 style="margin-bottom:14px">What's inside</h3>
+            <table class="table">
+              <thead><tr><th>Section</th><th>What it covers</th></tr></thead>
+              <tbody>
+                <tr><td>Official updates</td><td>New models and releases from the labs</td></tr>
+                <tr><td>Headlines</td><td>Articles from tech news sites</td></tr>
+                <tr><td>Gossip and buzz</td><td>Hacker News, Reddit, rumours (marked unverified)</td></tr>
+                <tr><td>Research</td><td>New papers from arXiv and Hugging Face</td></tr>
+                <tr><td>New models and tools</td><td>Trending models and repositories</td></tr>
+                <tr><td>Market and funding</td><td>Funding rounds, IPOs and AI stocks</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <div style="display:flex;flex-direction:column;gap:20px">
+            <div class="callout"><b>Feedback loop.</b>Each run adds a short brief, flags what's new since the last edition, and shows which sources worked.</div>
+            <div><a class="btn btn-coral" href="ai.html">Open the AI Hub ↗</a></div>
+          </div>
+        </div>
+        <div class="page-foot"><span>chaitanya · portfolio</span><span>05</span></div>
       </div>
     </section>
 
-    <section class="section" id="wishlist">
-      <div class="wrap section-head">
-        <h2>Wishlist</h2>
-        <ul class="wishlist" id="wishlist-body"></ul>
+    <!-- ───────── Off the clock ───────── -->
+    <section class="page" id="off-the-clock">
+      <div class="wrap">
+        <p class="eyebrow">Off the clock</p>
+        <h2>The rest of <span class="serif">the menu.</span></h2>
+        <div class="two-col">
+          <div>
+            <h3 style="margin-bottom:18px">Interests</h3>
+            <ul class="dots" id="interests"></ul>
+          </div>
+          <div>
+            <h3 style="margin-bottom:18px">Favourites</h3>
+            <div class="fav-grid" id="favorites"></div>
+          </div>
+        </div>
+        <div class="page-foot"><span>chaitanya · portfolio</span><span>06</span></div>
+      </div>
+    </section>
+
+    <!-- ───────── Wishlist ───────── -->
+    <section class="page" id="wishlist">
+      <div class="wrap">
+        <p class="eyebrow"><span class="step-pill">Step 4</span>Wishlist</p>
+        <h2>Before the next <span class="serif">launch.</span></h2>
+        <p class="lead">What I want to learn, build and do next. Filled boxes are already done.</p>
+        <ul class="checks" id="wishlist-list" style="margin-top:30px"></ul>
+        <div class="page-foot"><span>chaitanya · portfolio</span><span>07</span></div>
       </div>
     </section>
   </main>
 
   <footer class="site-footer">
-    <div class="wrap">Built with Claude. The AI Hub refreshes itself at 7 AM and 7 PM IST.</div>
+    <div class="wrap"><span>chaitanya · portfolio · built with Claude</span><span>AI Hub refreshes at 7 AM and 7 PM IST</span></div>
   </footer>
 
   <script src="assets/common.js"></script>
   <script src="assets/home.js"></script>
+  <script src="assets/builder.js"></script>
 </body>
 </html>

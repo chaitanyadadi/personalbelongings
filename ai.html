@@ -7,35 +7,38 @@
   <meta name="description" content="Official AI model updates, headlines, gossip, research, new tools and the AI market, refreshed at 7 AM and 7 PM IST.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,500;12..96,700;12..96,800&family=DM+Mono:wght@400;500&family=Instrument+Serif:ital@1&family=Lilita+One&display=swap" rel="stylesheet">
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
   <header class="site-header">
     <div class="wrap">
-      <a class="brand" href="index.html"><i aria-hidden="true"></i>Chaitanya</a>
+      <a class="logo" href="index.html">chaitanya <em>dadi</em></a>
+      <span class="meta">AI Hub ~ twice a day</span>
       <nav class="site-nav" aria-label="Main">
         <a href="index.html#about">About</a>
         <a href="index.html#skills">Skills</a>
-        <a href="index.html#interests">Interests</a>
-        <a href="index.html#favorites">Favourites</a>
+        <a href="index.html#projects">Projects</a>
+        <a href="index.html#off-the-clock">Off the clock</a>
         <a href="index.html#wishlist">Wishlist</a>
-        <a href="ai.html" aria-current="page">AI Hub</a>
+        <a class="cta" href="ai.html" aria-current="page">AI Hub</a>
       </nav>
     </div>
   </header>
 
   <main>
-    <div class="hub-head">
+    <section class="hub-cover">
       <div class="wrap">
-        <h1>AI Hub</h1>
+        <p class="eyebrow">Morning and evening edition</p>
+        <h1>The AI <span class="serif">Hub.</span></h1>
+        <p class="lead" style="margin-top:18px">Official model updates, headlines, gossip, research, new tools and the AI market, collected from about 40 sources at 7 AM and 7 PM IST.</p>
         <p class="edition" id="edition">Loading…</p>
       </div>
-    </div>
+    </section>
 
     <section class="market" aria-label="AI stocks">
-      <ul id="market"></ul>
+      <ul id="market" class="wrap"></ul>
     </section>
 
     <div class="wrap">
@@ -83,7 +86,7 @@
   </main>
 
   <footer class="site-footer">
-    <div class="wrap">Headlines and short summaries link to the original publishers. Items marked unverified are rumours or community posts.</div>
+    <div class="wrap"><span>chaitanya · ai hub</span><span>Headlines and short summaries link to the original publishers. Unverified = rumours or community posts.</span></div>
   </footer>
 
   <script src="assets/common.js"></script>

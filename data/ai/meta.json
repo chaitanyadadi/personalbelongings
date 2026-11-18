@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T21:51:11+00:00",
- "item_count": 1934,
+ "updated": "2026-11-18T08:48:26+00:00",
+ "item_count": 2070,
  "stocks": [
   {
    "ticker": "NVDA",
@@ -259,6 +259,38 @@
    "as_of": "2026-11-17"
   },
   {
+   "ticker": "AVGO",
+   "name": "Broadcom",
+   "price": 341.6,
+   "change_pct": 2.46,
+   "month_pct": 2.1,
+   "spark": [
+    334.59,
+    334.37,
+    337.8,
+    323.24,
+    321.68,
+    329.17,
+    342.33,
+    351.81,
+    345.0,
+    326.08,
+    322.23,
+    332.13,
+    325.48,
+    291.53,
+    293.69,
+    319.48,
+    331.98,
+    345.22,
+    364.36,
+    347.01,
+    333.4,
+    341.6
+   ],
+   "as_of": "2026-11-17"
+  },
+  {
    "ticker": "ORCL",
    "name": "Oracle",
    "price": 115.0,
@@ -324,6 +356,19 @@
   }
  ],
  "editions": [
+  {
+   "at": "2026-11-18T08:48:26+00:00",
+   "new_count": 137,
+   "by_category": {
+    "official": 1,
+    "news": 62,
+    "buzz": 16,
+    "research": 46,
+    "tools": 3,
+    "market": 9
+   },
+   "brief": null
+  },
   {
    "at": "2026-11-17T21:51:11+00:00",
    "new_count": 153,
@@ -607,9 +652,8 @@
   {
    "name": "Ars Technica AI",
    "category": "news",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='arstechnica.com', port=443): Read timed out. (read timeout=20)"
+   "ok": true,
+   "count": 20
   },
   {
    "name": "The Batch (DeepLearning.AI)",
@@ -714,7 +758,7 @@
    "name": "Google News – AI funding",
    "category": "market",
    "ok": true,
-   "count": 23
+   "count": 25
   },
   {
    "name": "Google News – AI IPO",

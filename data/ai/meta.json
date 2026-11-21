@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T21:24:19+00:00",
- "item_count": 2840,
+ "updated": "2026-11-21T08:31:02+00:00",
+ "item_count": 2900,
  "stocks": [
   {
    "ticker": "NVDA",
@@ -236,9 +236,9 @@
   {
    "ticker": "TSM",
    "name": "TSMC",
-   "price": 319.14,
-   "change_pct": -9.36,
-   "month_pct": -26.11,
+   "price": 318.71,
+   "change_pct": -9.48,
+   "month_pct": -26.21,
    "spark": [
     431.89,
     412.35,
@@ -262,7 +262,7 @@
     359.69,
     362.62,
     352.09,
-    319.14
+    318.71
    ],
    "as_of": "2026-11-20"
   },
@@ -367,6 +367,19 @@
   }
  ],
  "editions": [
+  {
+   "at": "2026-11-21T08:31:02+00:00",
+   "new_count": 66,
+   "by_category": {
+    "official": 2,
+    "news": 42,
+    "buzz": 10,
+    "research": 4,
+    "tools": 2,
+    "market": 6
+   },
+   "brief": null
+  },
   {
    "at": "2026-11-20T21:24:19+00:00",
    "new_count": 156,
@@ -834,13 +847,14 @@
    "name": "Google News – AI funding",
    "category": "market",
    "ok": true,
-   "count": 25
+   "count": 18
   },
   {
    "name": "Google News – AI IPO",
    "category": "market",
-   "ok": true,
-   "count": 25
+   "ok": false,
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=AI+IPO+OR+acquisition+OR+valuation+billion+when%3A2d&hl=en-IN&gl=IN&ceid=IN:en"
   },
   {
    "name": "Crunchbase News AI",

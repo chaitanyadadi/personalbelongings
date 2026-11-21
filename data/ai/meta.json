@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T08:31:02+00:00",
- "item_count": 2900,
+ "updated": "2026-11-21T20:11:58+00:00",
+ "item_count": 2981,
  "stocks": [
   {
    "ticker": "NVDA",
@@ -65,39 +65,6 @@
     507.31,
     498.3,
     484.52
-   ],
-   "as_of": "2026-11-20"
-  },
-  {
-   "ticker": "GOOGL",
-   "name": "Alphabet",
-   "price": 265.29,
-   "change_pct": -2.7,
-   "month_pct": -20.75,
-   "spark": [
-    334.76,
-    324.22,
-    320.21,
-    316.8,
-    320.58,
-    324.89,
-    283.82,
-    279.84,
-    278.99,
-    280.03,
-    288.93,
-    282.57,
-    284.78,
-    288.15,
-    287.38,
-    293.45,
-    298.7,
-    295.77,
-    283.72,
-    280.2,
-    282.44,
-    272.66,
-    265.29
    ],
    "as_of": "2026-11-20"
   },
@@ -367,6 +334,19 @@
   }
  ],
  "editions": [
+  {
+   "at": "2026-11-21T20:11:58+00:00",
+   "new_count": 83,
+   "by_category": {
+    "official": 0,
+    "news": 47,
+    "buzz": 16,
+    "research": 1,
+    "tools": 3,
+    "market": 16
+   },
+   "brief": null
+  },
   {
    "at": "2026-11-21T08:31:02+00:00",
    "new_count": 66,
@@ -765,8 +745,9 @@
   {
    "name": "Google News – OpenAI",
    "category": "news",
-   "ok": true,
-   "count": 25
+   "ok": false,
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=OpenAI+ChatGPT+when%3A2d&hl=en-IN&gl=IN&ceid=IN:en"
   },
   {
    "name": "Google News – India AI",
@@ -778,7 +759,7 @@
    "name": "Hacker News",
    "category": "buzz",
    "ok": true,
-   "count": 25
+   "count": 22
   },
   {
    "name": "r/LocalLLaMA",
@@ -852,9 +833,8 @@
   {
    "name": "Google News – AI IPO",
    "category": "market",
-   "ok": false,
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=AI+IPO+OR+acquisition+OR+valuation+billion+when%3A2d&hl=en-IN&gl=IN&ceid=IN:en"
+   "ok": true,
+   "count": 25
   },
   {
    "name": "Crunchbase News AI",

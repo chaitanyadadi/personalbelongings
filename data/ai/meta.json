@@ -1,7 +1,40 @@
 {
- "updated": "2026-11-22T08:26:23+00:00",
- "item_count": 3040,
+ "updated": "2026-11-22T20:26:00+00:00",
+ "item_count": 3126,
  "stocks": [
+  {
+   "ticker": "NVDA",
+   "name": "NVIDIA",
+   "price": 125.53,
+   "change_pct": -14.01,
+   "month_pct": -43.45,
+   "spark": [
+    221.97,
+    212.21,
+    210.96,
+    216.0,
+    217.94,
+    215.38,
+    213.66,
+    204.64,
+    202.06,
+    206.69,
+    200.13,
+    181.6,
+    186.64,
+    178.67,
+    168.89,
+    173.73,
+    166.19,
+    162.85,
+    156.14,
+    155.46,
+    150.96,
+    145.98,
+    125.53
+   ],
+   "as_of": "2026-11-20"
+  },
   {
    "ticker": "MSFT",
    "name": "Microsoft",
@@ -334,6 +367,19 @@
   }
  ],
  "editions": [
+  {
+   "at": "2026-11-22T20:26:00+00:00",
+   "new_count": 86,
+   "by_category": {
+    "official": 1,
+    "news": 52,
+    "buzz": 20,
+    "research": 1,
+    "tools": 0,
+    "market": 12
+   },
+   "brief": null
+  },
   {
    "at": "2026-11-22T08:26:23+00:00",
    "new_count": 63,
@@ -798,7 +844,7 @@
    "name": "Google News – AI rumours",
    "category": "buzz",
    "ok": true,
-   "count": 25
+   "count": 23
   },
   {
    "name": "Hugging Face daily papers",
@@ -840,7 +886,7 @@
    "name": "Google News – AI funding",
    "category": "market",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "name": "Google News – AI IPO",

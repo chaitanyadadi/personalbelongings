@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-24T11:20:15+00:00",
- "item_count": 3583,
+ "updated": "2026-11-24T23:11:14+00:00",
+ "item_count": 3710,
  "stocks": [
   {
    "ticker": "NVDA",
    "name": "NVIDIA",
-   "price": 165.05,
-   "change_pct": 31.48,
-   "month_pct": -23.59,
+   "price": 155.38,
+   "change_pct": -5.86,
+   "month_pct": -28.06,
    "spark": [
     216.0,
     217.94,
@@ -29,16 +29,17 @@
     150.96,
     145.98,
     125.53,
-    165.05
+    165.05,
+    155.38
    ],
-   "as_of": "2026-11-23"
+   "as_of": "2026-11-24"
   },
   {
    "ticker": "MSFT",
    "name": "Microsoft",
-   "price": 492.5,
-   "change_pct": 1.65,
-   "month_pct": -7.35,
+   "price": 496.13,
+   "change_pct": 0.74,
+   "month_pct": -6.67,
    "spark": [
     531.57,
     530.31,
@@ -60,16 +61,17 @@
     507.31,
     498.3,
     484.52,
-    492.5
+    492.5,
+    496.13
    ],
-   "as_of": "2026-11-23"
+   "as_of": "2026-11-24"
   },
   {
    "ticker": "GOOGL",
    "name": "Alphabet",
-   "price": 282.1,
-   "change_pct": 6.34,
-   "month_pct": -10.95,
+   "price": 279.05,
+   "change_pct": -1.08,
+   "month_pct": -11.92,
    "spark": [
     316.8,
     320.58,
@@ -91,16 +93,17 @@
     282.44,
     272.66,
     265.29,
-    282.1
+    282.1,
+    279.05
    ],
-   "as_of": "2026-11-23"
+   "as_of": "2026-11-24"
   },
   {
    "ticker": "AMZN",
    "name": "Amazon",
-   "price": 255.39,
-   "change_pct": 3.47,
-   "month_pct": 2.53,
+   "price": 252.29,
+   "change_pct": -1.21,
+   "month_pct": 1.28,
    "spark": [
     249.09,
     253.1,
@@ -122,16 +125,17 @@
     267.74,
     257.37,
     246.82,
-    255.39
+    255.39,
+    252.29
    ],
-   "as_of": "2026-11-23"
+   "as_of": "2026-11-24"
   },
   {
    "ticker": "META",
    "name": "Meta",
-   "price": 597.6,
-   "change_pct": 6.55,
-   "month_pct": -5.23,
+   "price": 589.82,
+   "change_pct": -1.3,
+   "month_pct": -6.46,
    "spark": [
     630.56,
     620.19,
@@ -153,16 +157,17 @@
     616.38,
     596.22,
     560.84,
-    597.6
+    597.6,
+    589.82
    ],
-   "as_of": "2026-11-23"
+   "as_of": "2026-11-24"
   },
   {
    "ticker": "AAPL",
    "name": "Apple",
-   "price": 349.08,
-   "change_pct": 1.9,
-   "month_pct": 1.58,
+   "price": 354.07,
+   "change_pct": 1.43,
+   "month_pct": 3.03,
    "spark": [
     343.65,
     346.84,
@@ -184,16 +189,17 @@
     352.45,
     349.21,
     342.56,
-    349.08
+    349.08,
+    354.07
    ],
-   "as_of": "2026-11-23"
+   "as_of": "2026-11-24"
   },
   {
    "ticker": "AMD",
    "name": "AMD",
-   "price": 453.46,
-   "change_pct": 6.85,
-   "month_pct": -14.65,
+   "price": 413.27,
+   "change_pct": -8.86,
+   "month_pct": -22.21,
    "spark": [
     531.28,
     560.26,
@@ -215,16 +221,17 @@
     530.14,
     489.19,
     424.39,
-    453.46
+    453.46,
+    413.27
    ],
-   "as_of": "2026-11-23"
+   "as_of": "2026-11-24"
   },
   {
    "ticker": "TSM",
    "name": "TSMC",
-   "price": 363.6,
-   "change_pct": 14.08,
-   "month_pct": -14.32,
+   "price": 349.2,
+   "change_pct": -3.96,
+   "month_pct": -17.71,
    "spark": [
     424.37,
     436.87,
@@ -246,16 +253,17 @@
     362.62,
     352.09,
     318.71,
-    363.6
+    363.6,
+    349.2
    ],
-   "as_of": "2026-11-23"
+   "as_of": "2026-11-24"
   },
   {
    "ticker": "AVGO",
    "name": "Broadcom",
-   "price": 313.55,
-   "change_pct": 3.0,
-   "month_pct": -4.75,
+   "price": 301.08,
+   "change_pct": -3.98,
+   "month_pct": -8.53,
    "spark": [
     329.17,
     342.33,
@@ -277,16 +285,17 @@
     354.05,
     346.65,
     304.41,
-    313.55
+    313.55,
+    301.08
    ],
-   "as_of": "2026-11-23"
+   "as_of": "2026-11-24"
   },
   {
    "ticker": "ORCL",
    "name": "Oracle",
-   "price": 113.68,
-   "change_pct": 12.34,
-   "month_pct": -9.82,
+   "price": 109.5,
+   "change_pct": -3.68,
+   "month_pct": -13.14,
    "spark": [
     126.06,
     130.53,
@@ -308,16 +317,17 @@
     113.89,
     110.57,
     101.19,
-    113.68
+    113.68,
+    109.5
    ],
-   "as_of": "2026-11-23"
+   "as_of": "2026-11-24"
   },
   {
    "ticker": "PLTR",
    "name": "Palantir",
-   "price": 159.36,
-   "change_pct": 11.06,
-   "month_pct": -19.86,
+   "price": 161.18,
+   "change_pct": 1.14,
+   "month_pct": -18.94,
    "spark": [
     198.84,
     198.73,
@@ -339,12 +349,26 @@
     156.67,
     153.68,
     143.49,
-    159.36
+    159.36,
+    161.18
    ],
-   "as_of": "2026-11-23"
+   "as_of": "2026-11-24"
   }
  ],
  "editions": [
+  {
+   "at": "2026-11-24T23:11:14+00:00",
+   "new_count": 127,
+   "by_category": {
+    "official": 10,
+    "news": 83,
+    "buzz": 7,
+    "research": 11,
+    "tools": 5,
+    "market": 11
+   },
+   "brief": null
+  },
   {
    "at": "2026-11-24T11:20:15+00:00",
    "new_count": 142,
@@ -860,8 +884,9 @@
   {
    "name": "Google News – AI rumours",
    "category": "buzz",
-   "ok": true,
-   "count": 25
+   "ok": false,
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=AI+model+leak+OR+rumor+OR+reportedly+when%3A2d&hl=en-IN&gl=IN&ceid=IN:en"
   },
   {
    "name": "Hugging Face daily papers",
@@ -902,8 +927,9 @@
   {
    "name": "Google News – AI funding",
    "category": "market",
-   "ok": true,
-   "count": 25
+   "ok": false,
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=AI+startup+raises+funding+valuation+when%3A2d&hl=en-IN&gl=IN&ceid=IN:en"
   },
   {
    "name": "Google News – AI IPO",

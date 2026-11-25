@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T23:11:14+00:00",
- "item_count": 3710,
+ "updated": "2026-11-25T10:05:10+00:00",
+ "item_count": 3860,
  "stocks": [
   {
    "ticker": "NVDA",
@@ -356,6 +356,19 @@
   }
  ],
  "editions": [
+  {
+   "at": "2026-11-25T10:05:10+00:00",
+   "new_count": 154,
+   "by_category": {
+    "official": 1,
+    "news": 68,
+    "buzz": 23,
+    "research": 50,
+    "tools": 2,
+    "market": 10
+   },
+   "brief": null
+  },
   {
    "at": "2026-11-24T23:11:14+00:00",
    "new_count": 127,
@@ -884,9 +897,8 @@
   {
    "name": "Google News – AI rumours",
    "category": "buzz",
-   "ok": false,
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=AI+model+leak+OR+rumor+OR+reportedly+when%3A2d&hl=en-IN&gl=IN&ceid=IN:en"
+   "ok": true,
+   "count": 25
   },
   {
    "name": "Hugging Face daily papers",
@@ -927,9 +939,8 @@
   {
    "name": "Google News – AI funding",
    "category": "market",
-   "ok": false,
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=AI+startup+raises+funding+valuation+when%3A2d&hl=en-IN&gl=IN&ceid=IN:en"
+   "ok": true,
+   "count": 25
   },
   {
    "name": "Google News – AI IPO",

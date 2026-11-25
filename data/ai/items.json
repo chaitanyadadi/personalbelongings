@@ -1,5 +1,1387 @@
 [
 {
+"id": "bd14212a760a",
+"title": "Online estate planner Safewill raises $15 million Series C",
+"url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGZhRkppTUZ6di1kZmhFY2wxaHVHM1EwcjRVQlZFeDJ0VldqZ0I1R05YbnI2eVE4elBFR3UzQVBLS3RwakFaYmNIMzlJOHdkV0dtSTVqQW9SWFQ3VmhkZVMyZW0xUTZnaENoVWVXMUZaSzFmbUR5ZEpvbklMSElVZkVtbzZBYVRpUUI2ZWFwNExTX0ZRbG1BTA?oc=5",
+"source": "Google News – AI funding",
+"category": "market",
+"published": "2026-11-25T22:05:29+00:00",
+"summary": "",
+"publisher": "Startup Daily",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "ceecf9e348f1",
+"title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+"url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+"source": "The Verge AI",
+"category": "news",
+"published": "2026-11-25T21:51:26+00:00",
+"summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might…",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "155a2076e0e9",
+"title": "Google Is Building a Custom AI Sticker Maker for Gemini That Lets You Download Entire Packs",
+"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUFhxR3V3c1BTTE9LM3NaQndkQVdBWnVHbEQzUk9QeDhKNnhPd05HTVlycjFWeHBKRjltck1HVlNVVkFLbXZkT09lTk4xX0xuYTBmY0lkLURIdXVwOEVxaURtY3FfdTVTaGNzZEpmWHItX2d0OUFnOHJYRWJENlJwVmgwNnowWFhKTkZMeE9tUUJHQmc?oc=5",
+"source": "Google News – Gemini",
+"category": "news",
+"published": "2026-11-25T21:37:57+00:00",
+"summary": "",
+"publisher": "Android Headlines",
+"companies": [
+"Google"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "88609de59b33",
+"title": "ElevenLabs targets $33B valuation in early 2027 funding talks, Bloomberg reports",
+"url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNamp6c3kzVFB6eUV2azVRakpzUlFlSjU5NmUzX0hscFk1OFFKX3JXSXEyYl9KTVdHU0lVM3hYaWFrMDI1TWVVU3NiX1dFWHRBNFZuNmtRMHVfdlQ0TDlqVGxqSzFWX3diVHRBLXZqSWhhWnhyWDNkbElNOEVicFVXb2RkNnNYMGFGMTA3cVQzc0QzMGhTdkdoLWR4NHUzTlJWaDVZTnBESWwzX1ZsUTdjMWlsX3pYRElvZ3FZb216U2dzaDhHSTNzSE1GT0p1ZlZwWHpNbA?oc=5",
+"source": "Google News – AI IPO",
+"category": "market",
+"published": "2026-11-25T20:58:30+00:00",
+"summary": "",
+"publisher": "StreetInsider",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "cd78ce9ec2e1",
+"title": "Google's AI Mode Is Getting Wallet, Drive, and Gemini App Integrations",
+"url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0l3MmQtSEt5S0RIRGhfWXA0bUs5Njd5X1RRYjJZbUVia2tYTkIwcmZUSlRhbXU0VEdURmMtZDZWZVVHdEVZM1FQRjVhbjRlMFRqV0dMNW1KRWhnZEJLVjRLWTBLQjBOdXE3THNBSlhZTWN1eFNIQzJJZjJ6LTBrRHdMWjVnUjBvcThkMGNkTzZSeDlLcU02SW5R?oc=5",
+"source": "Google News – Gemini",
+"category": "news",
+"published": "2026-11-25T20:30:41+00:00",
+"summary": "",
+"publisher": "PCMag",
+"companies": [
+"Google"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "ed57d01223d9",
+"title": "OpenAI merges ChatGPT chat and work limits as heavy users may face earlier caps",
+"url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOHZKbUFVd3N2SXpPTU5LbVp4NEhxTDlrcUF3SVoteVM4MXJ0MjA4azFNZGRVclN1U2hSWkFiRS1lcThrM1RCcEN4OFBENmpkemY5NlJSUTltNVhnV1poTHRSajREdWttZ196Q09aMG9GU09BOHVOUWhUNFUzdWlCSFdOT2I4VVVQbmRpckhlMmRBbnZZbWc?oc=5",
+"source": "Google News – OpenAI",
+"category": "news",
+"published": "2026-11-25T20:10:38+00:00",
+"summary": "",
+"publisher": "Traders Union",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "4f1313115262",
+"title": "OpenAI merges ChatGPT Chat and Work tabs, adds shared usage limits",
+"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxWkZmQXpiM3hqc3BORTdOZFFiYWIxVnI4MTg5cVBueE9PbHBYdlowUVIydEVONm1Zb3dVLUxuYzJvWWl0Mnd0WklaUGt4dW45b3NmM1BrdUxpNERjblMwdXhhU0RnU2ZJcnRyaTZELXE0SWVURkstckNoeGo?oc=5",
+"source": "Google News – OpenAI",
+"category": "news",
+"published": "2026-11-25T20:07:01+00:00",
+"summary": "",
+"publisher": "Crypto Briefing",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "a7759c86ba80",
+"title": "Google Gemini AI integration sees General Motors stock price in upward move",
+"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUV8tVjRKMlFpWTRtLW5DQThxam5NZjBNRHk2dXEtOVdWN1ZtNGh3YTRpelN3emV6V1V2d2NvajNWS3RBSS1KZHFSX3pJUU8yaEd1bWxoVG54N3lIbFpHMUNzYmdsWHV2LW9tRW5tbTByMzZ3YlpQRVhvbEpibVRVRXphcERMaWFfeXBnWVV3?oc=5",
+"source": "Google News – Gemini",
+"category": "news",
+"published": "2026-11-25T20:04:22+00:00",
+"summary": "",
+"publisher": "Traders Union",
+"companies": [
+"Google"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "4c44ce30146b",
+"title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+"url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+"source": "TechCrunch AI",
+"category": "news",
+"published": "2026-11-25T20:03:27+00:00",
+"summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "e7d7a2ca3b37",
+"title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+"url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+"source": "TechCrunch AI",
+"category": "news",
+"published": "2026-11-25T19:54:57+00:00",
+"summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+"companies": [
+"NVIDIA"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "04645d4546ce",
+"title": "Anthropic set more than 1,700 traps for Claude — what it found is both reassuring and unsettling",
+"url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pMGFiVTVTTEM5QWh0VEhCcUc4RFRYcGFlMFROamdYOF9oR3V5SHFaZmk3bUxTem5rMTZYWWZXZUNfTGZJQW1UTVRyUXZUR1FMUThkMV83VDFoeEg0N3R0WXgyaWc?oc=5",
+"source": "Google News – Claude",
+"category": "news",
+"published": "2026-11-25T19:49:16+00:00",
+"summary": "",
+"publisher": "The New Stack",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "66b3cb491448",
+"title": "Anthropic Claude AI Predicts a Mindblowing BTC Reversal",
+"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX2ZIdUpYVWR6MlNiUGZmUFBCelpDbXR0Nk5WQzc2MFRFbktJVld0RHJ1QWxlbWg3RTlGYzVfUGdNQWJRcU9tcENIMjBSOVJXQXBlUHNjVVNsXzhHSE1tWDdFaHAyM3RwMnRTLUNOQVNKT2VYQjdtVHV4RVppNFhuc1FEWi1MNTIwRmc?oc=5",
+"source": "Google News – Claude",
+"category": "news",
+"published": "2026-11-25T19:45:00+00:00",
+"summary": "",
+"publisher": "Cryptonews",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "372ac8913322",
+"title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+"url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+"source": "TechCrunch AI",
+"category": "news",
+"published": "2026-11-25T19:44:24+00:00",
+"summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "fadc7cdb7063",
+"title": "Gemini Cannot Access Gmail or Drive? Settings to Check",
+"url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBndW9POGtUYnR1NEpGWUl3bDltbDItYTJacUczNjRNS2ExbWlZN2E2R3M5cE5SU3NVUURaNW5qZWdNbUZWZmRRc1ZSQ3NlTG10Z1hXQllOWU5GOTZJc0h3NTE2UzRpQ01nZ2dPN01CN25SU2Nt?oc=5",
+"source": "Google News – Gemini",
+"category": "news",
+"published": "2026-11-25T19:19:54+00:00",
+"summary": "",
+"publisher": "Gizmo Times",
+"companies": [
+"Google"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "aa88eaeeb3ab",
+"title": "Google's Gemini 4 agent claims six math proofs in a day, including one on factoring 30 years in the making",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWm9PeXNkcS1WNGM2YnFTTTNaTkdaOTJCV2ZPMzI1V3RJVzV3Q3NxOURkZktGOHJhcDBFWkxJZTNaYmNJM2s1a2cyTGh6SDBUeF82Q3NNSm4xRGxuMG53QjczbXkxek5tLWU2S2o4dlZ5b2M3WjJzUHhLdWVHbWM0RmNqaGlOd1dGRU9UaEx0Zw?oc=5",
+"source": "Google News – Gemini",
+"category": "news",
+"published": "2026-11-25T19:04:21+00:00",
+"summary": "",
+"publisher": "R&D World",
+"companies": [
+"Google"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "f1fa20e7769a",
+"title": "Anthropic's Claude Can Now Turn Your Workflows Into Desktop Apps. Here’s How to Get Started",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONWprSmNQa2c3ckpWZTA3eU50VklIMnRaaDFWeHA4N2RlVlo3WjhVYkt0dXJ2aGllSDFSVUxfeG1kd2VlS0Iwel9VZTNLYkdaSGZVc2VTaWxXbDBFS3NpNHd5RnlQMDRqckxOTHlpYUllcFpLWExnb0ZzUXJGYTZ2OHlwSnZ1M2p3VEo1RlUybFdPQQ?oc=5",
+"source": "Google News – Claude",
+"category": "news",
+"published": "2026-11-25T18:54:50+00:00",
+"summary": "",
+"publisher": "Inc.com",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "37b5c9ba9326",
+"title": "Where scientists draw the line on AI agents",
+"url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+"source": "Hugging Face blog",
+"category": "official",
+"published": "2026-11-25T18:52:55+00:00",
+"summary": "",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "dce8959ea7d1",
+"title": "OpenAI Is Merging ChatGPT Chat and Work Modes, and Paying Subscribers Fear Smaller Usage Limits",
+"url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM2xuZXNLcGZMS2ZnallvdXRtZE1iTDh2bDgzd2hBN210SnZMekh1QkpTSjJacFlvdk04VWV2bm8xVWFVOVNUcEM5MkRSdDk5T0VCYlB2WHBKUUE2WURzNEJLMW0yWGllWUx6UWo0T2lybFEzWVM0TF9SdkpCSVd6WGNXdHc5bjQzbnVkTHZEcl9vUURVdmc?oc=5",
+"source": "Google News – OpenAI",
+"category": "news",
+"published": "2026-11-25T18:42:55+00:00",
+"summary": "",
+"publisher": "Android Headlines",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "54a28967f017",
+"title": "OpenAI Combines ChatGPT 'Chat' and 'Work' Quotas, Affecting Crypto Developers",
+"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEMxY1RNd2ZGRUF6RW9Uc2lMcHdUWVloVEFkZkZ0ZklGVTc5eFlKZ01Uem5PSUc4MW5nYVp2aGszNWJhU3lsa2xOT3BoMl8tcWJpSW9NNHBvaVpJSnVUTTZ1S3hIamV5MUVvckRnMUpxUnJYajZJdjlIWThpd2xObE9OVWxYUnhnbXpLdlVXWnhHMkhLYWJ3LXBremh1OHhSLU5XMWNUSWRTUQ?oc=5",
+"source": "Google News – OpenAI",
+"category": "news",
+"published": "2026-11-25T18:34:32+00:00",
+"summary": "",
+"publisher": "KuCoin",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "8af0b546d705",
+"title": "India Outlines Four Priorities for AI in Conflict at United Nations",
+"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZVVXeVkzRDFCX0s5TXJ4SVlMUS1JMFZXUXFCalJiNVZYTDh2XzdKRUltOTZEZGxIWWFhUkZMOXVpMjE1WlpVd3ZCbTJKN3poWlh6ZnNvdGVacjJmWWdNaWRHdUlHdXkwSV8tc0h5aWp0NmxmVkRheWRubjB3dVB5REJxSk43RkZUT0F6X09EVXpVQVBWd25xeFlJYktmdw?oc=5",
+"source": "Google News – India AI",
+"category": "news",
+"published": "2026-11-25T18:33:24+00:00",
+"summary": "",
+"publisher": "South Asian Herald",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "d7a12e371c1a",
+"title": "OpenAI to Start Charging for ChatGPT-Built Site Hosting in 2027, With Credit Caps for Plus, Pro and Business",
+"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02RVNHNElPR21HU1NXNjU3UjJQdmg5RWNkcHBHN1NNam5tb3UzTENmc1FGMmh3LWhSckhwYnJlMEhBU1NnMk1GelhzZlRYT3FrN3Fpb050M2xHbG5BWHAzSFU4bmJyM1J2T3g0MHVmRk5xdXFaSGc?oc=5",
+"source": "Google News – OpenAI",
+"category": "news",
+"published": "2026-11-25T18:25:00+00:00",
+"summary": "",
+"publisher": "BigGo Finance",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "9ff88663290c",
+"title": "ElevenLabs in Early Talks for 2027 Funding at $33 Billion Value",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWDZDSXBpam9icmNSdEVhMmJHdDQxWU5JOWV0NERCNmNhVS0xcUZrek9KMm9UbUt3WERDaHg4bWNkODhQV2daN1VTQ1hKMmJrRmhXZi1SU29xVFQwbXU1eWpvQm0wSU41ajlTX3ZtUVFkUll1VktCNzcybHBZM25sSHdJRVF4RmdSUk5neTRBdjFUUFh6aDJHRGd3MGlGcFI4bFZNTE1FZld1eEFUVVd3X0hWMA?oc=5",
+"source": "Google News – AI IPO",
+"category": "market",
+"published": "2026-11-25T18:24:57+00:00",
+"summary": "",
+"publisher": "Bloomberg",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "c2211ba4f6cd",
+"title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+"url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+"source": "TechCrunch AI",
+"category": "news",
+"published": "2026-11-25T18:11:46+00:00",
+"summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "40e2b7113d1a",
+"title": "Every Raises $17.5M Series A at $110M Valuation to Help Teams Adopt AI",
+"url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaVl6WFI4WmZ1Wm1iR21oUWdxQ08tNUF3WFZtbkthRC1NNHdWUFkzZTJjX1MwOHFXTDhvSFdMOGs5TEtrYnpfSUxDS2FndGdLVGx5eGljSl9HZ3czZUlDN3BnVVR3dWw3MHlTR2xVQ0pKNHJfNWE0M2d3ZTJzTktvdmt3WjA0UTFsd3dMN1BlWG9uWlZC?oc=5",
+"source": "Google News – AI funding",
+"category": "market",
+"published": "2026-11-25T18:04:06+00:00",
+"summary": "",
+"publisher": "Unite.AI",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "39ee5433c843",
+"title": "Weekly Rundown: Waystar integrates into Google Cloud’s Gemini for healthcare; Oracle debuts AI agents for clinical trials",
+"url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS2NJV3VkUW8zTC1tY3ZUQ1RxMUZMUEtJNjd1WUtXbWlRdkxPNGRKQVNEdm9RMzl5T2JZOXB4MTY0OC1BNFo5LXpVeHRrd2IwTExya1pweVZ6QWtmb2FJd3Z4UWRFdVdmcG9mdDMxYk1Zdng1eEpaRC0tVkpJSkhGa0lScWg3SXhxTF92cHZwYlk3cms2NmFSc2Vmd0tMaTYxSGRoM3o1a0FBU1ZPclVMZmVuMEh3QXBkMlI2ZUN6cGtHMWNnanc?oc=5",
+"source": "Google News – Gemini",
+"category": "news",
+"published": "2026-11-25T18:00:00+00:00",
+"summary": "",
+"publisher": "Fierce Healthcare",
+"companies": [
+"Google"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "b31c662f4f97",
+"title": "Stripe Is Nearing a $200 Billion Valuation. The Surprising Part Isn’t the Number",
+"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR2dKWkg3cDNuSkRLUkFsQ1ZSYURYX1BEdURpYkFJeDhYWm96WUhaVFhhbU04XzBYNWU0Zi1hRk53c3lHREN1THFsOE5yRzhCOFNtOFBwT3ExdGNkdnBKdHB3MkZ1RWIxSThjS2tuZ3RiLUg4SVI1RkhGeFZENmlxZ3lPNjg2SXhScnh0QS1EUmVZZ0xqNFo2M3FTNm1WMEpwcF9HRDNaUW5NTzRiWXh1Y18zQncwNGRLXzVGdFlB?oc=5",
+"source": "Google News – AI IPO",
+"category": "market",
+"published": "2026-11-25T17:51:51+00:00",
+"summary": "",
+"publisher": "Inc.com",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "8298582b3bd0",
+"title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
+"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUVjSFlhZEFrRnFzd3pybUdZbVJjc2h3N2NfcnJzVXUxb2JQcG1SSnNCNDV3UTVKd3lIY2NicHpleXFTUWxzQzFGSVMwX0Y5RHpTMmNveU96MTZKeXpBdURXaVNtMjVjaHlHU0hzdmhSNU5vaV90RGdLTU5Yc3hkN0Jtbw?oc=5",
+"source": "Google News – OpenAI",
+"category": "news",
+"published": "2026-11-25T17:46:02+00:00",
+"summary": "",
+"publisher": "Decrypt",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "6359c2ce0900",
+"title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+"url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+"source": "The Verge AI",
+"category": "news",
+"published": "2026-11-25T17:44:51+00:00",
+"summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including…",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "92419877312e",
+"title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+"url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+"source": "TechCrunch AI",
+"category": "news",
+"published": "2026-11-25T17:35:58+00:00",
+"summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "a031c3a1d2a4",
+"title": "Anthropic Details Claude-Assisted Rust Migration of Messages API",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdHJEemF5NDZDbnJBeGxsMWRrT2J4RlRIMGU2aW9PY1o0VjgybmNhQWU4LTBMbkp0WVo0aW01QkVYQTlzbVpreTRfSUd6Sl85QWZIVF9lSGdJRUxjVERab2ZOUjRqMDVNYkJDSXNvdXR5cGt0YWNrQVIwUHJxWUVDcEpkWHhjYnJDYW1kZnJwWQ?oc=5",
+"source": "Google News – Claude",
+"category": "news",
+"published": "2026-11-25T17:19:06+00:00",
+"summary": "",
+"publisher": "Unite.AI",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "14b539441d12",
+"title": "Anthropic lets users build custom apps using Claude on Mac & Windows",
+"url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaGZTVklxUGd4SDhlVktWSDhXNzI5VzJMZXpUOWNKTDJjUjNZRV9sTmlCc0VrQ2xJdWRYNUloSWVCNGVQSXNfRUtEM1EzUmZhZm11cl9zdURUUXVNVXplQzlYcV9HY1JTbEdWT2E1SGx3YXRvdU5WVUJOX2RsZ1F1U1pkcjM4RWZjSmRCdEtuUHFxR3JjZGh3U0FLdkpSMXBLRThwYTAtbmIxbFY0VHhYYQ?oc=5",
+"source": "Google News – Claude",
+"category": "news",
+"published": "2026-11-25T17:14:59+00:00",
+"summary": "",
+"publisher": "Inshorts",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "a36c39178631",
+"title": "OpenAI Updates ChatGPT: GPT-6.2 Better Understands User Intent",
+"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbHF3VGQ4ZU9pbXA1TkVrUUdxRUEtYUFfVi1yTlU2NElFNjZTZXlKMUc1LXRIWjhadmFKOGstWVJ2bHBJSllSOXVPdkF3NWstMEM4RGMyWHVnZmoteVh1OUQ4QmFxeExGeld1Y3l3T1JWTWlxbllHYWE2azVtVV8xM1hiUUs4U0puczZyZg?oc=5",
+"source": "Google News – OpenAI",
+"category": "news",
+"published": "2026-11-25T17:06:30+00:00",
+"summary": "",
+"publisher": "hi-Tech.ua",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "14ee40db9184",
+"title": "Anthropic shares fall below IPO price as Wall Street questions AI profits",
+"url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPekphaFdSNEpnV2lrTUxucS15SVVKYVZTdTNJbzVHM3YtYU42Y3Y4Y0RsSUlDQ3VDNmRHaGZxdkZBOFRWUnc2dGxyRUFXaUF1Z0JTajB5aDYwY1RvNS1xaUNtam9MLU1XakppRzh1cFdBdjNMaDVTZmYtcUUtaWJrdXFrTnZ6NDdCSFhTZlVhclJJZFoxLTVLbXNRNTR4RWlfWE5tSEtISTZWZzkzUWduYzFTTzNqcXFwT1Vpa3pyUU5RcTRCVXp0di1mQV9SMW1SNnJ3OTBn0gHWAUFVX3lxTE96SmFoV1I0SmdXaWtNTG5xLXlJVUphVlN1M0lvNUczdi1hTjZjdjhjRGxJSUNDdUM2ZEdoZnF2RkE4VFZSdzZ0bHJFQVdpQXVnQlNqMHloNjBjVG81LXFpQ21qb0wtTVdqSmlHOHVwV0F2M0xoNVNmZi1xRS1pYmt1cWtOdno0N0JIWFNmVWFyUklkWjEtNUttc1E1NHhFaV9YTm1IS0hJNlZnOTNRZ25jMVNPM2pxcXBPVWlrenJRTlFxNEJVenR2LWZBX1IxbVI2cnc5MGc?oc=5",
+"source": "Google News – Claude",
+"category": "news",
+"published": "2026-11-25T17:03:48+00:00",
+"summary": "",
+"publisher": "BusinessLine",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "1527777f3513",
+"title": "VC Funding Keeps Flowing as Nvidia Whiplash & Market Gyrations Shadow the AI Boom",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xeUwyQ0FWUEtqLVNIUlM2MlM3MmVZS1A1M0pmMDVYSzBrYXBHQkJEanB1QVlPTlFZc0R2R0MtSVNYRUNOX2FKQWRoWURtd2xMcUc1eU5LcWpwU0h1Q0w0Q1Y1dzhhMVBoWnhpcA?oc=5",
+"source": "Google News – AI funding",
+"category": "market",
+"published": "2026-11-25T16:48:12+00:00",
+"summary": "",
+"publisher": "Newcomer | Substack",
+"companies": [
+"NVIDIA"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "7b7cb44d5be8",
+"title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+"url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+"source": "Ars Technica AI",
+"category": "news",
+"published": "2026-11-25T16:47:14+00:00",
+"summary": "Militaries have many reasons to target data centers and the cloud in wartime.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "07605d2a7336",
+"title": "Anthropic and OpenAI researchers fear their unreleased AI models are too powerful to ever release; warns:",
+"url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNdFp1d1RzeDR2SmVZRG5ZcUY4Z195RUF4LXNGY0tsVUFuY2padTFCR1VZVEFBRVNzZXFVQ3FiaklRckE4ZEVoWkF3T1p4MUgzb2RQVnVhVnpBbklHcW4wcUxWVUNQOXk4cTRJd2w1RTRZVFdXcGJBMjBhbVBSdS1OUFhhOEVTZV9MRzNUWnJaOHpWREw1MkFzSGFaREVYSGU1dGtlRWdJcTRndjZtUlg3QXZTeE1FcWdMNXVhNmViUElha0ltaVNCNHBiSDVINmpQTFJ2YUtCQWNiUU15emNZNndXOUZwcTNHYlVPMllrZGh2NVFGckNORGdFY3V1Y3F3NDlNcmRpT1R4NUZLR1VYVTBOMWs1cUpZVlVxbzdmc2hnRFE4MEc0T2xnUUVIVTZhUUNlY2dpb3c2UGdw0gHCAkFVX3lxTFBhTktSbEZpS2lnSnBQVkVFZktKekJxMUZmUEVSa1dYUlhNOVhxT2tGWHBnX1RhQXUycHFGMHVfc0tjUkM2QjRPbjdrUFVqWWtwUWhzVEdwdThFUXp4MjZXa19HUFV4TjRSb0lrVUZLWU53NHdZM3JFTVg0ZDBqdzdBS1g5b0JfSlQxWlo0U0xrdXNqU1dYVi0yX3NzWUN5NGRpUnFzLWR4SkFlQkc2TlJmVi1ldVlNY1JKUWM4RkhCbThLOU9BbEJqdmNtSFB1a1FheGNsMVlxM0Z2aW1ZeWNUbHk5RmtKRlBGcUtSYjluYjJhWGRLZ2s1eU9XaUR4MVI0dW1qblZWN0pFT3FpY01hSi1jYzROQmJIdzRnanJoN2VESElwdUQ2Q1VxbW8wc2tubnR1aU1ZaWw1WkZKNWZUYVE?oc=5",
+"source": "Google News – Claude",
+"category": "news",
+"published": "2026-11-25T16:43:00+00:00",
+"summary": "",
+"publisher": "The Times of India",
+"companies": [
+"Anthropic",
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "bc895438ca1f",
+"title": "Early outputs: Anthropic is A/B testing Claude Opus 5.6",
+"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUmhSTTlBS1NQRjBhTm9pZ0NndVg0RlFDcjBPU05qN0FieGI5R0hYVUR1VWEwejVnaG8yVEc1LTVsTnctYmZSRWlMWkd1Y2FHNVVXUC1nSnJsUTd6Y1ZrdlBRQy1Fdlk1ZDlUTTRBM2JwdE9HRHhSZjR0VUtnMUtsQWlaNDk3dWNZTnVQTg?oc=5",
+"source": "Google News – Claude",
+"category": "news",
+"published": "2026-11-25T16:35:43+00:00",
+"summary": "",
+"publisher": "TestingCatalog AI News",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "c77432b5eb74",
+"title": "Anthropic lets you install Claude ‘artifacts’ as Mac apps",
+"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNTluN3NCeXBFdnNtdk9RUE0zN0xScVY3enlWaUl6ZFViRENLTWptMEFXblpoT2REdDZjUF9kQlgwdzJ0RDczTlBDYWQtS1ZHa3AxZkRnMk8zYkdOcTlwcVlHWHZQTmtHT1NBM0h0YmU2SEJna3pSNm41X3g5am4wSVhKWUo0TVgtRDBjdGFuaVk3bmJnMGdpSzRERzJkWUpzUHZJOFpFMnlQdw?oc=5",
+"source": "Google News – Claude",
+"category": "news",
+"published": "2026-11-25T16:25:36+00:00",
+"summary": "",
+"publisher": "Computerworld",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "328745c424e2",
+"title": "OpenRouter Drops Three AI Hosting Companies After Test Credentials Leak From Prompts",
+"url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd2JLTGtrOERlWFV3WUF4aVpvRzd3ODVBaDVNLUFRajd1OHNZQ2NOTktRY21vZDN0WUZjbGw4UmsyZjktU0ptUDVaTDJlSHZzaWg1SjltNVc2d3o2cFRJUGpId3dfMEFXWTJQSE1rNGtySzVuM3NpQVItdUJYWkNqUUhmYjloUGl2Um94NW9xWElOR1BWeWNOcGlOQXFNbGRZMTNhTDBtd0ZSTGFYYS1TVTNHc2pCVWJPQU96MDVHTTNZV1k?oc=5",
+"source": "Google News – AI rumours",
+"category": "buzz",
+"published": "2026-11-25T16:24:54+00:00",
+"summary": "",
+"publisher": "WinBuzzer",
+"companies": [],
+"unverified": true,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "d283bb5a07da",
+"title": "GM Upgrades Vehicles With Google Gemini",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9neFloRDJpdWtsaFJzOXc4U2d0OUwwdldIbWNITFh6V0lwNkRpWTNBUDdNRS1NLWUyUlNkVE9XbDlwcjUxbzczZGw3N3lXR2R0U0NIc2U0TjVRV0JmUEhVeWhpMHdLZkxOWnU4UUk5aHI?oc=5",
+"source": "Google News – Gemini",
+"category": "news",
+"published": "2026-11-25T16:20:21+00:00",
+"summary": "",
+"publisher": "MEXICONOW",
+"companies": [
+"Google"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "a0507ab6bd0c",
+"title": "India-specific AI Models Can Improve Efficiency, MeitY Secretary Says",
+"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNDV5b3oteV9NTUpmb2ZTM0Fzc1BCZlJ2UldpZ3pCaXBfM0hEempTZ2RnZnMwejVTSkx5UGVLWkhWVTBEUnRiTDd1SXdtTlNuRktQVHNQRWUxVEYzdlhBNm1nNW5hWmxkeFpFLTQ3dEdvNjZ2dW9rUTBZQ0xmQU9lRjhsbDMtRjZPSEVBRFJDRlRjNFBSZWtHTTBzZjJKNjVkWHdybVlrN3RLbG9sTmJKN0dB?oc=5",
+"source": "Google News – India AI",
+"category": "news",
+"published": "2026-11-25T16:15:15+00:00",
+"summary": "",
+"publisher": "BW Businessworld",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "6b1c4ab3d056",
+"title": "Nothing offers a full look at its AI earbuds and charging case",
+"url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+"source": "The Verge AI",
+"category": "news",
+"published": "2026-11-25T16:00:59+00:00",
+"summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's…",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "cb21e78b58bc",
+"title": "Investigating degraded experiences across GitHub products",
+"url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+"source": "Hacker News",
+"category": "buzz",
+"published": "2026-11-25T15:59:23+00:00",
+"summary": "175 points, 94 comments on Hacker News",
+"discussion": "https://news.ycombinator.com/item?id=50643720",
+"score": 175,
+"companies": [],
+"unverified": true,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "554280e6273c",
+"title": "Microsoft-Backed OpenAI Faces Another ChatGPT Setback",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYU92Q3FXQ2xGSUEwNUVTUVdIWm5SdWdtUURVSzVBb0F4REVDbV9va2lrMHRyMDJ3bW9XdEZaMktsYy03NWt3cTQzQTZRalhNVUswaVlQcnJpelVMUjNtNDRjdWhJZjRnMXlXWm1kSk5HU1FpZ1hfUFU0WmJWMlg0X1ZsQlR0UFB2M0lldVZIMUt6UE1jZEk4TDVfWGstSXRma21hVnhnVnBIbm16ZGtFT3BZYw?oc=5",
+"source": "Google News – OpenAI",
+"category": "news",
+"published": "2026-11-25T15:57:58+00:00",
+"summary": "",
+"publisher": "TradingView",
+"companies": [
+"OpenAI",
+"Microsoft"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "f38639b940a7",
+"title": "Leash Biosciences Raises $11M in Funding to Expand Scientific AI Training Environments",
+"url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQalhWSnpiNExfMnQ5RkNnY1pWRXE1SUg3VkQ1bGFrNkw4ZGp2czJ4VW1BT1RvWWZ0aGtRNXpMZkdfX2lkVDh1QWdqelVBbmV6RTVMT0dwNXZCWTN1VW90SjkxdVZIOGxNcWxoNDFtd3pnOFlIRWNNekozcmVzNmxwM3dJcUlzSmIyd2JDSm01NFowQjdWZ0lwN3pnUU1Dekw5N1lpTC1ZUWJVaE41S3FyeUFEM0NKdFc3Q3JQVkY5bXY?oc=5",
+"source": "Google News – AI funding",
+"category": "market",
+"published": "2026-11-25T15:52:32+00:00",
+"summary": "",
+"publisher": "AI Insider",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "f6730ac844fe",
+"title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+"url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+"source": "TechCrunch AI",
+"category": "news",
+"published": "2026-11-25T15:41:43+00:00",
+"summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch…",
+"companies": [
+"NVIDIA"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "38be175b542b",
+"title": "Google Adds Wallet to Personal Intelligence in AI Mode",
+"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIUFVvZzd4eHlMek5aRVhxZ0xSMXViS19uSC1fOHVpaVMtWkVBZGp1QzZMVVVDVDJBUFF3X25IUGJUNm1MQm5Tbk1ZLXNDQUhfY0V3RzdrRmlYSXZ0R0Y1Y0xMMHJxY19JcHhvRy1pYmJXUUZ4ZGdydGpkVmdUWHc?oc=5",
+"source": "Google News – Gemini",
+"category": "news",
+"published": "2026-11-25T15:40:00+00:00",
+"summary": "",
+"publisher": "https://www.thekeyword.co/",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "b462b88eac80",
+"title": "SarvamAI’s open-source models do not conflict with India’s sovereign AI push, says MeitY",
+"url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNjZHSU82Tm9XcHdJa3BkT2dZdE41THBscXd4bmxzSGhMY0xqNHJ5bjB1VnByYlpwVDJCLTRmQjdZeUF0a09HQklYaUg0azcwUDNVaXVmSmVKZjFkWldpeER2WmxJUHJMN1U4SVhPT1dzaGlUYkViT2U3aTFtcVZ1RVUxT2p6U3g5cmZ2dS1rMzZrd0lGQ2pUVzJLVDR1ckt6TVJXdlNIcFJaYy1kUGdnT0pWRTNEcVZEV09rWGJublpNOXZnV2QyV0JLa2o0LUJuLWJZUS1uNldZV1RGQUlpV2h5VXZzRzhWbkh3RHdXY0NDa0xiVVBMNtIB_wFBVV95cUxPYVlUckgzd0p6NVFReHBRV0xlUlVic28xcEtrQVdiZUVBMUpuZVcxSHpLMWZzQnVRMFJmbUpjTGI5enROQ1hXQ09TYTBsV0dkMzduVDI3M2pLZ0JTMUg0MEpZYUpPS3lmR3lVR1oxMFRLV1NVMk9fSkFaRmhjaVdZTEM3OHpQMlpUdDJFNFBUbjU3OXJHR3ZSdTRaQ2pPeGxweTcxclcwVnR5ckVoM0d0UldUVXYtVHA1RGhDQnR6RXB1aC16cmE0RGxacXRKbHVwOG55bXcxVXVaV0hhVzBmOGJIbFZsdEdoRDhDb21oMUh4cVZPSzJYZWVReUthNms?oc=5",
+"source": "Google News – India AI",
+"category": "news",
+"published": "2026-11-25T15:24:17+00:00",
+"summary": "",
+"publisher": "BusinessLine",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "6f2aa6e0ad67",
+"title": "Elon Musk says 'impressive work by Google', as CEO Sundar Pichai shares Neon's new Day record and thanks",
+"url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPTDg2cnhlSUN1R1hKaHlEWjBvdTNFMUZxTHU2MjhtTmRQdG1KSGU0OU5HekRDZUJHUXQxWHBBcVlmLXpmUWhLd3VEZ0VoRWRZX2R0N0RVeUlfY2xqMmxwRm16cDFLV05feHZ5MjJ4WnlJcmtEaTZ4RlZpa3RDYXFpenk3emtXeWRBeVZ0YkhWNFVkWGs5VkxkQ2RqVHNuLXlIOXdLR1JnLVd6MEh5cTVTbmlPV0k1RFl6UEptanVPYkFVRFJldVpEMGFVQThOVnN5UDRXUlppUkoyVzAtSmRmR1Vfa3ZJUUNvQVBYblB2TTlsYnNISTJiX052RUdESkxWemJCdkRaU3h2bnBLS25MM2lhd2xITS1VMFJUNjFSVWFybUHSAagCQVVfeXFMT3VMVlpSVVZIc3h1eUZhdVdCZk1ta3JZb0NDQUJ0UW43REQ5MmdzYl9RdGxOUkctLUhISGRKY0J5bGl6WTRKZS1rek1qTVVPTzBpRGk4cEQtLVNzMDh5MDdhWWJ3R01ZTDlyeFNadkstZ2MycWlrR29tdUJGV0xncEM0OUd1OTVhcGFCT0ZRdXVxUlVCMHhTV2tvSnJsVFZsWjAzaThsTkFmUzRtWDhxYlhhMFJFeUZZY0Fhd3M3QzB4VE10N0RfalNSZ2JBellTS1NPRTBZbFlLY3VoZXZTT2xWdTNXa1Bhd3lXR1IzUVBNNVo5X3I1VU5aT1ZrQm5WZGt1c2FiUWEzVVlTRjlFVHpkWUx4WW5pbk9kU1RwN0hzMmdVaERfdzc?oc=5",
+"source": "Google News – Gemini",
+"category": "news",
+"published": "2026-11-25T15:23:00+00:00",
+"summary": "",
+"publisher": "The Times of India",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "34b70aba8d20",
+"title": "AI regulation papers in final stages, to be released shortly: MeitY Secretary at Chariot-1 launch",
+"url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPel9WOHNaeVNwWTFFc3ZRdnB6elIxcThxZkdJU08ydDdMaGF0RXdVcXpnU09XbTBCTW9aaTlKMDNORFRQd1g5bkktZ3hlUkM5OVBKWTRpLXVUZ3BvcjdNci0wTzRSMU1OSHhiRzcwWlVLN3F5SjB4V0tBTldYRnBGVFBIN3NvMUpySWJCblBJUlNzaG5LdEdTOWFpR3J6WVZJNDBXVnlyNmxrMEpYNzhNdF9JdzVXUEw0THY4RHZpWHpKekM1UTBnQ0pUTmplN3p0V0x4R1RQVllNUkVVLWlj?oc=5",
+"source": "Google News – India AI",
+"category": "news",
+"published": "2026-11-25T15:16:00+00:00",
+"summary": "",
+"publisher": "ANI News",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "6dfc30e76307",
+"title": "I want to use Google’s latest Gemini models, but choosing one is homework",
+"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQODlsZk1TOFJ1T3ljYmxkSS1ocE1Sdmc2NTVaRUtlajhKNXBWa1gyZlN5d3N5RnRNanVXS2VkdGNycVlBTVRyR1ZrVWEyeDk5YWZ4Tk9oeHpjWTNwUW1INkhpRzhRQmgxOHhmem9BMjJreXgzbUcwS1VFWnlXNEZPN1FoZFduSlVFaWs4dExybkhHZGM?oc=5",
+"source": "Google News – Gemini",
+"category": "news",
+"published": "2026-11-25T15:06:10+00:00",
+"summary": "",
+"publisher": "Android Police",
+"companies": [
+"Google"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "0711ceb4870d",
+"title": "Sarvam hosting China AI models doesn't violate India AI Mission: Meity secy",
+"url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdXBTRHRpMEhOVGZwV0dpa2pVZnlic1dLYmZxRVFvV1U5eng5bG8zRTZPNDZoQmNaZ1NhUHNtcFBXZkhlY01KMnVCZ0RhcjFQZWpvT1NWX3Q2cUdKaVM0QWNCVHlWV21zLWxweW1senQ2TW9OM2NwTE9MdlA5RGd3VUd1blVvSWo3TXBHc0JaS21wb0V3d1ZWNE5mVml6ZXVOMW1kZ3pyZWl2cEZIMWNsUDRLWFo1T1NNVkJPaFhpQ1JPRmQ4UnJTRnpLMHU4UEJ6a05MdkhrdFJ4RGVzVjB0ZjFEdVU2aW1OVU8xa1g2OWVsX0sxY1HSAfsBQVVfeXFMTkl6YlE2a2p0dmhJSml4OHRqbXVEWUZBQUZZcW5lZS0wYmw5Wks2eUpLTTNyWFlSXzZLeFJ0eWVLLU5ZNC1FU005RGNERUlLZW05OS1DSW9hSEh6UHB0X0JuQmlwWl9Eay1WQ05EMFNWYUdtUzBka2pTdlIzbkNKazYwTnU3REE1YlFXWDVPU21CV3lGTUdFZXRONEFxb184R0pyQzZTT1h3RXNwS2VXZWNZUlNwQjFzSC1wOGJtc0FBMjFlcDBBUzRqcGlpUzBvX3NtdHpoa3c0V00tWk1IdC0xalAxejNnY3JsbTFqYjlNNDlIZ3NxczFkZkE?oc=5",
+"source": "Google News – India AI",
+"category": "news",
+"published": "2026-11-25T15:05:12+00:00",
+"summary": "",
+"publisher": "Business Standard",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "9876449b4de9",
+"title": "Anthropic rolls out Claude Duet in India, offers beta to businesses",
+"url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMFBvTGFJdlpaRVZNS2ZSYTd0T0RfVWNlQlk1ZE1jSkhaN0psUXZIRVhWVkpiTTFmZl9MWlVMVHAxNXk2VlFjYlNUOWJEbWxRODhhUll6a3EtcEhnUEd1alQxV2NmU0JVdjRPVFBlVWdCWGY0SkZ1NTFoOFlFdHVvNWljUHMtclg0T1JhLXJQekt2ZlVfQ1pfcHdGRUNGLXIzZVl5WC10cV9ZUm51alBNQUpDU2tFdXMwWU0w0gHIAUFVX3lxTE9qcU1rTXJpWjNLVjcxdWVKdTF2elZReURaRnY5d2ROb3MtM3RjeWVDMUNjOXpCT3N3c01XaUswZm42Y0MyclJseEl3MHlBcmw1bHBfRGc1NEJiczJmQWxHUk1VYkhaMDdTVmxZX0tYdENFVHZBS1ZhM3FXZmRYSDJ3MDdlSW84VW8tZy1WSDAzNkM0RG9sZVJadFpPMXhaSXVPcG9uZGUxMzVaN2dDQVo0RFZHUXIybW9NRmQ1WTh2dnloUW5qa3ZC?oc=5",
+"source": "Google News – Claude",
+"category": "news",
+"published": "2026-11-25T15:05:00+00:00",
+"summary": "",
+"publisher": "EdexLive",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "3325d6d269ea",
+"title": "Robotics startup hits $1.6 billion valuation amid China funding slowdown",
+"url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUtua1lWYnV5UVdKcHFTQWRvMThVZlhpVnJrS1BiSE9IVk9KY3NkR2VIUEdHS29tZEVVTURPbUpjTnp5WnUtMmpYY2RxWm1QaXZENmpTT2RldEJNM2tkNGF4NjdVM2E2WktEM1kxSUN1ZWY1SW9GTVZtTkJqeHNGUEpHTTFwUXVFVHZVMUlyVS16U0hSTXYzWm9xVFZjOE5JaDBGal9KWVNkYlNveS1F?oc=5",
+"source": "Google News – AI IPO",
+"category": "market",
+"published": "2026-11-25T15:02:55+00:00",
+"summary": "",
+"publisher": "TechTarget",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "fec64ba12621",
+"title": "From loan calls to checkout, fintechs put AI at the core of operations",
+"url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa2l4NWFlbS0zMEhQTFFla0xlTUYzWTNPejlGZVk0R0VTUk82VERyRXpyQU1lc2RNcnljZ0hqaTEwQU1fTzhDbnJhTjVybC15V0w0cnEwOUJoU0tsSFI3Nlg1VDFXSWpBYVVyYWE5SzA4cXdMcHFfVFpMaURGamRyQVNvM1ZubGM5UUQ4ZTNsN2dIbHYzejhMX3ZiRjR2aHdjWERyZWVsUTc4ZGtSRWtxTWEzT1ZSTjByRklLXy1WNTVaOTRvNER6emttU2F4aWJFSHZZOVhsT1ZwSDNSWUxVVG1RamJtczZpSVo1b0QyZ9IB9AFBVV95cUxQQWhHenZuX3VLSEVuWjdSNS1ibUQtU3M2T1padjgxQWpjdWxrUUlNN2xySC1UYjZBRTFlUGVnb1lqMGhBZzhkRFQzcl9idl9tT250bzRjRDl5VEhSWmxWR050V3lacWJCTzZOOWhjU3FwSy15SDZFSGNpYW00NHJYeUtMbm1sdjk2M2hQZVdObEVUNzdNdmM1OWhMdmFrSHo2WEJqdVhuMXlYRWZhc3YxVUdTdlNxRFFvZVBfSVFhbG00MTRHOTBJRTZmY3J2SW1STVU3R2lSdXg2TTFfYlE3YnRjX0FPdmpmeVlWWERVbnRMcVdk?oc=5",
+"source": "Google News – India AI",
+"category": "news",
+"published": "2026-11-25T14:52:27+00:00",
+"summary": "",
+"publisher": "Business Standard",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "76d56da96acf",
+"title": "Anthropic brings Claude Duet to India, with AI that works when devices are switched off",
+"url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbEdfTXd2czY4bURXMWJJbFJHOWQtNS12RWNyMGJrZU5KN205aklsbXBsQ3pCV0ZqQzdMSExUa1kzMmlyRURkTG9zN2RaVnBpZmV2Y3VWdWgydnJqNkdDdW5aQnlLUXo0UTJlQi01Z0VOZ3N3ZFNmWGlXaVlheTRwemFHQ2VJZjNDSG1sSE91c1ptZnpQSURIZFJVdmc3eFk0RVRPYWJjSEM5NWFoYk5URDRvWVhRLS1PT1pLNlhGNmtzN0FYU2NlQVFaV0dxbTBKWkktTtIB2gFBVV95cUxOdUs5d3dmRjRubHBGYXh0Z19ETWJROFN4eC0tZTJoc18xWk9Jb1FZanR3X1hfc0pfTXpseEo2ZXgzUTdjVmhMU0NUWE9QZDFtUElMT1B6V1NXNC1NTWY0VFRfRFVYMzhCUmFDVVNnT012U1VYRGlfN3phUDl6eHRfcW9zZmtWRzI3N1V1cGRKTmNZQmJlVXRBZi1vYWZST0wwSkZ1S3UxWGpMRXJwdGJNZWlYSDBWb1RPd1liZjlWOTZFazB6TG1wUnROc3FNcmlXLWhXR01ZU2pmQQ?oc=5",
+"source": "Google News – Claude",
+"category": "news",
+"published": "2026-11-25T14:35:52+00:00",
+"summary": "",
+"publisher": "Telegraph India",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "11ac866ac7f6",
+"title": "Anthropic’s Claude Output Can Be Installed as Software",
+"url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLUJxLW9ZUWtVc0pTOVo1N3NOOExIUU5SQXJmQ2tsMEJOek4zdmFjWHFLM25FWW1scWRSaThpYkFhSjBaYVRYUmFzWFUwcW8tck1hellEMDRvTGN4TFlLemFCZ1FLellGRDZhSlFHWU1zUXQtdmw5SWI5UmlEcTJRVUpISENrMHVZZExSalJSLVBMMTdONk9yeGtB?oc=5",
+"source": "Google News – Claude",
+"category": "news",
+"published": "2026-11-25T14:26:00+00:00",
+"summary": "",
+"publisher": "WSJ",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "e1845ee0b548",
+"title": "Amazon is reportedly in talks to end Muse AI shopping block",
+"url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+"source": "The Verge AI",
+"category": "news",
+"published": "2026-11-25T14:12:33+00:00",
+"summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on…",
+"companies": [
+"Amazon"
+],
+"unverified": true,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "28175a595e60",
+"title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+"url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+"source": "TechCrunch AI",
+"category": "news",
+"published": "2026-11-25T14:10:18+00:00",
+"summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+"companies": [
+"Amazon"
+],
+"unverified": true,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "63e7c597fadc",
+"title": "‘The future of Korea lies in India’: South Korean MPs eye AI, chips, shipbuilding and nuclear ties",
+"url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDhUTDhnbVhBUmlfelRtLUdxeTM5NW5JdHJSak1MZEE3X2pHVWdvcjRhekFYOFZFT0ZOTTY5d05HQXJKY0k4dUp6Tl92QTIydjdWdlhMLUNocWhCZ0xlZ3NZazg1OVYtMHllaGpZR1FfbTYxSzN6NVZlWEVIclZxeldMSjBZMmNKMGszM2xQcUJzU3R3ZDRsYl9FM3hWWHNVTXp6Z1N2bEVtSW95ci00WFdqUDZYZDJneHlxQkFqWExJUDExREE?oc=5",
+"source": "Google News – India AI",
+"category": "news",
+"published": "2026-11-25T14:04:32+00:00",
+"summary": "",
+"publisher": "Open Magazine",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "fb5f6a908a1b",
+"title": "Anthropic launches Claude Duet in India, it works for you even when you are not in office",
+"url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOFl4YnpKbk4wMldTSG0zNTlpQTREbnd4enBBbWdNRXZTaU16TkVqRnRqcHZUQ1hXLVhSRlVIRjRKVFdOdFZ1X08zVjNBM25DZFlNVWZNY3BoU1hFbE04XzNYM2h6amtPT1pUYmZ1UVJtVzUzeTRGMDdCa0VibVZFeEp5WkdfTC1ZMzBHWEQ4MjFPWTRuZENiUWN2eGVaYkVoX08tLUZjS3Z1VUp0UjAwaDluNkhWc1o5ZVZCdy1tYk93QUx0eW80SDhXN2JGcllrRzY1QVAwcEw5VDZPVXNhVzEyOEZBcE5ocHhF0gHwAUFVX3lxTFBOamo0ajBwM19XZTZVUFdWcHFNMWFnbVNGUlZFSEZNR2JMQXZNeUpralBCa0ZPLUpXYmdaZkdBRnFyTDktZ2VVeVBYNUd0R0xSWXlfV1F3NzdWX1RzVTBmOTVVWWdwaWRsZE5jQW5TREFsRGVWNms2Q3N2bVg3Zk5seHJMaXZyVWY2Yl8zTHdRel9nN0M2T3gtN0k3Y2hrdF9JSHB6bDlsVFdoMlk2bGZsRElhUTVjMlUwVGxBVlJxUVp5NXV6alJudGJqV3NSTnE1WHM1X3JOdGx5NnQ5U0J3cl9NREpZbnFMN2RiUDVvVQ?oc=5",
+"source": "Google News – Claude",
+"category": "news",
+"published": "2026-11-25T14:03:21+00:00",
+"summary": "",
+"publisher": "India Today",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "1e908b98dc90",
+"title": "Walmart-backed PhonePe restarts its IPO process, aiming for an early-2027 listing at up to $15 billion",
+"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLVdPczE1WUJ0cnppZy15czNfcXdDbEJsWVZfY29VQno5MzJNU2o5TmJTSjVndk9BMFRvVF9sVmdqZjQ1YzFUcXp3UkRWRnhoTFlFMTR5WEZQSXZobzZiLXFkSWJjOXlFTTAydzhPelg2cTNBOFVuTkdlay1LMkQxYi02ejNlWlg5VGdVc3pWcGl6eHFpeHNPTXYwTlVSYTdhYnVZczAtcG9LYVRNcFlXR0JMNVc3YS0yWXY5cWln?oc=5",
+"source": "Google News – AI IPO",
+"category": "market",
+"published": "2026-11-25T14:02:52+00:00",
+"summary": "",
+"publisher": "MLQ.ai",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "9059c2911248",
+"title": "ChatGPT Will Now Provide Users With Proactive Health Reminders",
+"url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdFJWY05zX213U1ByV2ZzZFgzejdWWWlnRHVQNjhZMkM5TktZOXk3TVA3TDhlTVBpZGIyNWlHcVJFUVFLQ3V4RHhULU1CQTRxWmtUNDhhMXJFd29ESkxaZnhyRVJFVVpvczZiOEtDbjJWUHQ4NnIwR1hTWU41Sjh0eHV5QmZzdzl4Y2xTNW5jYTlzb3BBMV9BT0R1ckp0ajVZRzZjM2FCdVpLbzlHcVc1Zg?oc=5",
+"source": "Google News – OpenAI",
+"category": "news",
+"published": "2026-11-25T14:00:00+00:00",
+"summary": "",
+"publisher": "Forbes",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "abef7dcffe0c",
+"title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+"url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+"source": "Hacker News",
+"category": "buzz",
+"published": "2026-11-25T13:33:07+00:00",
+"summary": "416 points, 317 comments on Hacker News",
+"discussion": "https://news.ycombinator.com/item?id=50642086",
+"score": 416,
+"companies": [],
+"unverified": true,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "978733df00c7",
+"title": "What Anthropic's Report Says About How Claude Was Misused | BOOM",
+"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYVdDV183QVd3NkJtbnFWakJyaGFXVjdQRjZLNnZCY2tvYmVCR0pUNlNHT29JM05oMVFRTHdsM1VBYng5RlQyZXJ4NFR5dTc3QzVCS21MVHMtQkNkQXNINHdTcnpyS2hBQ29VUy1iaVVuQ3BUdFZMVHUtRTlyYTNPYm1zcGtFVDktTlBPY2loWUTSAZYBQVVfeXFMTTNkR09YNENaYmtVeHFFNFVRYTlaQTVDQ085NlN1alBMWURmTkk2S0xJZ3pkODFVYWxKVUg4RGdWS0w3Q0lxUzZvWGNZMGZ6VEctdndvRUQ0RGtUVjRYdmR6cUtDT1lWZlFOZ1RaYTFRQlBNd2M1TUFhcUhjU205bVo0VlRZTTkwdGJuRnhCeWxyV2hxQmxB?oc=5",
+"source": "Google News – Claude",
+"category": "news",
+"published": "2026-11-25T13:31:56+00:00",
+"summary": "",
+"publisher": "BOOM Fact Check",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "ada8bd5e5b10",
+"title": "PhonePe revives IPO plans; targets February-March listing at $12-15 billion valuation",
+"url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSGpnaFQ1c2ZtekVFaEZwdURWMXlLYy00R09xTm55SUlNZmJqakZXSVYwS2hUd0pPc1FoYk5kOWVjNXVfNjBlRVlBd21sX0ItUXJjeVV3N3BJMlRWaTFDVl9PREZsMWY3V1dOb3E4YU8taEU1aF8tSTYzTzRoVEpwMmFidWRzamt1ZVRZbGViMkl0UTRyZldnSGpla0hGSmphSUtwNTZSenRmT3dBRGd4RWp0cnRRbllDbWJtZ3M1OHRKNTJ2cHN4TmJFb9IB2AFBVV95cUxPdm5NdVZxM0F4cjViVjdGc1p6dHpGUlFMdGdYcW5jcW51M3YzRGdzMWJjajlvTTduTDdSSlp5bDJqNGFieUdxTTZHWFE1TVB0cUxaUTFoUHJGRWJZLUw0QnByS2d0Q18zQVExaHF1dTgwOVZOOXpYSmlPZEIyVEt2U1NRVDJ1WUR2UnRMaDVYYzRZT3JLZ3MyRnpUN1FfbHhNVW1OZlpTOGRfaTIwUlVMVnZpbXE1c21vaFVVcDJxdW5qcHNtZWM2TDU2bGQtWXRxVmdtSUlhcEk?oc=5",
+"source": "Google News – AI IPO",
+"category": "market",
+"published": "2026-11-25T13:28:36+00:00",
+"summary": "",
+"publisher": "Fortune India",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "b92579ba99e8",
+"title": "OpenAI says ChatGPT faces elevated conversation errors",
+"url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc25oUm85Yms4dFdrYzViMWlSVzhLRUVFZWJ4c3VzMlBQRF9RTHV5Y0hkbENVRVlqaTdicWgtWFR1YTV0NXp1c2M5UFZvM3lqMm1JcVpRbnhPZGZ6XzY1QmMyNzhUQ19MaTdVRFZZM1J4TEZuU1hfNGk2eUplUHozU3JGYmZ1ZC1ZOUlnbF9kVTVKekJtdjVz?oc=5",
+"source": "Google News – OpenAI",
+"category": "news",
+"published": "2026-11-25T13:11:29+00:00",
+"summary": "",
+"publisher": "Seeking Alpha",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "86613ab62270",
+"title": "Hardeep Singh Puri discusses AI adoption in India’s energy sector with Adobe executive",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTGhlTThZMXBWOU54OTlhbU1yUXpFUGllWUQwYUlybFFabXhRWjZWR1JkMWJabng2NmRpSTVRbkRUZm9UQk40eTlLN3E3UHk0aUZ3X3NtVnM5dGw4VnF3Y0lVdkdJVV9VNm9zV3dZZ0JIdlRBQTM3NlJZejR5V2VEMlJEMHpjRXhxMGtGaV9zeFRlRzR6cFQzVVVZUDFBNFZKelpXZHNxOTcyTHJXNkY3LVU0MA?oc=5",
+"source": "Google News – India AI",
+"category": "news",
+"published": "2026-11-25T13:08:43+00:00",
+"summary": "",
+"publisher": "ChiniMandi",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "ca030dba1147",
+"title": "Formula E Preserves Race Archives with Google Cloud & Gemini",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdklIUWVSVmNiak1BUFlSOGgtNzJ1QUF5ZnFnbnNFYVdVUlZJdVdnMkJHU3RHWlA0QWVuTTlGOElqNzM4NnNVLTEtdkpERWZmQmRlYW91dzg1UHpmWktZaG01Ty1KNGtoOGtUTnBpU0pPaVlZUlYzOUcxekJuUGhSYURXQUJlY0Q5am90T1JxNA?oc=5",
+"source": "Google News – Gemini",
+"category": "news",
+"published": "2026-11-25T13:02:29+00:00",
+"summary": "",
+"publisher": "AI Magazine",
+"companies": [
+"Google"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "9edbb62c9bcf",
+"title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+"url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+"source": "TechCrunch AI",
+"category": "news",
+"published": "2026-11-25T13:00:00+00:00",
+"summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
+"companies": [
+"NVIDIA"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "929f2b2360df",
+"title": "Has vibe coding made open source the new normal for synths?",
+"url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+"source": "The Verge AI",
+"category": "news",
+"published": "2026-11-25T13:00:00+00:00",
+"summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding…",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "4ab837b0fb05",
+"title": "India can become a global AI hub. But there is one obstacle, says Nvidia’s Vishal Dhupar",
+"url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeEFtNEk2N2hPOGtHLXB4cDNiWW5fMTJjR2dHd00wN3NrSzNuUkxQemY5X2V5U2d4aEpIRnNWT3N2UE53WVJRSWxpYjJmSzExM3I0dk1xdFV3NjA4em5lcE5vdlNVYTBXYlZtdVpueG1zOUo3Qm9zWmJrNDZJZGsxTFhlYjFWQk9aXzlRdHZLZ2t2dlJpRWNCX2dETjdIMkJQa0NVX19LXzBBZHUyR2M0Z1A3bTlrRDNGOUIw0gHAAUFVX3lxTFBmQzdyWTV1SzY0VGppZDNJUElxUTd3YlJrN2VRaEdkYkdIUVlHa1R4VnVYVHVMX0RNR19SS1haU0JhUU9ReFh1OXAzS3FzV0NzcGlVbXVSRXZMa21WOTZjS2hCcWRweGlEWEgyS1hoOXJFS3B5dlU0ZkNuc2VERFl2MmhkX0ZSR2l4V1c4VVVyTTg3X3NycGVGbU1lYUJnVXppSGxfLTJLSVRObTRBVTlPNXlZaktfa3N2Mk1hWldldA?oc=5",
+"source": "Google News – India AI",
+"category": "news",
+"published": "2026-11-25T12:53:59+00:00",
+"summary": "",
+"publisher": "ThePrint",
+"companies": [
+"NVIDIA"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "d551f1b3329a",
+"title": "Anthropic expands Claude Duet AI work agent preview to India",
+"url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd1F3WkV1amMzWmpxdFUzb2I1WGxld05hemVua19TWUYyb3lmMTBSWmRhZFQ2UFI2QWd0SUJMVGw2SXJ3OTFKdUptSlBqV0FMWm0zT1hXSXRpbnBjdk1JQ3FsUHJ3VHg5bjRjeG9sc19aUVB1OUw0OVk3RFhGVmt2R0tNWWJQeXB4MlBKY0pnMDJCbEY4a3Y5MTk2OTQ3TjdidXRHal92eGxaVHh6dDFBaVhLcGkyQ0YwMlHSAcABQVVfeXFMTkRPVWRvdnpGcVB3ZDdBOWFVUm50X0had2ZybHNtanNlOUloLXNfYXhiSm8xZHU3cjNCQ3dGU3lETVQ3ckRMS0FwVlB5akdBV1RsOVNyTXc4eXdJY3NnMUV6SWUyampNRWVuRjBDUWVFeFJwNkhRUndPV2pHSkFGY3lSajN5bVBmdGRCalg0dF9zamZMNHY0Yl9peGlZNlJacE1uVTA2ZlM3TW9ocjBSbXg4bVpBb1dmZm5DbThpelJP?oc=5",
+"source": "Google News – Claude",
+"category": "news",
+"published": "2026-11-25T12:46:35+00:00",
+"summary": "",
+"publisher": "BusinessLine",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "05601e8483d8",
+"title": "MeitY flags AI's impact on dubbing artists as India backs homegrown AI model",
+"url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSUNFME9NbTA5WGNETkJTSU95b3dLam1FajlEbWd4Um1HOERPdEdHUWRVV0F2MXdfNldXU2dnZlpmV2RKQTBvd1BPVEd1RUNwWnpqc3RRVGJzc2lra1lwWVA2Y0ZVVldDT2FEeVdfTlp1cjlhSVV5STZtNTNXQ2FuVHpmYlBPeldRYXRxWnZJTWZ0SnEyb1N4YjJOU0lXODV0Z3pwUjh0YW1LR3BOdjBkOTR0SzdueEh0Tnc3OWRBTUYzZHZBVFlJY0FmZjhad2PSAdQBQVVfeXFMT0hqb3dqNGpaWk1RWEF2UFI2SlhnWElLRHBIWENvMG1DNVJWcmY5Z0IxYzN1RF9lb1B3VWlWc3BYMFlRMGhLRWJjMlNJRkJXV3ltajhaaE5JSHZydnpRekNmTUktdG5VWXZwSzlTUm5JOU81UkFxbnZyUWl2QmkyYkZqQXVSWUYtUlpOSEVOMkl5ZG5lR0Z5SFYtM09ydjJrQ0FSYzY1SzhmeDlsZWZpQnUzS0xBcWE1N190OURSY1FpWmk0dkNmTnRkNTlwODBmZktncFQ?oc=5",
+"source": "Google News – India AI",
+"category": "news",
+"published": "2026-11-25T12:41:32+00:00",
+"summary": "",
+"publisher": "Storyboard18",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "1d5b7164aa72",
+"title": "Anthropic expands Claude Duet research preview to India",
+"url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM1VSbVBGNlRVYWtHVy1MZzdaS2wyVi1FYW02MXJ3RjBsVmdKVndad0h2SGNWV3ZpRmNNVWhkaWV5dEhyUkFSTmkwbDdPZWw2UDFFWjF5WWhBNUMzaDY5ckxVc1VZX1dNSDdaTGR5M3VCTHpuWHYzcXNULWJqZlFUR1NJY2w1MWVKSHFVUjBlcWxyMEFBMmJnWjZjMHVBQnFWRFHSAaIBQVVfeXFMUDNVUm1QRjZUVWFrR1ctTGc3WktsMlYtRWFtNjFyd0YwbFZnSlZ3WndIdkhjVld2aUZjTVVoZGlleXRIclJBUk5pMGw3T2VsNlAxRVoxeVloQTVDM2g2OXJMVXNVWV9XTUg3WkxkeTN1Qkx6blh2M3FzVC1iamZRVEdTSWNsNTFlSkhxVVIwZXFscjBBQTJiZ1o2YzB1QUJxVkRR?oc=5",
+"source": "Google News – Claude",
+"category": "news",
+"published": "2026-11-25T12:35:19+00:00",
+"summary": "",
+"publisher": "Social Samosa",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "2186a90e2578",
+"title": "“Reimagining the judiciary in the age of artificial intelligence”: Justice Joymalya Bagchi explores AI’s evolving role in the justice delivery system at 1st DNLU JusTech National Conclave",
+"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU0lqdUhTeXFwNGVOZWE5RkY0MDZmemwxa1o0Q3lsU24tVjRxNElvVHpqUlZELWJ6SUR6UUUyRm9jc1dtWFBpN3pzd0pybUxSNzdMMjJMU2Fyb1h6NnNnMjBBajV4TS13N20teVU1U2RxeXhsdlo1RmNMZ3ZqLXg1YU9VeHItek5uZUlSeG9WcmYxUTNqNGdkZ0EtN1hlWDI0ejk4OFRzWFJESG5PcTVtQnRFTTFlUQ?oc=5",
+"source": "Google News – India AI",
+"category": "news",
+"published": "2026-11-25T12:34:35+00:00",
+"summary": "",
+"publisher": "SCC Online",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "dbab3c9f657b",
+"title": "OpenAI issues disrupts ChatGPT users in UK and Europe",
+"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RNUJleldob1J2eHpYVlFvRlhpRVNtcmhSQmFabTRpblJsR0syTlJHZ2VReHdfRnRrZmY2c3NDdkNuTkVUNTcxQ21aT2JtRXFfTzE4cW5RWE5kajRRM0pHVTc2VWpva0xMaFE?oc=5",
+"source": "Google News – OpenAI",
+"category": "news",
+"published": "2026-11-25T12:28:50+00:00",
+"summary": "",
+"publisher": "Cybernews",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "23b88008ff05",
+"title": "Anthropic brings Claude Artifacts to macOS and Windows as desktop apps",
+"url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZE1hb2VqVllsemVnMHZWcFRDMnQyb1N5dkZaeS1JaU9VRGg4dXF1cWUxb0dCdFFMdzBjNm1ZQW9qRWo4T09oSUU0aTZoQTZzUFhuYml1XzM1Y0k4ZEprVWFsalkyczNKbUZhVGtPdGNPUFk5bWpQMWc4bjV5c3pkTmNtaGlCMncwd051UkhDcTFZR0g4V3VFYVA4WXprV3FEOEh4TTN6bndVVG1ZWmdMZ25hSW9uZ0hmcU92c1ktNDVHMklk?oc=5",
+"source": "Google News – Claude",
+"category": "news",
+"published": "2026-11-25T12:15:20+00:00",
+"summary": "",
+"publisher": "mspbusiness.com",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "89265659bc60",
+"title": "BP transfers 3,000 finance operations staff to Indian AI services firm Wipro",
+"url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHhCZkhObFRGSG0tX05fMnZnM3JjbXJfakdkRWtsRFI0b1huT3BuWVZySkszSEZzejNpUFJqeVNiYXlka0k1WGpvRUQ0YldCVmljX0hWWllHVGVkR0FnWGtUb0hqQklFNmVZeThoUlF3OWZoSnZCTVBPeURyVlB5UnVsUTVZM2piRHZfd0RQV1hvNTdkRXFmUDVLVklqaW50eUpOcUU3UlRxWGQ4dTZLZw?oc=5",
+"source": "Google News – India AI",
+"category": "news",
+"published": "2026-11-25T12:13:30+00:00",
+"summary": "",
+"publisher": "Reuters",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "92a25fc813fc",
+"title": "Musk Reportedly Warned SpaceX Is Falling Behind in AI as Compute Rentals Expand in November 2026",
+"url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVZ5bzVMZ0czYS0yOEZBeGtaQ0t6cE4tSE1DQVR2azZVSDlHLXZhUlptTDRTYkkwemwwRE55b25oNm1EYjI3VXdIekx0RXFGU3VEeUJRRW5VZjdrYmtKN3NYRWNUa0NudjgxTkFvRW5ydTVpeklNZ0NQb18wWktBVWhQYmRWZVNSQzVrak15c0hCSjhnQXVsTDQ5cUVMWW9UY1RQVmtYM0NSSkVUbWx1eHJiTDd6MUZHM3JEblJjWmEtQQ?oc=5",
+"source": "Google News – AI rumours",
+"category": "buzz",
+"published": "2026-11-25T12:11:00+00:00",
+"summary": "",
+"publisher": "KuCoin",
+"companies": [],
+"unverified": true,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "55a7365a86de",
+"title": "Sarvam and Entire build an India-first platform for AI coding",
+"url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX0k5SDNWVkpCWkxmNlhPMzZjSE80VERHVTFVZjhGSmtYNElZczR6V3hGalhTcmpYMERjSDBKNFdyUGxyNXlQM01rYXNBSnRKaHZRNzVTeUhqNmNIVzEzWjY2X1YtaDNrdEctanlnMzQtR2dzdXdtM21WTnB4cVFpM00zdlRUc2lzcXZBbVJkVDV2V3JSWFI0?oc=5",
+"source": "Google News – India AI",
+"category": "news",
+"published": "2026-11-25T12:05:30+00:00",
+"summary": "",
+"publisher": "YourStory.com",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "3d727ed23209",
+"title": "Lakshya Aerotech Raises ₹2.5 Crore Seed for Physical AI",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWlTN3YwbUpWM2Z5clA3cHVaSmtsV2o5bW9PNWNGcXhRaG81ZHM1QVNUeElYQnA0ZzR0OVBVWHZHdHM4R3NLU2xYelVKRlBnZk1Ud1dqdEQ5SXl5LS1CUHFEVDktWU5yMHFobW1FRlA2QmdmazgtMmtqRVJkcmJXVnRmMWk?oc=5",
+"source": "Google News – AI funding",
+"category": "market",
+"published": "2026-11-25T12:04:34+00:00",
+"summary": "",
+"publisher": "shattered.io",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "f5bb5e8a9ad3",
+"title": "AI may soon change what it means to be a theoretical physicist",
+"url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+"source": "Ars Technica AI",
+"category": "news",
+"published": "2026-11-25T12:00:28+00:00",
+"summary": "Frontier AI is already solving problems that once took top physicists a full day.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "42199a010623",
+"title": "Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today",
+"url": "https://news.crunchbase.com/ma/your-ai-startups-exit-is-being-shaped-by-the-deals-you-sign-today/",
+"source": "Crunchbase News AI",
+"category": "market",
+"published": "2026-11-25T12:00:09+00:00",
+"summary": "When everything moves that fast, the terms of your financings and of your contracts for compute, data and distribution get set early and in a hurry. Some of those terms will later slow a sale, add cost and erode value.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "e798cb67a9f2",
+"title": "Gemini 4 Cobalt Spotted in AI Studio With 4K Video and 3D Support",
+"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSmZIaWwtMm1vTU1HOEpoODRzV1pxeFp2M2RfZ0lGSjBOOFEwUlZfRk15cEw1dnBLczFfV1I3cjlZUEdkaHBBYWtxSW1lTmJhcjcxV2wwOUNJU0poRHVSZS1reHVQd3JqdHhGYVZudlo1MVNXVy1CMEtmMXlQMHBhWm1Sa1dOM2VwWmVIYQ?oc=5",
+"source": "Google News – AI rumours",
+"category": "buzz",
+"published": "2026-11-25T11:52:02+00:00",
+"summary": "",
+"publisher": "nokiapoweruser.com",
+"companies": [
+"Google"
+],
+"unverified": true,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "c832dfad3e73",
+"title": "Google Halves Annual AI Subscription Price With Early Black Friday Discount",
+"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rV0QwR3VkbWw3cXVLalg0ZlZXQlpEUVNHN0ZqT29HLV93Y3BaS2E3QVhfbFNOQ2NCOVdjcWU0dmg0NnlqU3NJRGY4dHVfbGZ4b0I0bGJYZmNZS0tMVTEtY0RIajIxWE1UandNSEZnT3RUZk5kYkE?oc=5",
+"source": "Google News – Gemini",
+"category": "news",
+"published": "2026-11-25T11:35:00+00:00",
+"summary": "",
+"publisher": "BigGo Finance",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "ffad66169d8c",
+"title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+"url": "https://github.com/xoxorwr/pw-loudness-eq",
+"source": "Hacker News",
+"category": "buzz",
+"published": "2026-11-25T11:34:25+00:00",
+"summary": "299 points, 168 comments on Hacker News",
+"discussion": "https://news.ycombinator.com/item?id=50641171",
+"score": 299,
+"companies": [],
+"unverified": true,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "a351c480e806",
+"title": "OpenAI brings GPT-6.2 to ChatGPT's Chat tab, but Free and Go users get nothing",
+"url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc2t3THkzTmE0UmlaMVVuYmJfTDl3VkUtTWlVUXFodU9iX3JMT0hleXBpanhDRUdrZjE2eUhGYk0zYXRGM1lWRUd0MXhjRE5LY0Q3ZmVORDRkUzZIX3V5VTZSUWhNZzRsV2R6QU5KN1VlbTByM2lsNFM2VVFScFlnQkwwaWdfbFZkR1U2eG9seVVtcUFkbmpCQlhGeS03cXN1TXFKaUE1LUMtcVpaZkhvMEhlZkxlcDgxUk1BX3FMNmcyeVFlRFFHU01RUVdRR0tPRm5EWHB6VGjSAdgBQVVfeXFMTXNrd0x5M05hNFJpWjFVbmJiX0w5d1ZFLU1pVVFxaHVPYl9yTE9IZXlwaWp4Q0VHa2YxNnlIRmJNM2F0RjNZVkVHdDF4Y0ROS2NEN2ZlTkQ0ZFM2SF91eVU2UlFoTWc0bFdkekFOSjdVZW0wcjNpbDRTNlVRUnBZZ0JMMGlnX2xWZEdVNnhvbHlVbXFBZG5qQkJYRnktN3FzdU1xSmlBNS1DLXFaWmZIbzBIZWZMZXA4MVJNQV9xTDZnMnlRZURRR1NNUVFXUUdLT0ZuRFhwelRo?oc=5",
+"source": "Google News – OpenAI",
+"category": "news",
+"published": "2026-11-25T11:26:41+00:00",
+"summary": "",
+"publisher": "India Today",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "0fcfeddf366b",
+"title": "Broadcom Bought $1 Billion Worth of Anthropic’s IPO, and It Has Tens of Billions More Riding on Its Success.",
+"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeldYaTkyc3BBWjZBVDJleUoxNlZ1Y1BDd1RyQXpWeVcxSDBzRDMzT1ZwOVRwYzhlYVBLVDVDTVNrSGhDd25nSjJpSk54aHZzUU9UR05oSGpOd0Fab3ptRnBORjIyQzdHU0xuZW9zRjJCSTVqZkQ5TEhRTzN5M1ZTemFTUTB1MXdfeV9kMWhfSnNLa21oNGxoRTZPSQ?oc=5",
+"source": "Google News – AI IPO",
+"category": "market",
+"published": "2026-11-25T11:20:02+00:00",
+"summary": "",
+"publisher": "Yahoo Finance",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "64deadbd19f1",
+"title": "Gemini gets a huge shopping upgrade right before Black Friday",
+"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVRoZkR4N1ZUeVRFRHZnRHdySGlVRkc3QjdDcF9rZHFJRlYxX2xvVGdwbi1ldFZySi15cEhKbTVsaW5QclJyNG9lRTJmdktnYThPWnVCam1ocmQyeVgteXFrY1VJTWFCeGtEaEpadDRRQWo3cWxyN2cxYlZjU1ZneFhQbHZ5UUVHUDJyUnc0dl8?oc=5",
+"source": "Google News – Gemini",
+"category": "news",
+"published": "2026-11-25T11:13:46+00:00",
+"summary": "",
+"publisher": "Android Police",
+"companies": [
+"Google"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "c5de01634523",
+"title": "DeepSeek founder Liang Wenfeng's wealth jumps to $55 billion, becomes richest AI founder",
+"url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcTlRLTZCai10SmVvaE15UG4xQWpKRVlBeFJfLVdGcWs1UjRVeEkwaVVSUGh1c0dEWjVtaDRTTExFc1E5OHUtZDY0WU9Rd0FzMEFmYWp2bWlUTGtRLWxmRG1UR0hjY0Z6UGdzV3VURFRuTGx0MDVmSEI3dGJWb0otSURNTUtBNEwtM2hndkVhUnJkRk1nQ3FqSHZuRUxjc1RlenZSS1RvN01UQVpBWGk4Mm9mS0RsZnl6SGFEVFJycXJjcU9PMVRaYjdsWdIB0AFBVV95cUxNcFY0TU96alN2M3VnY0tZTzh0aUFXMVZrcmF5X0YwZF93T0lmdk52aTlIYk5veUJvNF9EWlRxdkJUUXkzU1FtTFY2aGtUZXQtTGR6Zmp0MUc4ZlJOODUyM0U3bmh3Y1hUTHI2eDRlMU13c0RKWGppZEVUY2duMXlueFlzZ2NYWV9BQVoxZ010YWRpNU0tRUhKNVlUZ2Nnbk1KQ1QwQzI5QWZTcWozd2JIcnJxeHZIRjJEdXZfSXY2WTJPMzY4WmlBbDQ2UU5iU1Jo?oc=5",
+"source": "Google News – AI funding",
+"category": "market",
+"published": "2026-11-25T11:07:42+00:00",
+"summary": "",
+"publisher": "CNBC TV18",
+"companies": [
+"DeepSeek"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "38c818552b20",
+"title": "The Israeli brothers behind a $1.15 billion AI infrastructure startup",
+"url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12a3l4N1NkTE5fZXkyS2h1Nmx1YWNFVmI0bHBLemZManVaSWRpeHhEazNQVVVpWWliRVZnbU1NbG9FN0NZOXZCZWZJaEc3WXZPMHJHelp1eXVjcHVCaDdTTGQtdDRPbU9N?oc=5",
+"source": "Google News – AI funding",
+"category": "market",
+"published": "2026-11-25T10:45:00+00:00",
+"summary": "",
+"publisher": "CTech",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "1bda772c6e53",
+"title": "Anthropic Brings Claude Duet AI Agent to India",
+"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2dlY3h5QWJKRVhJX1RXS2w3dmhZRUstYlZ3TWxsQjRhZWZNMnpUYzNUblBpRlc5cEV3NnlpUlJEM01yaGhWeVN4TVlZa3BTREh5S0lxbzlsSFRlVlR0M2J6Z2dXa3JuMHVMRVNJNUlTalpSajdrQUpIaHgxRGV3bGtUVHpzN0lDMFRVMQ?oc=5",
+"source": "Google News – Claude",
+"category": "news",
+"published": "2026-11-25T10:44:11+00:00",
+"summary": "",
+"publisher": "Analytics India Magazine",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "5f1ac4b959eb",
+"title": "Anthropic expands Claude Duet AI agent research preview to India",
+"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcU5adlJuTldzaXBrOEx6QmIxQzVKOG5NOVBRSmFVMENiWGRvbmc3VEF0SllSRTRjRzllOXZyZnZqdW92eHFDWDN5eTI2RGpRY1V4c19BU3UtaktaYkdpaXlxU1llSlI4bWJ4aXB3UHdnZlhNdkpUYTBGYUpGUWk1TVJzaEVLcF9qeUJlOFZNaHJuaGVqYWZrYS1ldFMzbHdH?oc=5",
+"source": "Google News – Claude",
+"category": "news",
+"published": "2026-11-25T10:36:00+00:00",
+"summary": "",
+"publisher": "Adgully",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "f2cb1740da6e",
+"title": "ByteDance's valuation tops $600 billion: What the sum-of-the-parts method says as profit plunges 70%",
+"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55WERVVVdQNTRYNW5mMmNoeDZkekxyd2hnQW5qazQzbHd6V3VTRmI0NTVmeXV4OHBKbzR3TkxSUmpJZE5BcUZWNEU3bFltNFNLMUhJT2RHRGFBekZhV0VXLWUycklhUGlqai00WGxFb3YzMXpCNGc?oc=5",
+"source": "Google News – AI IPO",
+"category": "market",
+"published": "2026-11-25T10:25:00+00:00",
+"summary": "",
+"publisher": "BigGo Finance",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "d0a3a7f662b5",
+"title": "An Indic Voice Agent with CUGA",
+"url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+"source": "Hugging Face blog",
+"category": "official",
+"published": "2026-11-25T10:22:09+00:00",
+"summary": "",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "f0847cae4a06",
+"title": "Top 10 advertisers take under 15% of ChatGPT ad impressions as a long tail of smaller brands competes, Similarweb finds",
+"url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSG5OQTdrLWZpbFV4OW1rZFVBazc3cnJKR3czeWI0eXpHbDF6OUMzOHV2ZlVFb2FJLTlqZ0V2MFZDVXV5dHFNSzdfTjc3aU85djltbmg4VmxxYWRkakQzTzFFT29paFJzN09aMW1RSmduWFJzZk0xUy1TRVg0bW9vbFhBRF8zelF4bmJmZzNuWFlNM1JwTS1xa256Z21SLTduT3FKd2psVmxpN2JGMHI4YkZLTm1VdXo1aHhHS3pIZlI2bDVEeHZjaW9hS2JiRmhQd2RqLWZCWTNTeDVPX1U0T1ZkTnI4dw?oc=5",
+"source": "Google News – OpenAI",
+"category": "news",
+"published": "2026-11-25T10:15:12+00:00",
+"summary": "",
+"publisher": "Dealroom",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "c8e9425d0c75",
+"title": "Every raises $17.5 million at $110 million valuation, betting venture-backed media can work",
+"url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmxhY1N3VU9DcDBnYjhpWXlGQVRqd1ZZYVF5VVNWQWtYWS1pdnQ5c181b0V0aGdURUlvUE10RFFGX1Z3S1BuMGF2dUdUeElJbl9ZQVlBaUZ5TXY5RE5xUHY5QWdIb2MxcG8xZExoRlNmVEliUnotbW1HRVUtbzdBazVpUHEwX1F6ekRJUlcyQ0Q1d2ZMRkZIdlZoNzQ5WVNUdENHQmZHa3RZMG83ZmFWQVF2b2NMRmM2?oc=5",
+"source": "Google News – AI funding",
+"category": "market",
+"published": "2026-11-25T10:15:00+00:00",
+"summary": "",
+"publisher": "Fortune",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "acbe20f9880f",
+"title": "Payhawk Raises $280M Series C at $2B Valuation to Build an AI-Era Finance Operating System",
+"url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd0Jjcm9uV3R0Z1JuZUNBMUNGcXpUeFhUMGpQMU9LX2dORHZrZUdVenNjelViLWxzT09FZkg5MmpMSHR3STRJQUtUWWFHRk9GMGg4YV9vS1ZidlRQVFpIdkxZSmp5VUVnOUc5UGptRXNZbGJZQUtxejEyaHh4YnZwSEp3VzVOdURCajk3YVNFbjExUzY4VWZkTFJwU25uUW5za0VEVjItSHhvdVRwWjdsaV9BellVRS1sT0dUZU5JbHd6Mjdr?oc=5",
+"source": "Google News – AI funding",
+"category": "market",
+"published": "2026-11-25T10:11:16+00:00",
+"summary": "",
+"publisher": "AI Insider",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
 "id": "681b137da472",
 "title": "Sundar Pichai's Gemini 4 Neon sees massive demand, Elon Musk says impressive work",
 "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMzlpZkZvYnMtOUVMdE1FdXlNYVUyYjdRUDAxQUFsWWRFaE5fSHFHd2hUTTlxMlAxcUdEUHFXVlppcXJfRDU2blJxY08xUlBkdmlSb001dF9mRnNZV1liVUo3Z0ZmQTAwQ1F2VHRYMkJJM1Jtc0RaY1BXZmZaX3VJUVR2YXNKRWVhTXdPMUU4V1E1cUNTblhpblJIVTdTVUtndF9IZWxQeEdvSzl2SDlhX204U1JjRmhCZ0NUNDQ4SmkwMUlPVlVPNHZBRThsUFYtSnBHbGkzekhBdHV3TUHSAeMBQVVfeXFMUHFoNGNLWGtWMDM5ZFZocHp4MHlKYm91V214UjBJOTg5b0h6bTBJSl9pT3Ywd2U1UEdkXzYySGRfeEljbGJuZG5pTkdfQkJKejZ4T0Z3MG0wdHBWUWl2dFlKOVN1RjdSTTlGYmFBNU9iWlNMTmtPM1dOVFRPWmpRUE5FVF9LMllXeWx6NTMyeFh2VUdBZjdENkVWNmpOdk9id1JReERvTVJXWWtpeFJQVGhLZnhPTE9hd0hrNktpM2dtbmwzZnVObTh2QTRjR0g3Zm5KbGFQYlZuX0dkMHFleXJ0TFE?oc=5",
@@ -13,6 +1395,18 @@
 ],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
+},
+{
+"id": "570b39bfa866",
+"title": "AI is straining America’s open records systems",
+"url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+"source": "MIT Technology Review",
+"category": "news",
+"published": "2026-11-25T10:00:00+00:00",
+"summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure…",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
 },
 {
 "id": "0a023de0f7cf",
@@ -43,6 +1437,34 @@
 ],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
+},
+{
+"id": "81b9ffdf423d",
+"title": "Outcome1.AI raises €2.05 million pre-seed to scale AI \"digital employees",
+"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWlkSlFneXBRQmE0aWVQSXAwNDJJYkhNZE1PeEJoSXkxeHBMVXZVYzhLU3R4MUYzZ0doNXVlZHNGRWxTWFZFSzdybVJuUHY1TFF4YkJnaXFRYUdoLUJzNG1vMFVnRE5WVk94WGkxX1BVcHJlNmNiVm5Va2xTbTFFUk5MUEVmdXB5bV9FNlF0UGo1ZGVONnZLOWFNUTA2b1VydTNoTnpzQQ?oc=5",
+"source": "Google News – AI funding",
+"category": "market",
+"published": "2026-11-25T09:57:07+00:00",
+"summary": "",
+"publisher": "Dealroom",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "aab1ec060925",
+"title": "WebMD Ignite Partners With OpenAI to Bring ChatGPT Advertising to Healthcare Platforms",
+"url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLVZlRUQ4THFVX0RRTXprV1Babk9FM0Rudk1PMXc5UHFGc00wZWY5NHpndC1CZHJHUFloNXFFclNCWGJjUjUtb3kyLWFLUnJOQXZCdFdiNldDeS1Qd1owQUVMa2hycUZKVWlnaktVM1h1dVNXeWRvTnlkdDZoM2ZZRVo3a1oyU2JSZmt1VnhVY3ZDTXVRMW9rMWdRNFpZNXBrLUdMOTFEQVo5M21qcHNBa056V3lsWU1ObWhONg?oc=5",
+"source": "Google News – OpenAI",
+"category": "news",
+"published": "2026-11-25T09:57:00+00:00",
+"summary": "",
+"publisher": "Digital Health News",
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
 },
 {
 "id": "40e34525fc7f",
@@ -127,6 +1549,19 @@
 ],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
+},
+{
+"id": "cf928d6b092d",
+"title": "Indian IT services set to benefit from AI adoption, despite traditional delivery model pressures",
+"url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNVFp3WjhaajFDbS10emRld1NNNzU2OWhSZW9EbGdGYVI4bkx1OThRQnJ0RUJ4bkhSVTJUeVNESVJPbWRSSmZrVEg3VXR6UnJudS1oSHFEbVUyU1owbTF0dWUxZWk0dXNDSW5FTHg0SkVJeDN0c1NEX1FmNC16MUl0RktsWDMxb1Vxa21TYVFCWTdYUXp1NTlSVDJ5eC1NUmJoNmhKRjJ4M3Y0YXJmNXNfSEZpZW5mNG40c3V4cXN4QVVRX0tMMy1rM2FrWE5YQUE4VG9ESVVnWmFXbjJyZ1Z3UkV3WVVra093cnNheUg4RS1vWWlmS3NoUTJwZUxzSnZlcVZ6RFFWZDFGWS1uODF5cUhYSmQwUFpYd20wNEFpd2FhT3FaekhVa1A3d3M3SWVHYmNBQUhMcjZnTnltbW5wbmhmQ2tVTUF5SXVUSmdn0gGLAkFVX3lxTE95ejZBLURkbVNZSU1IV2gxMHZVTU5LcmdteFFHZVZPWDZ3RXVHbDZaY3l2dUkyRnotZVVxOWoyaVg2cVJ0NW5pWDBHdERRMlRJSThlVkd0NXppVHF3RXJ2azJlOFpha3hoTVZnUEtWbGptYlo3U0duY0JiX3JZSzh1WmtQWlFBTGc2SUVzdXkzVWxQR3RHa3llRnlUbmU5UHJBOUwydTZNSGFPSG9QYno2TnNaOTdxUm12bGlYbG9zbUQzemRWajFfMzNuVEZnaUFseVl4WV9KVEVuWmJENzYzRkVBWGtaYTVRU05oQ2hoWHZwWXZHRVBtc2tIdkNLb2hIZktRa2R0djlaTQ?oc=5",
+"source": "Google News – India AI",
+"category": "news",
+"published": "2026-11-25T09:30:00+00:00",
+"summary": "",
+"publisher": "ET CIO",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
 },
 {
 "id": "65d1a3c113cc",
@@ -273,6 +1708,19 @@
 "first_seen": "2026-11-25T10:05:10+00:00"
 },
 {
+"id": "e9ce876f71c7",
+"title": "Cyprus startup ecosystem tops 524 firms and €1bn in private funding",
+"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWZ4RC1ueTFJMkI4OGM0aE9iZ3NIandIVkIzeVdLSG1TbVBCdndOMHRhejNGM2NpUHg5cTlha1RCbGplcUh1amhHYkFTLVF1TXVwTmtFUzlTel85Z1BSQ2RfYl9VN3RVaDY4LV9DNWxlV1dEa2JRR01ySWEtS2Q3LUxKM0FHWnZzVTVTS29CN2lCXzZwNHByalFTM1hlTTdhTkZTNA?oc=5",
+"source": "Google News – AI funding",
+"category": "market",
+"published": "2026-11-25T09:00:00+00:00",
+"summary": "",
+"publisher": "Cyprus Mail",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
 "id": "297460a6e5de",
 "title": "Anthropic expands Claude Duet research preview to India, opens access across Pro, Team and Enterprise Plans",
 "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQVBxQ3d2UFJ2OGNJeXdhdXlCMFZGbkZxb0lieW84Z1ZDYm9URVhvUlU2by10WEFuNElvNGlJeTRrNHh6U3RoZlE0UWZTWUtfWVk0cnEwVHZoRkRsQzEzb3djRVhRY0I1U3c5Nk9Ra2xtVXBON1o1cUFJWVlPOVFHUWVkYmJvNHNBQUVlQlNpTDdpQThlTHhycTJZQjdnZ3ZEbG4xTF9neFBHX2dmVHljMHNUT3ZpelhfNUdkdjRlU1VhLXZBc294eG0zaGFsc2s?oc=5",
@@ -345,6 +1793,37 @@
 ],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
+},
+{
+"id": "5d164a3375c0",
+"title": "No-Code Dashboards: A Hands-On Guide to Gemini Inside Google Sheets, and Where It Breaks Down",
+"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yVEFfcG54cEVyZm4weEo4cmpEcGY1WWlXcHVQOFU4VTN1WDFBWTM4UkExbzJ0SmQtZUtScTRBMFpRaDh0SWNncy1HdzRHVzBQY0VqRFUteDU0V3lHdGp3dUtHa3QzS0JGR0lFSUlxM0FnbXVkLXc?oc=5",
+"source": "Google News – Gemini",
+"category": "news",
+"published": "2026-11-25T07:56:00+00:00",
+"summary": "",
+"publisher": "BigGo Finance",
+"companies": [
+"Google"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "fe8cdf03f64b",
+"title": "\"They're seeing disturbing signs\": OpenAI and Anthropic have reportedly halted training on some models, says expert Stuart Russell",
+"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2ptaGl2clhBc1RjYVV1ZUhMY29FQThkdy1lbWRDejFETGlON1RtaE43RFotN0dLaE5PRlhfRHJiWkJ1RjU0c3BTNHV6VGVWa00tZElrdllXMktPbmVBZ1laQXBNUG9TaUJ1WE5uOXEyMmR0OVNhQnRJc0xVek5MQV9LMXBBdVZv?oc=5",
+"source": "Google News – AI rumours",
+"category": "buzz",
+"published": "2026-11-25T07:56:00+00:00",
+"summary": "",
+"publisher": "AOL.com",
+"companies": [
+"Anthropic",
+"OpenAI"
+],
+"unverified": true,
+"first_seen": "2026-11-25T22:39:12+00:00"
 },
 {
 "id": "28287bb2ee27",
@@ -459,6 +1938,19 @@
 "first_seen": "2026-11-25T10:05:10+00:00"
 },
 {
+"id": "d8873e6b1bfc",
+"title": "India calls for human-centric & responsible approach for use of emerging technologies in conflict situations",
+"url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNzNqcXQ1cUdYQ1Z2TjQwaXdEZXRsVVBSQkZDRlBWUVR2ODY0VmFDZGpIeVVnZ1lVNmszbnBlSlpCd1psSDY5T1M1OUlBS1BJWDZJdTBxZmdjSDV1a29vLTJqMWV4cnp4TzNNZGRnWEliYWcyQmNaenRRcGV5V2lITDlzLVZ6b2pxRXhhNGJpd2JBeVNOUEM1NlJjLWxyaU5iN0JqTzJZY25hUzVUamZGQ016M3BPYVlrdkFhMm5zYXRrd2Qyai02SjFTNjA?oc=5",
+"source": "Google News – India AI",
+"category": "news",
+"published": "2026-11-25T06:51:38+00:00",
+"summary": "",
+"publisher": "News On AIR",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
 "id": "0c90004c4dd7",
 "title": "India Warns Against Strategic Misuse of Technology, Calls for Inclusive AI Governance at UN",
 "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YZnd3VUNQX3ZUdFppcXdvT0J5U0ZPUkIzZnU2b1JwRjZVSFo3endyaDBVVG5YX2IzN183LV9OV2s3VXQxRjRacHlMajJxTWRoeUxpd0tjblE4ZkJNWlA3VVpxX1h4T1o2LVNPRQ?oc=5",
@@ -483,6 +1975,19 @@
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
+},
+{
+"id": "01445625e820",
+"title": "India has ‘huge opportunity’ as Salesforce shifts to AI-first enterprise systems: CEO Benioff",
+"url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWm8yZjVTRHQ0WE5iRkQ5TVQ0aTRGb3k5NEctQWF4ZUtEMkgwNVZtU2kxMzdCdmFrSGVqN1hjaFFMUkY3ZUxqbklYNk43ZkJyZ25scmc2bVViMjMwMktXbWZ4V0xpUFd4UGF1RVg1LTBkcjFHQmVHSVNJSlh1ZGVnajd0RFplanBQcWtmOW0tTFktdXlkRzVwd3VSVDcyQ2hOd1pSTExPS0RLcmFrSklSZ1BtUUVzems?oc=5",
+"source": "Google News – India AI",
+"category": "news",
+"published": "2026-11-25T06:23:49+00:00",
+"summary": "",
+"publisher": "DD News",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
 },
 {
 "id": "eb3eb0509dba",
@@ -622,7 +2127,7 @@
 "published": "2026-11-25T04:56:36+00:00",
 "summary": "127 points, 32 comments on Hacker News",
 "discussion": "https://news.ycombinator.com/item?id=50638647",
-"score": 127,
+"score": 145,
 "companies": [],
 "unverified": true,
 "first_seen": "2026-11-25T10:05:10+00:00"
@@ -677,7 +2182,7 @@
 "published": "2026-11-25T04:31:48+00:00",
 "summary": "122 points, 26 comments on Hacker News",
 "discussion": "https://news.ycombinator.com/item?id=50638503",
-"score": 122,
+"score": 326,
 "companies": [
 "NVIDIA"
 ],
@@ -777,7 +2282,7 @@
 "published": "2026-11-25T04:03:33+00:00",
 "summary": "178 points, 117 comments on Hacker News",
 "discussion": "https://news.ycombinator.com/item?id=50638320",
-"score": 178,
+"score": 213,
 "companies": [
 "Google"
 ],
@@ -806,7 +2311,7 @@
 "published": "2026-11-25T03:47:42+00:00",
 "summary": "115 points, 50 comments on Hacker News",
 "discussion": "https://news.ycombinator.com/item?id=50638220",
-"score": 115,
+"score": 215,
 "companies": [],
 "unverified": true,
 "first_seen": "2026-11-25T10:05:10+00:00"
@@ -827,6 +2332,21 @@
 "first_seen": "2026-11-25T10:05:10+00:00"
 },
 {
+"id": "c13103d52f52",
+"title": "AI models designing custom chips threaten Nvidia's dominance",
+"url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnlXYV9MRkpfZnVOTXo5R1FUaExtTmxDNm45aGdDRzV0d0paR1lJUnhyN3k3TmF1YXdqZXM0ckN0b3JkUnZGbXVrM1ltQV83QllDeUpEaFZfeXMyZ0VaV25iLVdjRzBBOWNJQ25CR3I0dnJTU2RmVkpJbkxicUVUZ1MwaXZmb3VCRnVlWWkwWktCVDNuNWF0TC1OY3dsUWRYc1AzanFB?oc=5",
+"source": "Google News – AI rumours",
+"category": "buzz",
+"published": "2026-11-25T03:34:16+00:00",
+"summary": "",
+"publisher": "TechGig",
+"companies": [
+"NVIDIA"
+],
+"unverified": true,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
 "id": "69c2b54d1f31",
 "title": "Jensen Huang effect: Anthropic is setting honey traps for AI agents to catch them misbehaving",
 "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTF9ZS1IxRWJ4VnExLXhMVjQ1MkVsOGpWRVgwNlBRWVZwQV9zX2NScHV3Zy1IdXl5bXhiOFlTM01la0tETGZ1SGZRVnYzSDktRGhPV1VJNUg0ejJtOURaaENnZ1NrYmtXUWRIVHh6NEdycDVRbTdBUV81OGluc05PaGJtb2pma2NVNHVRaHpkWmF2b2pCbTA4eWhTd3daVmN2RmhTUWxya2xRbTlDdlYtelpTUGlHZ2ozcHJnRDRQdkFJZElsSjUzNHBTMFloc0FKNGZKNW51a1R1cUdaNmFrZkY4ZExRNUpYazhpUFNFaWnSAfYBQVVfeXFMTlFCb2E3UHVtSUhQODRCU0F0VThsZTNNa0lxS3Zmb0hBREpoZXZKMzQ3dmd6MjdBVDFVdDRPdFk3aG1uWFE4LTdCRHpNR19kTlkyWUJ1bFExZjhlbGxzQ3B6VVhKVkpLLUFNclZ5OHlNeXBYZUhXVG9rM0VxV0ZWamh4NlpZX3JENmlXVGlUM09KR1gtMmdyVkprLURBVkZ5X0dWcWZUZ1M5eEpzV0haMFNxc3M1bERBVlBpb08zeFM5SXpmd1J2N3U0SFJoLWpBdTBkRjdNbUF6bjVoSG95dlE2R3FET09kMk9oX1FWa0k0cnJqSUN3?oc=5",
@@ -840,6 +2360,23 @@
 ],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
+},
+{
+"id": "ebaf1c30665d",
+"title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+"url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+"source": "Hacker News",
+"category": "buzz",
+"published": "2026-11-25T03:28:06+00:00",
+"summary": "127 points, 20 comments on Hacker News",
+"discussion": "https://news.ycombinator.com/item?id=50638070",
+"score": 127,
+"companies": [
+"Alibaba",
+"Amazon"
+],
+"unverified": true,
+"first_seen": "2026-11-25T22:39:12+00:00"
 },
 {
 "id": "7d90f590cc27",
@@ -874,6 +2411,20 @@
 "first_seen": "2026-11-25T10:05:10+00:00"
 },
 {
+"id": "9095f70c750e",
+"title": "Macrohistory in Six Facts",
+"url": "https://basilhalperin.com/essays/macrohistory.html",
+"source": "Hacker News",
+"category": "buzz",
+"published": "2026-11-25T03:04:46+00:00",
+"summary": "162 points, 84 comments on Hacker News",
+"discussion": "https://news.ycombinator.com/item?id=50637891",
+"score": 162,
+"companies": [],
+"unverified": true,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
 "id": "777816c50f03",
 "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
 "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
@@ -882,7 +2433,7 @@
 "published": "2026-11-25T03:04:37+00:00",
 "summary": "185 points, 72 comments on Hacker News",
 "discussion": "https://news.ycombinator.com/item?id=50637890",
-"score": 185,
+"score": 432,
 "companies": [],
 "unverified": true,
 "first_seen": "2026-11-25T10:05:10+00:00"
@@ -953,7 +2504,7 @@
 "published": "2026-11-25T01:19:26+00:00",
 "summary": "632 points, 334 comments on Hacker News",
 "discussion": "https://news.ycombinator.com/item?id=50637220",
-"score": 632,
+"score": 1004,
 "companies": [],
 "unverified": true,
 "first_seen": "2026-11-25T10:05:10+00:00"
@@ -982,7 +2533,7 @@
 "published": "2026-11-25T00:54:49+00:00",
 "summary": "251 points, 44 comments on Hacker News",
 "discussion": "https://news.ycombinator.com/item?id=50637056",
-"score": 251,
+"score": 385,
 "companies": [],
 "unverified": true,
 "first_seen": "2026-11-25T10:05:10+00:00"
@@ -1058,6 +2609,45 @@
 ],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
+},
+{
+"id": "9ee9c873711d",
+"title": "Anthropic Loses Nearly US$200 Billion In Value After IPO Reversal",
+"url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFFfOWRiNkxWLUZUZm8zS1NTUjFwaTBtTFota0t1NnR6cE4wdXFXTHBmd0J5VjJXWnV3R0RWbVRoQkhUY0c5S0liVk5DVnBTaThucGNud2VJdFVpWjJVSVVldXRCTl9ZcllsdTdNZkJkTTB6MHVFUlFKV1RHU2g3Rnh5QjVCNnYtamw0OHNQNUVQQzNjcmVfUGNKNml6dE5vVy1xNi00V0JoOFkxSmc?oc=5",
+"source": "Google News – AI IPO",
+"category": "market",
+"published": "2026-11-25T00:06:18+00:00",
+"summary": "",
+"publisher": "BusinessToday Malaysia",
+"companies": [
+"Anthropic"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "9e640d54cb60",
+"title": "Migrating our Messages API to Rust",
+"url": "https://www.anthropic.com/research/migrating-api-to-rust",
+"source": "Anthropic research",
+"category": "research",
+"published": "2026-11-25T00:00:00+00:00",
+"summary": "How we migrated our Messages API from Python to Rust.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "d8d6777ecf09",
+"title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+"url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+"source": "Hugging Face blog",
+"category": "official",
+"published": "2026-11-25T00:00:00+00:00",
+"summary": "",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
 },
 {
 "id": "69540e1210d9",
@@ -1514,6 +3104,21 @@
 ],
 "unverified": true,
 "first_seen": "2026-11-24T23:11:14+00:00"
+},
+{
+"id": "15fe5358b12f",
+"title": "Axelera AI Seeks $400M to Challenge Nvidia Dominance",
+"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHlKTXRONHJvQmFpUURIRXFFSS16NnFCME5TSXNQaWI3ekowSWR6MXZjTmVzdy1BNUxzcW5XaW1wYzU4TWNSR2Q4YkFNdWw1amY1dDlJcFZkb0dEcW90NGpqUmhJa0JhNEFpaDdLUEl0ZkxqN2k1SUoxNF9LTW4yR1c5SzBkNE9aQXU0UHcyZmY?oc=5",
+"source": "Google News – AI funding",
+"category": "market",
+"published": "2026-11-24T20:00:14+00:00",
+"summary": "",
+"publisher": "n24.com.tr",
+"companies": [
+"NVIDIA"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
 },
 {
 "id": "180cd5bd888d",
@@ -2220,7 +3825,7 @@
 "published": "2026-11-24T16:45:44+00:00",
 "summary": "207 points, 161 comments on Hacker News",
 "discussion": "https://news.ycombinator.com/item?id=50630809",
-"score": 282,
+"score": 435,
 "companies": [
 "Anthropic"
 ],
@@ -2304,7 +3909,7 @@
 "category": "tools",
 "published": "2026-11-24T16:32:20+00:00",
 "summary": "Trending text generation on Hugging Face, 194 likes, 0 downloads",
-"score": 186,
+"score": 273,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
@@ -2332,7 +3937,7 @@
 "published": "2026-11-24T16:12:38+00:00",
 "summary": "312 points, 297 comments on Hacker News",
 "discussion": "https://news.ycombinator.com/item?id=50630309",
-"score": 327,
+"score": 334,
 "companies": [],
 "unverified": true,
 "first_seen": "2026-11-24T23:11:14+00:00"
@@ -2572,7 +4177,7 @@
 "published": "2026-11-24T15:03:40+00:00",
 "summary": "158 points, 47 comments on Hacker News",
 "discussion": "https://news.ycombinator.com/item?id=50629231",
-"score": 774,
+"score": 856,
 "companies": [],
 "unverified": true,
 "first_seen": "2026-11-24T23:11:14+00:00"
@@ -2764,6 +4369,22 @@
 "first_seen": "2026-11-24T23:11:14+00:00"
 },
 {
+"id": "109c70a75568",
+"title": "OpenAI and Anthropic employees fear upcoming AI models are too dangerous to release: Report",
+"url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQmlqbFlXWVpaMVVocHNLUENrajF2UTFYWVVTS0R1Yk5INWlMMnA3RkllQVZLOFBvaWhzUWVJWTgydTVMc0pveVRVTTFSMmpFU2p5MnF0RG44ZDdabFdpc0g5TmJweDdIYXZ5RWZIenFkYi1wdHVZNkhJczN3bVg2bXd3bkNwRDZJOEFCTG5iRWFrZzg0T2hnaEQwMm5DUzA0N3duWTA2cU9aNVFDaG1OSVFHVFZfblNTQ3luNlYyLVVfWWdxUUh4UnQzaEdVZlXSAc8BQVVfeXFMUEJpamxZV1laWjFVaHBzS1BDa2oxdlExWFlVU0tEdWJOSDVpTDJwN0ZJZUFWSzhQb2loc1FlSVk4MnU1THNKb3lUVU0xUjJqRVNqeTJxdERuOGQ3WmxXaXNIOU5icHg3SGF2eUVmSHpxZGItcHR1WTZISXMzd21YNm13d25DcEQ2SThBQkxuYkVha2c4NE9oZ2hEMDJuQ1MwNDd3blkwNnFPWjVRQ2htTklRR1RWX25TU0N5bjZWMi1VX1lncVFIeFJ0M2hHVWZV?oc=5",
+"source": "Google News – AI rumours",
+"category": "buzz",
+"published": "2026-11-24T13:28:00+00:00",
+"summary": "",
+"publisher": "Digit",
+"companies": [
+"Anthropic",
+"OpenAI"
+],
+"unverified": true,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
 "id": "31bc9b6a5600",
 "title": "GTA 6 Running on Windows",
 "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
@@ -2772,10 +4393,24 @@
 "published": "2026-11-24T13:19:31+00:00",
 "summary": "233 points, 266 comments on Hacker News",
 "discussion": "https://news.ycombinator.com/item?id=50627783",
-"score": 402,
+"score": 496,
 "companies": [],
 "unverified": true,
 "first_seen": "2026-11-24T23:11:14+00:00"
+},
+{
+"id": "9d616b431206",
+"title": "Getting old Java phones online again",
+"url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+"source": "Hacker News",
+"category": "buzz",
+"published": "2026-11-24T13:14:37+00:00",
+"summary": "155 points, 68 comments on Hacker News",
+"discussion": "https://news.ycombinator.com/item?id=50627726",
+"score": 155,
+"companies": [],
+"unverified": true,
+"first_seen": "2026-11-25T22:39:12+00:00"
 },
 {
 "id": "84bc43b1145a",
@@ -2793,6 +4428,18 @@
 "first_seen": "2026-11-24T23:11:14+00:00"
 },
 {
+"id": "f14a6f6dfd19",
+"title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+"url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+"source": "Google DeepMind",
+"category": "official",
+"published": "2026-11-24T13:07:53+00:00",
+"summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
 "id": "3c6728c1bfd1",
 "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
 "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
@@ -2805,7 +4452,7 @@
 ],
 "unverified": false,
 "first_seen": "2026-11-24T23:11:14+00:00",
-"score": 266
+"score": 350
 },
 {
 "id": "08f013882dc7",
@@ -2875,7 +4522,7 @@
 "published": "2026-11-24T12:40:15+00:00",
 "summary": "859 points, 358 comments on Hacker News",
 "discussion": "https://news.ycombinator.com/item?id=50627340",
-"score": 974,
+"score": 998,
 "companies": [],
 "unverified": true,
 "first_seen": "2026-11-24T23:11:14+00:00"
@@ -2906,6 +4553,20 @@
 "companies": [],
 "unverified": true,
 "first_seen": "2026-11-25T10:05:10+00:00"
+},
+{
+"id": "3f01b7068dc5",
+"title": "The Shapes of Rivers",
+"url": "https://dominicroye.github.io/shapes-of-rivers/",
+"source": "Hacker News",
+"category": "buzz",
+"published": "2026-11-24T12:14:25+00:00",
+"summary": "136 points, 33 comments on Hacker News",
+"discussion": "https://news.ycombinator.com/item?id=50627079",
+"score": 136,
+"companies": [],
+"unverified": true,
+"first_seen": "2026-11-25T22:39:12+00:00"
 },
 {
 "id": "a868b5eca899",
@@ -3222,6 +4883,19 @@
 "first_seen": "2026-11-24T11:20:15+00:00"
 },
 {
+"id": "4f1f265a3bb9",
+"title": "AI Customer Service Startup Sierra Raising at $30B Valuation, 75 Times Revenue, Billing Per Outcome",
+"url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYWdHcHNRMmc1ZE5DSnRRQ1FUc2ZJRFpjQkZlMkcyeDF4NXpkYTBuWC0yVTFwWUZCT3NkTFU4VDVlZWhsdHdpWk9zQ1RJQURHd2dUd3Z4UEpQeVg5YWszT0prVDRCc1N5andkbVdoLW1nMGFCVTNfdWZyMDhPZWgtSTVIZG5Ya3pERU52bnpQMnVkcjhIajBHWjZSMzBqYTU0MEtCVEJNUDFXRG5rT1BaMHhPdl90Yl9WR3doMFFlNGRrcFByenlIb3BUR0xMN1dWSDRKUUxTT2FjSTR6R3FVR2l3?oc=5",
+"source": "Google News – AI funding",
+"category": "market",
+"published": "2026-11-24T10:17:36+00:00",
+"summary": "",
+"publisher": "Tech Times",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
 "id": "49197bf8b6f0",
 "title": "OpenAI Pushes GPT-6.2 Into ChatGPT's Main Chat Tab, but Free Users Are Left Out",
 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QbFRSNlQ2U2JOa0hTOEZRMjhsZVVabWEyT1V3Zkstb0VGSjNIOW1jazFLVUtDOVFySUhqUmQ3cEFib1k4OGhyTEdGSFNkM0RKWEliSEd0akxJN1dTMmJzVzRCYUxZUVo1VUZrNl9LMzhQVlAtTlE?oc=5",
@@ -3418,6 +5092,19 @@
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-24T11:20:15+00:00"
+},
+{
+"id": "2f5c9a1c08ce",
+"title": "Adani Airports Raises $300 Million From 360 ONE Asset At $18 Billion Valuation",
+"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMG9pcmxITjlaWlJ6YlV2V21mLUtad05vU3FQRFdrajl4WlhZN2FEMHlrNmlFeG13NTJabjRLa2doU01OS1VHMXhkUmQwbEFTYnJZS3U3ZW9wajZHOHdDbGhGbnVVTzdGOGVQWU9tQW5DTXBnZ1ZpWFJoTG43S0txZ2NVMlZ2V1JkNXlpMldOVzA2T0pheGdTazJKbENDU2JpY3F6SUJGTjlYWnlEb2FLdl93?oc=5",
+"source": "Google News – AI funding",
+"category": "market",
+"published": "2026-11-24T08:30:23+00:00",
+"summary": "",
+"publisher": "https://ascendants.in/",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
 },
 {
 "id": "f59ecd15217a",
@@ -3626,10 +5313,39 @@
 "published": "2026-11-24T06:28:04+00:00",
 "summary": "203 points, 91 comments on Hacker News",
 "discussion": "https://news.ycombinator.com/item?id=50624487",
-"score": 236,
+"score": 237,
 "companies": [],
 "unverified": true,
 "first_seen": "2026-11-24T11:20:15+00:00"
+},
+{
+"id": "4db14d609269",
+"title": "Anthropic boss Dario Amodei reportedly said video games could be the solution to AI job losses",
+"url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX1FzMWdiY3ZGNVByUmtmdFRGdWwzWmp0VnRvcWtQVlVWQUliVG9ITzVJLVVxUDBJVW1UcWNyQ0xwM0RhWHRCOTdQUG41OWVPLXFOcnRNRUhqVWVLeUxhS0ZwcXhZb2h3ZFpmaXlFcTI1a2N2WUJ4d0o1dzQybGgtUzdVUWRscndDT283S0lLaDVjNmJtWmdtekxWWEhrVFJsdXdObjk4RlB2emVUY2Iyc1dyNHBHWWFpUm9jTWZvekRQTjFnZGVTNTMzcmE2RVhMSWI1T1FESVJ4ZzA?oc=5",
+"source": "Google News – AI rumours",
+"category": "buzz",
+"published": "2026-11-24T06:26:15+00:00",
+"summary": "",
+"publisher": "TweakTown",
+"companies": [
+"Anthropic"
+],
+"unverified": true,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "8ee50572f79b",
+"title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+"url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+"source": "Hacker News",
+"category": "buzz",
+"published": "2026-11-24T06:22:36+00:00",
+"summary": "193 points, 77 comments on Hacker News",
+"discussion": "https://news.ycombinator.com/item?id=50624446",
+"score": 193,
+"companies": [],
+"unverified": true,
+"first_seen": "2026-11-25T22:39:12+00:00"
 },
 {
 "id": "15b1d0f41c2e",
@@ -3773,6 +5489,19 @@
 ],
 "unverified": false,
 "first_seen": "2026-11-24T11:20:15+00:00"
+},
+{
+"id": "67cfa5533f5b",
+"title": "AIVC Raises $112M to Build AI-Native Companies and Transform Enterprises",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GSXZhVGItX1c2N3BNSE5NaEZEeTl4dWtWcGFzakZkSjNGSmRPNHRpZmNtbl9pOHk4ZWJqMWtXZUFYcFl4aFdTMklnanZmSEx1NDVzZmZGM0lzVUdEYkN6YVc0cUVLVmNKZjlUX2FR0gFuQVVfeXFMTUZJdmFUYi1fVzY3cE1ITk1oRkR5OXh1a1ZwYXNqRmRKM0ZKZE80dGlmY21uX2k4eThlYmoxa1dlQVhwWXhoV1MySWdqdmZITHU0NXNmZkYzSXNVR0RiQ3phVzRxRUtWY0pmOVRfYVE?oc=5",
+"source": "Google News – AI funding",
+"category": "market",
+"published": "2026-11-24T05:09:20+00:00",
+"summary": "",
+"publisher": "Ventureburn",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
 },
 {
 "id": "cc9ed72feb4c",
@@ -3959,10 +5688,23 @@
 "published": "2026-11-24T04:00:28+00:00",
 "summary": "98 points, 37 comments on Hacker News",
 "discussion": "https://news.ycombinator.com/item?id=50623515",
-"score": 173,
+"score": 178,
 "companies": [],
 "unverified": true,
 "first_seen": "2026-11-24T11:20:15+00:00"
+},
+{
+"id": "bfc91ce9762d",
+"title": "AI Education Platform goorm Secures Investment at $30 Billion Won Valuation",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kVlByaTBHMlRJQ2U3aUt2MUU5N25HYkxNV0FxVFFfZkFud29FbEJzQ1BxQlBvdFB1MTdwRXkwT1ZEdFJFenZrYmJYZXROMFVOYjM0OElmZ1RZdEVoRmc?oc=5",
+"source": "Google News – AI IPO",
+"category": "market",
+"published": "2026-11-24T04:00:00+00:00",
+"summary": "",
+"publisher": "뉴스톱",
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
 },
 {
 "id": "65e95082d930",
@@ -4031,7 +5773,7 @@
 "published": "2026-11-24T02:36:56+00:00",
 "summary": "102 points, 88 comments on Hacker News",
 "discussion": "https://news.ycombinator.com/item?id=50622854",
-"score": 111,
+"score": 115,
 "companies": [],
 "unverified": true,
 "first_seen": "2026-11-24T23:11:14+00:00"
@@ -4074,7 +5816,7 @@
 "published": "2026-11-24T02:08:09+00:00",
 "summary": "68 points, 70 comments on Hacker News",
 "discussion": "https://news.ycombinator.com/item?id=50622638",
-"score": 364,
+"score": 380,
 "companies": [],
 "unverified": true,
 "first_seen": "2026-11-24T11:20:15+00:00"
@@ -5322,6 +7064,84 @@
 "first_seen": "2026-11-24T01:06:35+00:00"
 },
 {
+"id": "853993777f31",
+"title": "ICLWorld: Benchmarking In-Context Learning of Agents from Digital to Physical Worlds",
+"url": "https://huggingface.co/papers/2611.32649",
+"source": "Hugging Face daily papers",
+"category": "research",
+"published": "2026-11-23T19:00:00+00:00",
+"summary": "An online benchmark evaluates in-context learning across computer-use and robot-use agent tasks, revealing large gaps between digital and physical performance and between recognizing rules and acting on them.",
+"score": 20,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "964abff5bf4e",
+"title": "SpecEngineeringBench: Evaluating Coding Agents as Autonomous Specification Engineers",
+"url": "https://huggingface.co/papers/2611.32973",
+"source": "Hugging Face daily papers",
+"category": "research",
+"published": "2026-11-23T19:00:00+00:00",
+"summary": "Autonomous specification engineering requires coding agents to translate functional requirements into executable tests and use the results to discover and validate defects. However, existing benchmarks evaluate coding agents on explicitly specified test generation tasks…",
+"score": 10,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "e510b5e93646",
+"title": "Distill to Loop: Turning Pretrained Diffusion Transformers into Looped Models with Adjustable Depth",
+"url": "https://huggingface.co/papers/2611.31977",
+"source": "Hugging Face daily papers",
+"category": "research",
+"published": "2026-11-23T19:00:00+00:00",
+"summary": "A pretrained diffusion transformer is distilled into a weight-shared looped student that supports variable loop counts at inference and uses depth-wise ODE solvers and loop guidance to match teacher quality with fewer parameters and less compute.",
+"score": 4,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "1729f775f618",
+"title": "Separating Measurement Failures from Defence Failures in Split Language-Model Privacy",
+"url": "https://huggingface.co/papers/2611.31752",
+"source": "Hugging Face daily papers",
+"category": "research",
+"published": "2026-11-23T19:00:00+00:00",
+"summary": "Split-training privacy evaluations fail through distinct mechanisms. Evaluators can overlook an exposed gradient channel, align reconstructions against shifted labels, or deploy uncalibrated probes before testing a candidate defence, while calibrated attacks can also refute real…",
+"score": 4,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "1f5280f214a6",
+"title": "GRAPE-Bench: When Vision Degrades, Does Video Reasoning Hold?",
+"url": "https://huggingface.co/papers/2611.33020",
+"source": "Hugging Face daily papers",
+"category": "research",
+"published": "2026-11-23T19:00:00+00:00",
+"summary": "GRAPE-Bench jointly evaluates video reasoning under visual degradation and question difficulty, exposing model weaknesses and enabling improvement and control.",
+"score": 4,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "c199f768c423",
+"title": "SpatialArena: Where Do Geometric Foundation Models Stand?",
+"url": "https://huggingface.co/papers/2611.32816",
+"source": "Hugging Face daily papers",
+"category": "research",
+"published": "2026-11-23T19:00:00+00:00",
+"summary": "SpatialArena is an open benchmark that evaluates geometric models across five 3D perception tasks using uniform metrics and robust alignment, revealing that single-image depth is near saturation on public benchmarks but progress now depends on cross-frame and cross-view…",
+"score": 3,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
 "id": "f717d7d51a9f",
 "title": "Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe",
 "url": "https://huggingface.co/papers/2611.32884",
@@ -5329,7 +7149,7 @@
 "category": "research",
 "published": "2026-11-23T19:00:00+00:00",
 "summary": "A reinforcement learning method rewards agents for delaying commitment until their inferred posterior over answers is sufficiently narrow, improving evidence-based answering across vision-language benchmarks.",
-"score": 45,
+"score": 88,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
@@ -5342,7 +7162,7 @@
 "category": "research",
 "published": "2026-11-23T19:00:00+00:00",
 "summary": "A training-free agentic framework integrates pretrained 3D and 2D experts with closed-loop refinement to achieve state-of-the-art 3D part segmentation across multiple benchmarks.",
-"score": 29,
+"score": 33,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
@@ -5355,7 +7175,7 @@
 "category": "research",
 "published": "2026-11-23T19:00:00+00:00",
 "summary": "A new benchmark shows that many robot manipulation policies perform worse when mirrors are present, often because they confuse reflections with real objects rather than simply colliding with the mirror.",
-"score": 25,
+"score": 28,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
@@ -5368,7 +7188,7 @@
 "category": "research",
 "published": "2026-11-23T19:00:00+00:00",
 "summary": "A two-stage training approach uses visual pretext tasks to generate interleaved image-text reasoning traces and automatically built demonstrations, improving multimodal reasoning over instruction tuning alone.",
-"score": 19,
+"score": 21,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
@@ -5381,7 +7201,7 @@
 "category": "research",
 "published": "2026-11-23T19:00:00+00:00",
 "summary": "Fine-tuning a generator on a complete high-resolution canvas requires long image sequences and substantial computation, yet local regions can still exhibit unnatural repetitive stripes when training resources are limited. We introduce Qwen-Image-HD, which adapts Qwen-Image 2.0…",
-"score": 16,
+"score": 19,
 "companies": [
 "Alibaba"
 ],
@@ -5409,7 +7229,7 @@
 "category": "research",
 "published": "2026-11-23T19:00:00+00:00",
 "summary": "Multi-reference image generation requires a model to preserve the appearance of selected subjects while arranging them according to an instruction. Despite recent progress in reference-based generation and compositional control, reliably organizing selected subjects into the…",
-"score": 12,
+"score": 13,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
@@ -5422,7 +7242,7 @@
 "category": "research",
 "published": "2026-11-23T19:00:00+00:00",
 "summary": "We present VenusOCR2.0, a compact 1B-parameter vision-language recognizer designed for both high-accuracy and high-throughput document parsing across text, tables, and formulas. To continuously improve recognition quality without self-training collapse, we build a bounded…",
-"score": 7,
+"score": 9,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
@@ -5435,7 +7255,7 @@
 "category": "research",
 "published": "2026-11-23T19:00:00+00:00",
 "summary": "Residual Guidance is a training-free method that counteracts context inertia in streaming video generation by adding a residual from denoising the previous chunk under the new prompt to early denoising steps, improving prompt switching without training or per-model tuning.",
-"score": 6,
+"score": 8,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
@@ -5448,7 +7268,7 @@
 "category": "research",
 "published": "2026-11-23T19:00:00+00:00",
 "summary": "LoopDVR converts pretrained Transformer-based dense visual recognition models into parameter-efficient looped networks by selectively reusing Transformer blocks with adapters, reducing parameters while preserving accuracy.",
-"score": 6,
+"score": 9,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
@@ -5461,7 +7281,7 @@
 "category": "research",
 "published": "2026-11-23T19:00:00+00:00",
 "summary": "Games, especially modern AAA games, challenge language models to perceive complex scenes, control actions, and make decisions over long horizons. Existing game benchmarks primarily test language models as computer-use agents that query a language model throughout play, incurring…",
-"score": 5,
+"score": 10,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
@@ -6585,7 +8405,7 @@
 "published": "2026-11-23T13:42:38+00:00",
 "summary": "120 points, 24 comments on Hacker News",
 "discussion": "https://news.ycombinator.com/item?id=50611402",
-"score": 117,
+"score": 127,
 "companies": [
 "Alibaba"
 ],
@@ -7177,6 +8997,19 @@
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-23T09:25:12+00:00"
+},
+{
+"id": "9d5ba7119b15",
+"title": "baidu/ERNIE-5.5-Flash-Preview",
+"url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
+"source": "Hugging Face trending models",
+"category": "tools",
+"published": "2026-11-23T09:00:29+00:00",
+"summary": "Trending text generation on Hugging Face, 302 likes, 1,193 downloads",
+"score": 95,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
 },
 {
 "id": "293adb1dc29e",
@@ -7931,7 +9764,7 @@
 "category": "tools",
 "published": "2026-11-23T05:14:32+00:00",
 "summary": "Trending text generation on Hugging Face, 169 likes, 5,446 downloads",
-"score": 97.3,
+"score": 107.1,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
@@ -8073,7 +9906,7 @@
 "category": "tools",
 "published": "2026-11-23T03:55:12+00:00",
 "summary": "Trending model on Hugging Face, 101 likes, 0 downloads",
-"score": 165,
+"score": 174,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-24T01:06:35+00:00"
@@ -8803,6 +10636,32 @@
 "first_seen": "2026-11-22T20:26:00+00:00"
 },
 {
+"id": "5f2128d111ed",
+"title": "Nemotron-Labs-VisualCreation: Pixel as Code for Agentic Visual Creation",
+"url": "https://huggingface.co/papers/2611.31358",
+"source": "Hugging Face daily papers",
+"category": "research",
+"published": "2026-11-22T19:00:00+00:00",
+"summary": "Visual creation demands expressive imagery together with precise control over text, layout, and structure. We introduce Nemotron-Labs-VisualCreation, an agentic framework that connects these capabilities through Pixel as Code. Raster images are represented by learned discrete…",
+"score": 80,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
+"id": "a3d2c072423a",
+"title": "AdProducer: Towards Agentic Advertising Video Generation",
+"url": "https://huggingface.co/papers/2611.31466",
+"source": "Hugging Face daily papers",
+"category": "research",
+"published": "2026-11-22T19:00:00+00:00",
+"summary": "An end-to-end multimodal agent framework autonomously researches products and creates selling-point-driven storyboards to guide a frozen video generator, trained via supervised fine-tuning and reinforcement learning to produce effective advertising videos.",
+"score": 4,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
 "id": "6d4a47c2eb45",
 "title": "Rewirable Circuits in Transformers with Loom Attention",
 "url": "https://huggingface.co/papers/2611.30634",
@@ -8836,7 +10695,7 @@
 "category": "research",
 "published": "2026-11-22T19:00:00+00:00",
 "summary": "CUA-SEE is a closed-loop evaluation environment that co-evolves tasks and executable verifiers to adaptively measure computer-use agents’ capabilities, boundaries, and progress reliability.",
-"score": 34,
+"score": 45,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
@@ -8862,7 +10721,7 @@
 "category": "research",
 "published": "2026-11-22T19:00:00+00:00",
 "summary": "Modern visual generative models operate on tokens, and every visual asset they receive, whether an identity, a scribble, a depth map, or a motion video, is tokenized and appended to the input token sequence. Consequently, conditioning quickly dominates the computation cost. Yet…",
-"score": 8,
+"score": 11,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
@@ -9344,7 +11203,7 @@
 "category": "tools",
 "published": "2026-11-22T16:44:10+00:00",
 "summary": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups. (493 stars)",
-"score": 656,
+"score": 702,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-24T01:06:35+00:00"
@@ -10333,7 +12192,7 @@
 "published": "2026-11-22T04:10:09+00:00",
 "summary": "168 points, 128 comments on Hacker News",
 "discussion": "https://news.ycombinator.com/item?id=50596155",
-"score": 3770,
+"score": 3936,
 "companies": [],
 "unverified": true,
 "first_seen": "2026-11-22T20:26:00+00:00"
@@ -10754,7 +12613,7 @@
 "category": "tools",
 "published": "2026-11-21T20:26:12+00:00",
 "summary": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim. (544 stars)",
-"score": 577,
+"score": 596,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-24T23:11:14+00:00"
@@ -10835,7 +12694,7 @@
 "category": "research",
 "published": "2026-11-21T19:00:00+00:00",
 "summary": "Understanding a scene requires both geometry and semantics: geometry recovers its spatial structure, and semantics separates it into objects. Current models obtain the two from separate networks or separate passes. We present PINE, a one-step Omni Diffusion Transformer that…",
-"score": 5,
+"score": 6,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
@@ -10874,7 +12733,7 @@
 "category": "tools",
 "published": "2026-11-21T18:46:06+00:00",
 "summary": "Trending image text to text on Hugging Face, 102 likes, 2,149 downloads",
-"score": 106,
+"score": 116,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-24T11:20:15+00:00"
@@ -12080,7 +13939,7 @@
 "category": "tools",
 "published": "2026-11-21T06:54:24+00:00",
 "summary": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi. (504 stars)",
-"score": 574,
+"score": 591,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-24T01:06:35+00:00"
@@ -12980,7 +14839,7 @@
 "category": "tools",
 "published": "2026-11-20T20:42:23+00:00",
 "summary": "Trending image text to text on Hugging Face, 181 likes, 9,540 downloads",
-"score": 453.59999999999997,
+"score": 464.79999999999995,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-21T20:11:58+00:00"
@@ -14442,7 +16301,7 @@
 "category": "tools",
 "published": "2026-11-20T13:09:48+00:00",
 "summary": "Trending image text to text on Hugging Face, 331 likes, 0 downloads",
-"score": 1127,
+"score": 1147,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-21T08:31:02+00:00"
@@ -15252,7 +17111,7 @@
 "category": "tools",
 "published": "2026-11-20T09:01:10+00:00",
 "summary": "Trending text generation on Hugging Face, 111 likes, 272 downloads",
-"score": 106,
+"score": 115,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-24T23:11:14+00:00"
@@ -17101,6 +18960,19 @@
 ],
 "unverified": false,
 "first_seen": "2026-11-19T21:43:21+00:00"
+},
+{
+"id": "bac0ca0a625e",
+"title": "Mega-MMDF and DeepfakeBench-MM: Benchmarking Multimodal Deepfake Detection Across Diverse Forgery Pipelines",
+"url": "https://huggingface.co/papers/2510.22622",
+"source": "Hugging Face daily papers",
+"category": "research",
+"published": "2026-11-19T19:00:00+00:00",
+"summary": "A large audio-visual deepfake benchmark and standardized evaluation suite show that diverse composite-forgery training improves detection performance but does not reliably generalize to constituent manipulations, while modality masking and temporal misalignment increase…",
+"score": 8,
+"companies": [],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
 },
 {
 "id": "3a487cb157f7",
@@ -20250,7 +22122,7 @@
 "category": "tools",
 "published": "2026-11-19T04:30:30+00:00",
 "summary": "Trending text generation on Hugging Face, 113 likes, 397 downloads",
-"score": 125,
+"score": 134,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-24T01:06:35+00:00"
@@ -21423,7 +23295,7 @@
 "category": "research",
 "published": "2026-11-18T19:00:00+00:00",
 "summary": "As medical AI is increasingly used for patient consultation and clinical decision support, identifying harmful, non-compliant, or ethically problematic responses is essential for responsible deployment. Assessing these risks requires checking clinical claims against relevant…",
-"score": 31,
+"score": 34,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-25T10:05:10+00:00"
@@ -24243,7 +26115,7 @@
 "category": "tools",
 "published": "2026-11-18T05:31:35+00:00",
 "summary": "Trending image text to text on Hugging Face, 264 likes, 1,375 downloads",
-"score": 115,
+"score": 101.5,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-21T20:11:58+00:00"
@@ -28146,7 +30018,7 @@
 "category": "tools",
 "published": "2026-11-17T07:42:18+00:00",
 "summary": "探索人与 AI 的最佳协作方式 · Exploring the best way for people and AI to work together. DSH-projects is an open-source plugin for DeepSeek Harness: state a goal in one sentence, it asks what is unclear, runs the tasks in parallel, and brings finished work back to you. (452 stars)",
-"score": 469,
+"score": 488,
 "companies": [
 "DeepSeek"
 ],
@@ -28829,7 +30701,7 @@
 "category": "tools",
 "published": "2026-11-17T02:25:25+00:00",
 "summary": "Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion. (470 stars)",
-"score": 516,
+"score": 544,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-24T23:11:14+00:00"
@@ -28996,7 +30868,7 @@
 "category": "tools",
 "published": "2026-11-17T00:26:57+00:00",
 "summary": "Trending image text to text on Hugging Face, 143 likes, 136 downloads",
-"score": 1277,
+"score": 1315.5,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-20T21:24:19+00:00"
@@ -29924,7 +31796,7 @@
 "category": "tools",
 "published": "2026-11-16T19:11:44+00:00",
 "summary": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs (998 stars)",
-"score": 2025,
+"score": 2290,
 "companies": [
 "Anthropic"
 ],
@@ -30497,7 +32369,7 @@
 "category": "tools",
 "published": "2026-11-16T18:40:04+00:00",
 "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization (883 stars)",
-"score": 2640,
+"score": 2692,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-17T21:51:11+00:00"
@@ -30812,7 +32684,7 @@
 "category": "tools",
 "published": "2026-11-16T17:21:04+00:00",
 "summary": "Trending text to video on Hugging Face, 116 likes, 0 downloads",
-"score": 138.5,
+"score": 106,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-18T08:48:26+00:00"
@@ -31361,7 +33233,7 @@
 "category": "tools",
 "published": "2026-11-16T15:09:46+00:00",
 "summary": "31 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT. (505 stars)",
-"score": 853,
+"score": 856,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-17T21:51:11+00:00"
@@ -32796,7 +34668,7 @@
 "category": "tools",
 "published": "2026-11-16T06:52:31+00:00",
 "summary": "Trending image text to text on Hugging Face, 221 likes, 0 downloads",
-"score": 255,
+"score": 189.5,
 "companies": [
 "Alibaba"
 ],
@@ -34922,7 +36794,7 @@
 "category": "tools",
 "published": "2026-11-15T16:46:07+00:00",
 "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (475 stars)",
-"score": 464,
+"score": 451,
 "companies": [
 "Google"
 ],
@@ -34982,7 +36854,7 @@
 "category": "tools",
 "published": "2026-11-15T16:46:04+00:00",
 "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (473 stars)",
-"score": 452,
+"score": 451,
 "companies": [
 "Google"
 ],
@@ -35012,7 +36884,7 @@
 "category": "tools",
 "published": "2026-11-15T16:46:04+00:00",
 "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (475 stars)",
-"score": 464,
+"score": 451,
 "companies": [
 "Google"
 ],
@@ -38161,7 +40033,7 @@
 "category": "tools",
 "published": "2026-11-14T09:48:23+00:00",
 "summary": "Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI. (567 stars)",
-"score": 852,
+"score": 878,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-20T21:24:19+00:00"
@@ -39114,7 +40986,7 @@
 "category": "tools",
 "published": "2026-11-14T02:14:35+00:00",
 "summary": "Trending audio to audio on Hugging Face, 132 likes, 0 downloads",
-"score": 652,
+"score": 638,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-19T09:02:52+00:00"
@@ -41702,6 +43574,21 @@
 "first_seen": "2026-11-13T20:35:28+00:00"
 },
 {
+"id": "de37ba9f4e66",
+"title": "opensetlabs/openset-llm",
+"url": "https://github.com/opensetlabs/openset-llm",
+"source": "GitHub – new AI repos",
+"category": "tools",
+"published": "2026-11-13T12:45:59+00:00",
+"summary": "Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server. (722 stars)",
+"score": 722,
+"companies": [
+"OpenAI"
+],
+"unverified": false,
+"first_seen": "2026-11-25T22:39:12+00:00"
+},
+{
 "id": "f158c72047e3",
 "title": "Google adds multi-model Orchestrator, Gemini 4 Hydrogen, to Antigravity",
 "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTVduaDJ1NnpWRDhmcDlmSVVlTFRUT2J0TXFXcWotcEJyT0pMS3dtd0hJOWdYT25ueUV5c1VWNDA0QUk5WURiaFcxSEUtYVkyV09GRjMyMnh2WWh5NEwwdkxvZHB5RFJtYmlSY0FjZW9PbEdVSDQ2VkRSZ3FEMzVHem9YNmxiYXNyV3EtbnVaaTd0T2hiTVpVb3BxOGVrS25ZZDhlOElyYWNReFhWLURHc1I4d0JHVUU?oc=5",
@@ -42624,7 +44511,7 @@
 "category": "tools",
 "published": "2026-11-13T06:56:52+00:00",
 "summary": "A Chinese-first small language model built from scratch: open 60B-token dataset, tokenizer, mHC + Engram + MoE model, pretraining through RL, all in PyTorch. 从零做中文小模型，数据和代码全部开源 (465 stars)",
-"score": 484,
+"score": 488,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-24T11:20:15+00:00"
@@ -43574,7 +45461,7 @@
 "category": "tools",
 "published": "2026-11-12T23:19:42+00:00",
 "summary": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them. (248 stars)",
-"score": 555,
+"score": 557,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-14T07:47:30+00:00"
@@ -46586,7 +48473,7 @@
 "category": "tools",
 "published": "2026-11-12T11:05:59+00:00",
 "summary": "Trending audio to audio on Hugging Face, 220 likes, 1,262 downloads",
-"score": 215.5,
+"score": 176,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-14T18:48:11+00:00"
@@ -47569,7 +49456,7 @@
 "category": "tools",
 "published": "2026-11-12T02:29:31+00:00",
 "summary": "AI trading agents for US stocks with news backtesting that can't see the future: a public LLM trading agent leaderboard (rta-bench-1), frozen point-in-time 2020/2022/2026 markets (prices, VIX, news), a look-ahead check on every run, LLM agents over MCP, and paper/live trading on…",
-"score": 478,
+"score": 480,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-24T01:06:35+00:00"
@@ -52194,7 +54081,7 @@
 "category": "tools",
 "published": "2026-11-03T21:44:40+00:00",
 "summary": "Trending image to text on Hugging Face, 151 likes, 0 downloads",
-"score": 168,
+"score": 187,
 "companies": [
 "Meta"
 ],
@@ -52310,7 +54197,7 @@
 "category": "tools",
 "published": "2026-11-03T16:55:03+00:00",
 "summary": "Trending depth estimation on Hugging Face, 113 likes, 0 downloads",
-"score": 197,
+"score": 202,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-20T21:24:19+00:00"
@@ -52710,7 +54597,7 @@
 "category": "tools",
 "published": "2026-10-31T20:31:01+00:00",
 "summary": "Trending model on Hugging Face, 717 likes, 1,186 downloads",
-"score": 297,
+"score": 354,
 "companies": [],
 "unverified": false,
 "first_seen": "2026-11-22T08:26:23+00:00"
@@ -53307,17 +55194,5 @@
 ],
 "unverified": false,
 "first_seen": "2026-11-12T18:02:03+00:00"
-},
-{
-"id": "188e9fbc4643",
-"title": "Our newest AI Quest: Mapping the human brain",
-"url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-"source": "Google Keyword – AI",
-"category": "official",
-"published": "2026-10-26T16:00:00+00:00",
-"summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
-"companies": [],
-"unverified": false,
-"first_seen": "2026-11-12T18:27:54+00:00"
 }
 ]

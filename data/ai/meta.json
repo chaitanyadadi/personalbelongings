@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T22:39:12+00:00",
- "item_count": 3995,
+ "updated": "2026-11-26T09:48:32+00:00",
+ "item_count": 4112,
  "stocks": [
   {
    "ticker": "NVDA",
@@ -367,6 +367,19 @@
   }
  ],
  "editions": [
+  {
+   "at": "2026-11-26T09:48:32+00:00",
+   "new_count": 123,
+   "by_category": {
+    "official": 1,
+    "news": 49,
+    "buzz": 9,
+    "research": 48,
+    "tools": 3,
+    "market": 13
+   },
+   "brief": null
+  },
   {
    "at": "2026-11-25T22:39:12+00:00",
    "new_count": 136,

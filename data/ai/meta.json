@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T09:48:32+00:00",
- "item_count": 4112,
+ "updated": "2026-11-26T22:29:21+00:00",
+ "item_count": 4219,
  "stocks": [
   {
    "ticker": "NVDA",
@@ -367,6 +367,19 @@
   }
  ],
  "editions": [
+  {
+   "at": "2026-11-26T22:29:21+00:00",
+   "new_count": 109,
+   "by_category": {
+    "official": 3,
+    "news": 53,
+    "buzz": 21,
+    "research": 9,
+    "tools": 3,
+    "market": 20
+   },
+   "brief": null
+  },
   {
    "at": "2026-11-26T09:48:32+00:00",
    "new_count": 123,
@@ -983,7 +996,7 @@
    "name": "Google News – AI IPO",
    "category": "market",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "name": "Crunchbase News AI",

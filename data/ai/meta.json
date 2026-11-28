@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T22:13:10+00:00",
- "item_count": 4392,
+ "updated": "2026-11-28T09:06:46+00:00",
+ "item_count": 4459,
  "stocks": [
   {
    "ticker": "NVDA",
@@ -356,6 +356,19 @@
   }
  ],
  "editions": [
+  {
+   "at": "2026-11-28T09:06:46+00:00",
+   "new_count": 74,
+   "by_category": {
+    "official": 0,
+    "news": 54,
+    "buzz": 8,
+    "research": 1,
+    "tools": 0,
+    "market": 11
+   },
+   "brief": null
+  },
   {
    "at": "2026-11-27T22:13:10+00:00",
    "new_count": 96,
@@ -963,7 +976,7 @@
    "name": "Google News – AI rumours",
    "category": "buzz",
    "ok": true,
-   "count": 22
+   "count": 20
   },
   {
    "name": "Hugging Face daily papers",
